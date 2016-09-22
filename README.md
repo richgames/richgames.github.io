@@ -1,1 +1,1 @@
-# Rich Games site based on Poole using Jekyll
+# Shop site based on Poole using Jekyll

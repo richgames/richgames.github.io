@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Rich Games</title>
- <link href="http://shop.lizlam.com/atom.xml" rel="self"/>
- <link href="http://shop.lizlam.com/"/>
- <updated>2016-10-12T22:11:40-07:00</updated>
- <id>http://shop.lizlam.com</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2016-10-15T00:23:27-07:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Liz Lam</name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>How to Play Fetlar Hnefatafl</title>
-   <link href="http://shop.lizlam.com/2016/10/12/how-to-play-fetlar-hnefatafl/"/>
+   <link href="http://localhost:4000/2016/10/12/how-to-play-fetlar-hnefatafl/"/>
    <updated>2016-10-12T00:00:00-07:00</updated>
-   <id>http://shop.lizlam.com/2016/10/12/how-to-play-fetlar-hnefatafl</id>
+   <id>http://localhost:4000/2016/10/12/how-to-play-fetlar-hnefatafl</id>
    <content type="html">&lt;p&gt;The Fetlar rule variant is a common and popular way to play hnefatafl on a 11x11 board. There are 37 total pieces,
 24 attackers, 12 defenders and 1 king.&lt;/p&gt;
 
@@ -57,9 +57,9 @@ The attacker pieces surround the defenders along the perimeter of the board.&lt;
  
  <entry>
    <title>A Review of The Lewis Chessmen Unmasked</title>
-   <link href="http://shop.lizlam.com/2016/10/07/lewis-chessmen-unmasked-review/"/>
+   <link href="http://localhost:4000/2016/10/07/lewis-chessmen-unmasked-review/"/>
    <updated>2016-10-07T00:00:00-07:00</updated>
-   <id>http://shop.lizlam.com/2016/10/07/lewis-chessmen-unmasked-review</id>
+   <id>http://localhost:4000/2016/10/07/lewis-chessmen-unmasked-review</id>
    <content type="html">&lt;p&gt;Any fascination with the ancient game of hnefatafl will eventually lead to the Lewis Chessmen.  The most commercially available set, &lt;a href=&quot;http://tafl.cyningstan.com/stock/1242/the-viking-game&quot;&gt;The Viking Game&lt;/a&gt; uses pieces inspired by them. The more motivated enthusiast have used them in DIY sets and their Norse origin is undeniable.  There are a ton of books out there about the Lewis Chessmen. The British Museum and the National Museum of Scotland put on a joint exhibition (not all the pieces belong to one museum) in 2010. &lt;em&gt;The Lewis Chessmen: Unmasked&lt;/em&gt; by David Caldwell is the companion book to that exhibition.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.britishmuseum.org/about_us/news_and_press/statements/the_lewis_chessmen.aspx&quot;&gt;The Lewis Chessmen&lt;/a&gt; is a collection of chess pieces dating back to the 12th century.  They were found accidentally in the
@@ -74,10 +74,10 @@ Though it is a pale substitute for viewing the chessmen in real life, it does a 
  
  <entry>
    <title>How to Play Tablut</title>
-   <link href="http://shop.lizlam.com/2016/09/25/how-to-play-tablut/"/>
+   <link href="http://localhost:4000/2016/09/25/how-to-play-tablut/"/>
    <updated>2016-09-25T00:00:00-07:00</updated>
-   <id>http://shop.lizlam.com/2016/09/25/how-to-play-tablut</id>
-   <content type="html">&lt;p&gt;Tablut is played on a 9x9 board with a total 25 pieces.  This includes 16 attackers, 8 defenders and 1 king.
+   <id>http://localhost:4000/2016/09/25/how-to-play-tablut</id>
+   <content type="html">&lt;p&gt;Tablut is played on a 9x9 board with a total 25 of pieces.  This includes 16 attackers, 8 defenders and 1 king.
 It was played in Lapland as late as the 18th century and is the most documented hnefatafl game thanks to Swedish botanist Carl Linneaus.  In 1732, while touring the area he came across the game played by the locals and &lt;a href=&quot;https://archive.org/stream/ungdomsskrifter02linne#page/n155/mode/2up&quot;&gt;described it in his diary&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;step-1-arrange-the-pieces&quot;&gt;Step 1: Arrange the Pieces&lt;/h2&gt;
@@ -120,9 +120,9 @@ The attacker pieces surround the defenders making a cross symbol.&lt;/p&gt;
  
  <entry>
    <title>How to Play Brandub</title>
-   <link href="http://shop.lizlam.com/2016/09/20/how-to-play-brandub/"/>
+   <link href="http://localhost:4000/2016/09/20/how-to-play-brandub/"/>
    <updated>2016-09-20T00:00:00-07:00</updated>
-   <id>http://shop.lizlam.com/2016/09/20/how-to-play-brandub</id>
+   <id>http://localhost:4000/2016/09/20/how-to-play-brandub</id>
    <content type="html">&lt;p&gt;Brandub is an Irish variant of hnefatafl.  It is played on a 7x7 board with 13 pieces.
 Although it is the tiny sibling of all the hnefatafl games, it is just as fun and strategic.&lt;/p&gt;
 
@@ -145,11 +145,15 @@ The attacker pieces surround the defenders making a cross symbol.&lt;/p&gt;
   &lt;li&gt;Only the king piece can go to the corner squares or central square.&lt;/li&gt;
   &lt;li&gt;Once the king leaves the central square, he can’t go back.&lt;/li&gt;
   &lt;li&gt;Other pieces can pass through the central square after the king leaves but can’t stop there (think freeway with no exit).&lt;/li&gt;
-  &lt;li&gt;Capture pieces by surrounding the other player’s piece on two sides either horizontally or vertically (not diagonally).&lt;/li&gt;
-  &lt;li&gt;You can voluntarily enter a space between two enemies and not be captured.&lt;/li&gt;
+  &lt;li&gt;Capture pieces by surrounding the other player’s piece on two sides either horizontally or vertically (not diagonally).
+&lt;img src=&quot;/assets/120px-Tafl_normal_capture.png&quot; alt=&quot;Normal Capture&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;You can voluntarily enter a space between two enemies and not be captured.
+&lt;img src=&quot;/assets/120px-Tafl_volunteer.png&quot; alt=&quot;Voluntarily enter between two enemies&quot; /&gt;&lt;/li&gt;
   &lt;li&gt;You can capture pieces against the central square and corner squares as though your piece is on it.&lt;/li&gt;
-  &lt;li&gt;If the king is in the central square, attackers needs to surround him on 4 sides to capture.&lt;/li&gt;
-  &lt;li&gt;If the king is next to the central square, attackers needs to surround him on 3 sides to capture.&lt;/li&gt;
+  &lt;li&gt;If the king is in the central square, attackers needs to surround him on 4 sides to capture.
+&lt;img src=&quot;/assets/120px-Tafl_king_capture_4_sides.png&quot; alt=&quot;Capture on 4 sides&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;If the king is next to the central square, attackers needs to surround him on 3 sides to capture.
+&lt;img src=&quot;/assets/120px-Tafl_king_capture_3_sides.png&quot; alt=&quot;Capture on 3 sides&quot; /&gt;&lt;/li&gt;
   &lt;li&gt;If the king is anywhere else on the board he is captured like any other piece.&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -166,9 +170,9 @@ The attacker pieces surround the defenders making a cross symbol.&lt;/p&gt;
  
  <entry>
    <title>What is Hnefatafl?</title>
-   <link href="http://shop.lizlam.com/2016/09/19/what-is-hnefatafl/"/>
+   <link href="http://localhost:4000/2016/09/19/what-is-hnefatafl/"/>
    <updated>2016-09-19T00:00:00-07:00</updated>
-   <id>http://shop.lizlam.com/2016/09/19/what-is-hnefatafl</id>
+   <id>http://localhost:4000/2016/09/19/what-is-hnefatafl</id>
    <content type="html">&lt;p&gt;Besides it’s somewhat unfortunate name, hnefatafl (pronounced “neffa-taffle”) is a wonderful ancient game the Vikings played.  Commonly thought
 to be a predecessor of chess, it is much simpler but just as addicting.  Originally from
 Scandanavia, as the Vikings migrated (a.k.a. raided other regions) they brought hnefatafl with
@@ -199,50 +203,26 @@ Hnefatafl is not a game most people know about.  But it’s certainly a game tha
  </entry>
  
  <entry>
-   <title>Basic Brandub II</title>
-   <link href="http://shop.lizlam.com/2016/09/18/brandub-design2/"/>
+   <title>Basic Brandub</title>
+   <link href="http://localhost:4000/2016/09/18/basic-brandub/"/>
    <updated>2016-09-18T00:00:00-07:00</updated>
-   <id>http://shop.lizlam.com/2016/09/18/brandub-design2</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/brandub-design2.jpg&quot; alt=&quot;Brandub Design 2&quot; /&gt;&lt;/p&gt;
+   <id>http://localhost:4000/2016/09/18/basic-brandub</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/brandub-product.jpg&quot; alt=&quot;Brandub&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Brandub is an Irish variant of the ancient Viking game of hnefatafl.&lt;/p&gt;
+&lt;p&gt;Brandub is the Irish variant of the ancient Viking game of hnefatafl.&lt;/p&gt;
 
-&lt;p&gt;This board is hand-made using 8 inch square plywood that is 1/8 inch thick.  The pattern is
-burned into the wood using the pyrography technique.  The board is then further decorated by emphasizing squares 
-using an all natural coffee stain.
-Included is a set of glass gems, 8 clear attackers, 4 black defenders and
-a red king.&lt;/p&gt;
+&lt;p&gt;This board is hand-made using 8 inch square plywood that is 3/8 inch thick.  The pattern is
+burned into the wood using the pyrography technique. 
+Included is a set of glass gems, 8 black attackers, 4 red defenders and
+a hand-casted resin king.&lt;/p&gt;
 
 &lt;p&gt;As with many hand-made products, no two boards are alike.  There may be minor irregularities that gives
 each set a unique rustic character.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;WARNING: CHOKING HAZARD - This product contains small parts and is not suitable for children.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;$12 (plus shipping)&lt;/p&gt;
-
-</content>
- </entry>
- 
- <entry>
-   <title>Basic Brandub</title>
-   <link href="http://shop.lizlam.com/2016/09/11/brandub-design1/"/>
-   <updated>2016-09-11T00:00:00-07:00</updated>
-   <id>http://shop.lizlam.com/2016/09/11/brandub-design1</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/brandub-design1.jpg&quot; alt=&quot;Brandub Design 1&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Brandub is an Irish variant of the ancient Viking game of hnefatafl.&lt;/p&gt;
-
-&lt;p&gt;This board is hand-made using 8 inch square plywood that is 1/8 inch thick.  The pattern is
-burned into the wood using the pyrography technique.  The center and corner squares are stained
-for emphasis using 2 layers of coffee.  Included is a set of wooden tokens, 8 white attackers, 4 red defenders and
-a black king.&lt;/p&gt;
-
-&lt;p&gt;As with many hand-made products, no two boards are alike.  There may be minor irregularities that gives
-each set a unique rustic character.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;WARNING: CHOKING HAZARD&lt;/em&gt; - This product contains small parts and is not suitable for children.&lt;/p&gt;
-
-&lt;p&gt;$12 (plus shipping)&lt;/p&gt;
+&lt;p&gt;$15 (plus shipping)  &lt;br /&gt;
+Available for &lt;a href=&quot;https://www.etsy.com/listing/485250523/hnefatafl-brandub&quot;&gt;purchase&lt;/a&gt; on Etsy.&lt;/p&gt;
 
 </content>
  </entry>

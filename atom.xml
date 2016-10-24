@@ -4,7 +4,7 @@
  <title>Rich Games</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2016-10-15T00:23:27-07:00</updated>
+ <updated>2016-10-24T11:07:18-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Liz Lam</name>
@@ -39,6 +39,7 @@ The attacker pieces surround the defenders along the perimeter of the board.&lt;
   &lt;li&gt;Only the king piece can go to the corner squares or central square.&lt;/li&gt;
   &lt;li&gt;Other pieces can pass through the central square after the king leaves but can’t stop there (think freeway with no exit).&lt;/li&gt;
   &lt;li&gt;Capture pieces by surrounding the other player’s piece on two sides either horizontally or vertically (not diagonally).&lt;/li&gt;
+  &lt;li&gt;You can capture 3 pieces at most with 1 move.&lt;/li&gt;
   &lt;li&gt;You can capture pieces against the central square and corner squares as though your piece is on it.&lt;/li&gt;
   &lt;li&gt;The king is special, attackers needs to surround him on 4 sides to capture.&lt;/li&gt;
   &lt;li&gt;If the king is next to the central square, attackers needs to surround him on 3 sides to capture.&lt;/li&gt;
@@ -48,7 +49,7 @@ The attacker pieces surround the defenders along the perimeter of the board.&lt;
 &lt;strong&gt;The attacker wins by capturing the king.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;step-3-switch&quot;&gt;Step 3: Switch&lt;/h2&gt;
-&lt;p&gt;After the first game switch sides and play again.&lt;/p&gt;
+&lt;p&gt;After the first game switch sides and play again.  This is not really a step in the Fetlar rules as much as it’s a good chance to play both sides.&lt;/p&gt;
 
 &lt;p&gt;Generally speaking, most people feel that it’s easier to win as the defender.  This is one of the characteristics of hnefatafl games due to it’s asymmetrical nature.  The strategies of a defender is more long term.  Not to worry, as each player gets better the game becomes more balanced.&lt;/p&gt;
 

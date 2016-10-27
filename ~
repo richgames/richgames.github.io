@@ -1,0 +1,13 @@
+---
+layout: page
+title: Products
+---
+
+## Blog posts disguised as product pages
+{% for post in site.posts %}
+  * ## [ {{ post.title}} ]({{ post.url }}) &raquo; 
+    <img src="
+      /assets/{{ post.img }}
+    ">
+    {{ post.summary }}
+{% endfor %}

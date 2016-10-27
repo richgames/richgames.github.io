@@ -1,0 +1,36 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Rich Games 
+tagline:             for the family 
+url:                 http://shop.lizlam.com
+paginate:            1
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Liz Lam
+  url:               https://twitter.com/p4liz
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/poole/poole
+
+pages_list:
+  About: '/about'
+  Products: '/products'
+  Archive: '/archive'
+  FAQ: '/FAQ'
+
+gems: [jekyll-paginate]

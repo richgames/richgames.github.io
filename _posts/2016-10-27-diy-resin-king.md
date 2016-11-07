@@ -4,7 +4,7 @@ layout: post
 comments: True
 ---
 
-One of the many enduring qualities of tafl games is the simplicity of the pieces.   No matter what size board or what rule variation (with perhaps the exception of [Berserk Hnefatafl](http://aagenielsen.dk/berserk_rules.php)), a set only need pieces of 3 distinctions: attackers, defenders and a king.  This makes it easier to create your own set.  It is common to see decorative glass gems as hnefatafl pieces.  In the [last post](http://localhost:4000/2016/10/24/diy-brandub/), we started to make a [Basic Brandub](http://localhost:4000/2016/09/18/basic-brandub/) game with these.  Let's upgrade the set a bit with a hand-casted resin king piece. 
+One of the many enduring qualities of tafl games is the simplicity of the pieces.   No matter what size board or what rule variation (with perhaps the exception of [Berserk Hnefatafl](http://aagenielsen.dk/berserk_rules.php)), a set only need pieces of 3 distinctions: attackers, defenders and a king.  This makes it easier to create your own set.  It is common to see decorative glass gems as hnefatafl pieces.  In the [last post](http://www.richgames.xyz/2016/10/24/diy-brandub/), we started to make a [Basic Brandub](http://www.richgames.xyz/2016/09/18/basic-brandub/) game with these.  Let's upgrade the set a bit with a hand-casted resin king piece. 
 
 Tucked away in a drawer, I had an old chess pawn given to me by my best friend in grade school.  I've had this pawn since I was 7 or 8 years old.  It reminds me of my first friendship and being that tafl games are great to play with friends, it was a fitting piece to cast.  Obviously, pick an item that works for you and give your set a personal touch.
 

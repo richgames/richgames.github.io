@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Rich Games</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2016-11-06T22:54:44-08:00</updated>
- <id>http://localhost:4000</id>
+ <link href="http://shop.lizlam.com/atom.xml" rel="self"/>
+ <link href="http://shop.lizlam.com/"/>
+ <updated>2017-01-01T00:12:47-08:00</updated>
+ <id>http://shop.lizlam.com</id>
  <author>
    <name>Liz Lam</name>
    <email></email>
@@ -13,10 +13,51 @@
 
  
  <entry>
+   <title>How to Play Fanorona</title>
+   <link href="http://shop.lizlam.com/2016/12/31/how-to-play-fanorona/"/>
+   <updated>2016-12-31T00:00:00-08:00</updated>
+   <id>http://shop.lizlam.com/2016/12/31/how-to-play-fanorona</id>
+   <content type="html">&lt;p&gt;Fanorona is a game from Madagascar that dates back to 1680.  It is a beautiful game
+played with 44 pieces (22 per player) and has a unique method of capturing.
+The game has experienced a bit of a revival in modern times due to its &lt;a href=&quot;https://www.youtube.com/watch?v=Vn5WIwlYY6Y&quot;&gt;inclusion
+in the Assasin’s Creed&lt;/a&gt; video game.&lt;/p&gt;
+
+&lt;h2 id=&quot;step-1-arrange-the-pieces&quot;&gt;Step 1: Arrange the Pieces&lt;/h2&gt;
+
+&lt;p&gt;Arrange the pieces on the board according to the following layout:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/640px-Fanorona.png&quot; alt=&quot;Fanorona Layout&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;step-2-learn-the-rules&quot;&gt;Step 2: Learn the Rules&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;White starts first.&lt;/li&gt;
+  &lt;li&gt;Pieces move from one point to another along a line.&lt;/li&gt;
+  &lt;li&gt;Capture by moving a piece directly towards a line of enemies (approach).&lt;/li&gt;
+  &lt;li&gt;Capture by moving a piece away from a line of enemies (withdrawal).&lt;/li&gt;
+  &lt;li&gt;Remove captured pieces immediately&lt;/li&gt;
+  &lt;li&gt;Player may continue to capture pieces via approach or withdrawal as long as 
+the enemies are on separate lines.&lt;/li&gt;
+  &lt;li&gt;Player must capture pieces if possible.&lt;/li&gt;
+  &lt;li&gt;Only one capture is allowed on a player’s first move.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Player wins by capturing all the oponents pieces.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;step-3-switch&quot;&gt;Step 3: Switch&lt;/h2&gt;
+&lt;p&gt;After the first game switch sides and play again.&lt;/p&gt;
+
+&lt;p&gt;Fanorona is a really interesting game with a rich history.  Although a derivative of the Moorish
+game alquerque, the unique capturing methods makes it stand solidly on its own.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
    <title>How to Play Sea Battle Tafl</title>
-   <link href="http://localhost:4000/2016/11/06/how-to-play-sea-battle-tafl/"/>
+   <link href="http://shop.lizlam.com/2016/11/06/how-to-play-sea-battle-tafl/"/>
    <updated>2016-11-06T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2016/11/06/how-to-play-sea-battle-tafl</id>
+   <id>http://shop.lizlam.com/2016/11/06/how-to-play-sea-battle-tafl</id>
    <content type="html">&lt;p&gt;Sea Battle Tafl is a modern variation of hnefatafl.  It is played on a 9x9 board with a total 25 of pieces much like &lt;a href=&quot;http://richgames.xyz/2016/09/25/how-to-play-tablut/&quot;&gt;Tablut&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;step-1-arrange-the-pieces&quot;&gt;Step 1: Arrange the Pieces&lt;/h2&gt;
@@ -56,9 +97,9 @@ The attacker/pirate ship pieces surround the defenders making a cross symbol.&lt
  
  <entry>
    <title>Do-It-Yourself: Casting a Resin King</title>
-   <link href="http://localhost:4000/2016/10/27/diy-resin-king/"/>
+   <link href="http://shop.lizlam.com/2016/10/27/diy-resin-king/"/>
    <updated>2016-10-27T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2016/10/27/diy-resin-king</id>
+   <id>http://shop.lizlam.com/2016/10/27/diy-resin-king</id>
    <content type="html">&lt;p&gt;One of the many enduring qualities of tafl games is the simplicity of the pieces.   No matter what size board or what rule variation (with perhaps the exception of &lt;a href=&quot;http://aagenielsen.dk/berserk_rules.php&quot;&gt;Berserk Hnefatafl&lt;/a&gt;), a set only need pieces of 3 distinctions: attackers, defenders and a king.  This makes it easier to create your own set.  It is common to see decorative glass gems as hnefatafl pieces.  In the &lt;a href=&quot;http://www.richgames.xyz/2016/10/24/diy-brandub/&quot;&gt;last post&lt;/a&gt;, we started to make a &lt;a href=&quot;http://www.richgames.xyz/2016/09/18/basic-brandub/&quot;&gt;Basic Brandub&lt;/a&gt; game with these.  Let’s upgrade the set a bit with a hand-casted resin king piece.&lt;/p&gt;
 
 &lt;p&gt;Tucked away in a drawer, I had an old chess pawn given to me by my best friend in grade school.  I’ve had this pawn since I was 7 or 8 years old.  It reminds me of my first friendship and being that tafl games are great to play with friends, it was a fitting piece to cast.  Obviously, pick an item that works for you and give your set a personal touch.&lt;/p&gt;
@@ -80,9 +121,9 @@ The attacker/pirate ship pieces surround the defenders making a cross symbol.&lt
  
  <entry>
    <title>Do-It-Yourself: Make a Brandub Set</title>
-   <link href="http://localhost:4000/2016/10/24/diy-brandub/"/>
+   <link href="http://shop.lizlam.com/2016/10/24/diy-brandub/"/>
    <updated>2016-10-24T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2016/10/24/diy-brandub</id>
+   <id>http://shop.lizlam.com/2016/10/24/diy-brandub</id>
    <content type="html">&lt;p&gt;Making board games can be a fun, creative and sometimes frustrating adventure. There is something wonderful about playing a game with family and friends on something created by your own hands.  This is the first in a series of Do-It-Yourself blog articles on how to do just that and some of the lessons learned in the process. In this first article, we will describe the beginnings steps in making a &lt;a href=&quot;/2016/09/18/basic-brandub/&quot;&gt;Basic Brandub&lt;/a&gt; set.&lt;/p&gt;
 
 &lt;h2 id=&quot;the-board&quot;&gt;The Board&lt;/h2&gt;
@@ -109,9 +150,9 @@ found in hobby stores for decorative purposes.  &lt;a href=&quot;http://www.hobb
  
  <entry>
    <title>How to Play Fetlar Hnefatafl</title>
-   <link href="http://localhost:4000/2016/10/12/how-to-play-fetlar-hnefatafl/"/>
+   <link href="http://shop.lizlam.com/2016/10/12/how-to-play-fetlar-hnefatafl/"/>
    <updated>2016-10-12T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2016/10/12/how-to-play-fetlar-hnefatafl</id>
+   <id>http://shop.lizlam.com/2016/10/12/how-to-play-fetlar-hnefatafl</id>
    <content type="html">&lt;p&gt;The Fetlar rule variant is a common and popular way to play hnefatafl on a 11x11 board. There are 37 total pieces,
 24 attackers, 12 defenders and 1 king.&lt;/p&gt;
 
@@ -153,9 +194,9 @@ The attacker pieces surround the defenders along the perimeter of the board.&lt;
  
  <entry>
    <title>A Review of The Lewis Chessmen Unmasked</title>
-   <link href="http://localhost:4000/2016/10/07/lewis-chessmen-unmasked-review/"/>
+   <link href="http://shop.lizlam.com/2016/10/07/lewis-chessmen-unmasked-review/"/>
    <updated>2016-10-07T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2016/10/07/lewis-chessmen-unmasked-review</id>
+   <id>http://shop.lizlam.com/2016/10/07/lewis-chessmen-unmasked-review</id>
    <content type="html">&lt;p&gt;Any fascination with the ancient game of hnefatafl will eventually lead to the Lewis Chessmen.  The most commercially available set, &lt;a href=&quot;http://tafl.cyningstan.com/stock/1242/the-viking-game&quot;&gt;The Viking Game&lt;/a&gt; uses pieces inspired by them. The more motivated enthusiast have used them in DIY sets and their Norse origin is undeniable.  There are a ton of books out there about the Lewis Chessmen. The British Museum and the National Museum of Scotland put on a joint exhibition (not all the pieces belong to one museum) in 2010. &lt;em&gt;The Lewis Chessmen: Unmasked&lt;/em&gt; by David Caldwell is the companion book to that exhibition.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.britishmuseum.org/about_us/news_and_press/statements/the_lewis_chessmen.aspx&quot;&gt;The Lewis Chessmen&lt;/a&gt; is a collection of chess pieces dating back to the 12th century.  They were found accidentally in the
@@ -170,9 +211,9 @@ Though it is a pale substitute for viewing the chessmen in real life, it does a 
  
  <entry>
    <title>How to Play Tablut</title>
-   <link href="http://localhost:4000/2016/09/25/how-to-play-tablut/"/>
+   <link href="http://shop.lizlam.com/2016/09/25/how-to-play-tablut/"/>
    <updated>2016-09-25T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2016/09/25/how-to-play-tablut</id>
+   <id>http://shop.lizlam.com/2016/09/25/how-to-play-tablut</id>
    <content type="html">&lt;p&gt;Tablut is played on a 9x9 board with a total 25 of pieces.  This includes 16 attackers, 8 defenders and 1 king.
 It was played in Lapland as late as the 18th century and is the most documented hnefatafl game thanks to Swedish botanist Carl Linneaus.  In 1732, while touring the area he came across the game played by the locals and &lt;a href=&quot;https://archive.org/stream/ungdomsskrifter02linne#page/n155/mode/2up&quot;&gt;described it in his diary&lt;/a&gt;.&lt;/p&gt;
 
@@ -216,9 +257,9 @@ The attacker pieces surround the defenders making a cross symbol.&lt;/p&gt;
  
  <entry>
    <title>How to Play Brandub</title>
-   <link href="http://localhost:4000/2016/09/20/how-to-play-brandub/"/>
+   <link href="http://shop.lizlam.com/2016/09/20/how-to-play-brandub/"/>
    <updated>2016-09-20T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2016/09/20/how-to-play-brandub</id>
+   <id>http://shop.lizlam.com/2016/09/20/how-to-play-brandub</id>
    <content type="html">&lt;p&gt;Brandub is an Irish variant of hnefatafl.  It is played on a 7x7 board with 13 pieces.
 Although it is the tiny sibling of all the hnefatafl games, it is just as fun and strategic.&lt;/p&gt;
 
@@ -266,9 +307,9 @@ The attacker pieces surround the defenders making a cross symbol.&lt;/p&gt;
  
  <entry>
    <title>What is Hnefatafl?</title>
-   <link href="http://localhost:4000/2016/09/19/what-is-hnefatafl/"/>
+   <link href="http://shop.lizlam.com/2016/09/19/what-is-hnefatafl/"/>
    <updated>2016-09-19T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2016/09/19/what-is-hnefatafl</id>
+   <id>http://shop.lizlam.com/2016/09/19/what-is-hnefatafl</id>
    <content type="html">&lt;p&gt;Besides it’s somewhat unfortunate name, hnefatafl (pronounced “neffa-taffle”) is a wonderful ancient game the Vikings played.  Commonly thought
 to be a predecessor of chess, it is much simpler but just as addicting.  Originally from
 Scandanavia, as the Vikings migrated (a.k.a. raided other regions) they brought hnefatafl with
@@ -300,9 +341,9 @@ Hnefatafl is not a game most people know about.  But it’s certainly a game tha
  
  <entry>
    <title>Basic Brandub</title>
-   <link href="http://localhost:4000/2016/09/18/basic-brandub/"/>
+   <link href="http://shop.lizlam.com/2016/09/18/basic-brandub/"/>
    <updated>2016-09-18T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2016/09/18/basic-brandub</id>
+   <id>http://shop.lizlam.com/2016/09/18/basic-brandub</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/brandub-product.jpg&quot; alt=&quot;Brandub&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Brandub is the Irish variant of the ancient Viking game of hnefatafl.&lt;/p&gt;

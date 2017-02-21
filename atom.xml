@@ -4,7 +4,7 @@
  <title>Rich Games</title>
  <link href="http://shop.lizlam.com/atom.xml" rel="self"/>
  <link href="http://shop.lizlam.com/"/>
- <updated>2017-02-20T18:36:25-08:00</updated>
+ <updated>2017-02-20T22:28:14-08:00</updated>
  <id>http://shop.lizlam.com</id>
  <author>
    <name>Liz Lam</name>
@@ -33,7 +33,7 @@ the game “combines extreme simplicity with extraordinary strategic subtley.”
 
 &lt;ul&gt;
   &lt;li&gt;The hunter starts first.&lt;/li&gt;
-  &lt;li&gt;The hunter may move a piece one spot along a line to the left horizontally, diagonally or vertically. 
+  &lt;li&gt;The hunter may move a piece one spot along a line to the right horizontally, diagonally or vertically. 
 (i.e. Hunters can’t move backwards).&lt;/li&gt;
   &lt;li&gt;The prey may move one step in any direction along a line (backwards or forwards).&lt;/li&gt;
 &lt;/ul&gt;
@@ -41,7 +41,7 @@ the game “combines extreme simplicity with extraordinary strategic subtley.”
 &lt;p&gt;&lt;strong&gt;Hunters wins by trapping the prey so that it can no longer move.&lt;/strong&gt;  &lt;br /&gt;
 &lt;strong&gt;Prey wins by passing all the hunters and reaching the other end of the board.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;If the hunter doesn’t advance to the left in 10 moves, the prey wins.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;If the hunter doesn’t advance to the right in 10 moves, the prey wins.&lt;/em&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;step-3-switch&quot;&gt;Step 3: Switch&lt;/h2&gt;
 &lt;p&gt;After the first game switch sides and play again.&lt;/p&gt;

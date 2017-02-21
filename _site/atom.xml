@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Rich Games</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2017-02-20T17:51:38-08:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Liz Lam</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>How to Play French Military Game</title>
+   <link href="http://localhost:4000/2017/02/20/how-to-play-french-military-game/"/>
+   <updated>2017-02-20T00:00:00-08:00</updated>
+   <id>http://localhost:4000/2017/02/20/how-to-play-french-military-game</id>
+   <content type="html">&lt;p&gt;French Military Game is a 19th century game that was popular among French officers.  It is
+played with just 4 pieces: 3 hunters and 1 prey.
+Also known as Hare &amp;amp; Hounds, it is one of the smallest hunt games.  Mathematician Martin
+Gardneri, writer of monthly column “Mathematical Games” in Scientific American stated that
+the game “combines extreme simplicity with extraordinary strategic subtley.”&lt;/p&gt;
+
+&lt;h2 id=&quot;step-1-arrange-the-pieces&quot;&gt;Step 1: Arrange the Pieces&lt;/h2&gt;
+
+&lt;p&gt;Arrange the pieces on the board according to the following layout:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/french-military-game-layout1.png&quot; alt=&quot;French Military Game Layout&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;step-2-learn-the-rules&quot;&gt;Step 2: Learn the Rules&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Hunters starts first.&lt;/li&gt;
+  &lt;li&gt;Hunters may move (one piece at a time) 1 space horizontally to the right or vertically (never backwards and never diagonally)&lt;/li&gt;
+  &lt;li&gt;The prey may move 1 step in any direction along a line (horizontal, vertical or diagonal)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Hunters wins by trapping the prey so that it can no longer move on its turn.&lt;/strong&gt;  &lt;br /&gt;
+&lt;strong&gt;Prey wins by passing all the hunters and reaching the other end of the board.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;step-3-switch&quot;&gt;Step 3: Switch&lt;/h2&gt;
+&lt;p&gt;After the first game switch sides and play again.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How to Play Fanorona</title>
+   <link href="http://localhost:4000/2016/12/31/how-to-play-fanorona/"/>
+   <updated>2016-12-31T00:00:00-08:00</updated>
+   <id>http://localhost:4000/2016/12/31/how-to-play-fanorona</id>
+   <content type="html">&lt;p&gt;Fanorona is a game from Madagascar that dates back to 1680.  It is a beautiful game
+played with 44 pieces (22 per player) and has a unique method of capturing.
+The game has experienced a bit of a revival in modern times due to its &lt;a href=&quot;https://www.youtube.com/watch?v=Vn5WIwlYY6Y&quot;&gt;inclusion
+in the Assasin’s Creed&lt;/a&gt; video game.&lt;/p&gt;
+
+&lt;h2 id=&quot;step-1-arrange-the-pieces&quot;&gt;Step 1: Arrange the Pieces&lt;/h2&gt;
+
+&lt;p&gt;Arrange the pieces on the board according to the following layout:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/640px-Fanorona.png&quot; alt=&quot;Fanorona Layout&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;step-2-learn-the-rules&quot;&gt;Step 2: Learn the Rules&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;White starts first.&lt;/li&gt;
+  &lt;li&gt;Pieces move from one point to another along a line.&lt;/li&gt;
+  &lt;li&gt;Capture by moving a piece directly towards a line of enemies (approach).&lt;/li&gt;
+  &lt;li&gt;Capture by moving a piece away from a line of enemies (withdrawal).&lt;/li&gt;
+  &lt;li&gt;Remove captured pieces immediately&lt;/li&gt;
+  &lt;li&gt;Player may continue to capture pieces via approach or withdrawal as long as 
+the enemies are on separate lines.&lt;/li&gt;
+  &lt;li&gt;Player must capture pieces if possible.&lt;/li&gt;
+  &lt;li&gt;Only one capture is allowed on a player’s first move.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Player wins by capturing all the oponents pieces.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;step-3-switch&quot;&gt;Step 3: Switch&lt;/h2&gt;
+&lt;p&gt;After the first game switch sides and play again.&lt;/p&gt;
+
+&lt;p&gt;Fanorona is a really interesting game with a rich history.  Although a derivative of the Moorish
+game alquerque, the unique capturing methods makes it stand solidly on its own.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How to Play Sea Battle Tafl</title>
+   <link href="http://localhost:4000/2016/11/06/how-to-play-sea-battle-tafl/"/>
+   <updated>2016-11-06T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2016/11/06/how-to-play-sea-battle-tafl</id>
+   <content type="html">&lt;p&gt;Sea Battle Tafl is a modern variation of hnefatafl.  It is played on a 9x9 board with a total 25 of pieces much like &lt;a href=&quot;http://richgames.xyz/2016/09/25/how-to-play-tablut/&quot;&gt;Tablut&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;step-1-arrange-the-pieces&quot;&gt;Step 1: Arrange the Pieces&lt;/h2&gt;
+
+&lt;p&gt;Arrange the pieces on the board according to the following layout:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/354px-Tablut_board.png&quot; alt=&quot;Tablut Layout&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The cargo ship piece goes on the central square surrounded by defenders.  &lt;br /&gt;
+The attacker/pirate ship pieces surround the defenders making a cross symbol.&lt;/p&gt;
+
+&lt;h2 id=&quot;step-2-learn-the-rules&quot;&gt;Step 2: Learn the Rules&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Defenders start first.&lt;/li&gt;
+  &lt;li&gt;Pieces move like rooks in chess, horizontally and vertically as many spaces are there are available.&lt;/li&gt;
+  &lt;li&gt;Pieces can not jump, skip, frolic, dance, fly or hop over other pieces.&lt;/li&gt;
+  &lt;li&gt;Pieces can not move diagonally.&lt;/li&gt;
+  &lt;li&gt;There are no special squares.&lt;/li&gt;
+  &lt;li&gt;Once the cargo ship leaves the central square anyone can occupy it.&lt;/li&gt;
+  &lt;li&gt;Capture pieces by surrounding the other player’s piece on 2 sides either horizontally or vertically (not diagonally).&lt;/li&gt;
+  &lt;li&gt;The pirates capture the cargo ship by surrounding it on 4 sides.&lt;/li&gt;
+  &lt;li&gt;The cargo ship is without weapons and can’t aid in capturing pirates.&lt;/li&gt;
+  &lt;li&gt;You can voluntarily enter a space between two enemies and not be captured.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;The defender wins by getting the cargo ship to an edge.&lt;/strong&gt;  &lt;br /&gt;
+&lt;strong&gt;The attacking pirates wins by capturing the cargo ship.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;step-3-switch&quot;&gt;Step 3: Switch&lt;/h2&gt;
+&lt;p&gt;After the first game switch sides and play again.&lt;/p&gt;
+
+&lt;p&gt;Generally speaking, most people feel that it’s easier to win as the defender.  This is one of the characteristics of hnefatafl games due to it’s asymmetrical nature.  The strategies of an attacker is more long term.  Not to worry, as each player gets better the game becomes more balanced.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Do-It-Yourself: Casting a Resin King</title>
+   <link href="http://localhost:4000/2016/10/27/diy-resin-king/"/>
+   <updated>2016-10-27T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2016/10/27/diy-resin-king</id>
+   <content type="html">&lt;p&gt;One of the many enduring qualities of tafl games is the simplicity of the pieces.   No matter what size board or what rule variation (with perhaps the exception of &lt;a href=&quot;http://aagenielsen.dk/berserk_rules.php&quot;&gt;Berserk Hnefatafl&lt;/a&gt;), a set only need pieces of 3 distinctions: attackers, defenders and a king.  This makes it easier to create your own set.  It is common to see decorative glass gems as hnefatafl pieces.  In the &lt;a href=&quot;http://www.richgames.xyz/2016/10/24/diy-brandub/&quot;&gt;last post&lt;/a&gt;, we started to make a &lt;a href=&quot;http://www.richgames.xyz/2016/09/18/basic-brandub/&quot;&gt;Basic Brandub&lt;/a&gt; game with these.  Let’s upgrade the set a bit with a hand-casted resin king piece.&lt;/p&gt;
+
+&lt;p&gt;Tucked away in a drawer, I had an old chess pawn given to me by my best friend in grade school.  I’ve had this pawn since I was 7 or 8 years old.  It reminds me of my first friendship and being that tafl games are great to play with friends, it was a fitting piece to cast.  Obviously, pick an item that works for you and give your set a personal touch.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/chess-pawn.jpg&quot; alt=&quot;Chess Pawn&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Using a &lt;a href=&quot;https://www.smooth-on.com/products/oomoo-30/&quot;&gt;silicone mold making kit&lt;/a&gt;, I carefully follow the instructions and made a mold of the chess pawn.  This stuff is messy and gooey, so be sure to wear gloves and cover the work area with newspapers.  The mold takes about 6 hours to cure, so be patient.  It took a few tries to get it right, but the result was a durable mold I can use over and over again.&lt;/p&gt;
+
+&lt;p&gt;There are many types of resin to choose from.  &lt;a href=&quot;http://www.alumilite.com/store/p/934-Alumilite-White-Amazing-Casting-Resin.aspx&quot;&gt;Alumilite makes a fast curing, beginner friendly resin&lt;/a&gt; that works great for small pieces.  Like the mold making kit, it’s important to follow the instructions carefully and use gloves while casting the piece.&lt;/p&gt;
+
+&lt;p&gt;After about 20 minutes, I had a perfect copy of my original chess pawn that makes a great king piece in the &lt;a href=&quot;/2016/09/18/basic-brandub/&quot;&gt;Basic Brandub&lt;/a&gt; set.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/chess-pawn-cast.jpg&quot; alt=&quot;Chess Pawn Cast&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;One game’s pawn is another game’s king. Such is life.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Do-It-Yourself: Make a Brandub Set</title>
+   <link href="http://localhost:4000/2016/10/24/diy-brandub/"/>
+   <updated>2016-10-24T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2016/10/24/diy-brandub</id>
+   <content type="html">&lt;p&gt;Making board games can be a fun, creative and sometimes frustrating adventure. There is something wonderful about playing a game with family and friends on something created by your own hands.  This is the first in a series of Do-It-Yourself blog articles on how to do just that and some of the lessons learned in the process. In this first article, we will describe the beginnings steps in making a &lt;a href=&quot;/2016/09/18/basic-brandub/&quot;&gt;Basic Brandub&lt;/a&gt; set.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-board&quot;&gt;The Board&lt;/h2&gt;
+
+&lt;p&gt;The foundation of every board game is…well…the board.  Our Basic Brandub set uses an 8 inch square board.  Your best bet is to go to a local lumber supplier to purchase some plywood and get it cut down to that size.  There are also some online options.  &lt;a href=&quot;http://www.craftparts.com/&quot;&gt;Woodworks Ltd.&lt;/a&gt; sells individual &lt;a href=&quot;http://www.craftparts.com/plywood-square-cutouts-p-5093.html&quot;&gt;8x8 squares that are 1/8 inch&lt;/a&gt; thick for relatively cheap.  If you don’t mind spending a bit more, &lt;a href=&quot;http://www.kencraftcompany.com/&quot;&gt;KenCraft Company&lt;/a&gt; has a great selection of plywood and if you email them they will cut it down to the size you want for a fee.  Be warned you will be spending more on cutting fees and shipping than on the plywood itself.&lt;/p&gt;
+
+&lt;p&gt;Once you have the piece of plywood, sand it down to the desired smoothness.  Don’t skimp too much on this step.  The more time put into the sanding, the better the board will be.  Mark out the grid using 1 inch squares and a 1/2 inch border.  This will produce a 7x7 Brandub board where the gameplay happens on the squares (in oppose to the intersections).&lt;/p&gt;
+
+&lt;p&gt;Using a woodburning pen and a metal ruler, burn the lines in.  Unfortunately, the metal will draw heat from the woodburning pen and cause the lines to be a bit inconsistent in darkness.   Don’t dismay and just keep going.  When all the lines are done, carefully go over the lines again without the ruler to fill in any gaps.  Burn an ‘x’ into the corner and center squares.  Coat the board with a layer of sanding sealant, let it dry (about 1/2 hour) and smooth with #0000 steel wool (super fine grade).  Finally, finish with beeswax.  It is also possible to skip the sanding sealant and just use beeswax.  The surface won’t be as hard or smooth but the beeswax will produce a lovely finish.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-pieces&quot;&gt;The Pieces&lt;/h2&gt;
+
+&lt;p&gt;Brandub requires 13 pieces: 8 attackers, 4 defenders and 1 king.  This can
+be easily accomplished with different colored glass gems. These are commonly
+found in hobby stores for decorative purposes.  &lt;a href=&quot;http://www.hobbylobby.com/&quot;&gt;Hobby Lobby&lt;/a&gt; is a great resource with a variety of colors and sizes.  The standard size (around 18mm) will fit the 1 inch squares pretty nicely.&lt;/p&gt;
+
+&lt;p&gt;You now have a complete and playable Brandub set.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/diy-brandub-gems.jpg&quot; alt=&quot;Brandub&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Stay tuned for the next article and upgrade your set by casting a king piece in resin.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How to Play Fetlar Hnefatafl</title>
+   <link href="http://localhost:4000/2016/10/12/how-to-play-fetlar-hnefatafl/"/>
+   <updated>2016-10-12T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2016/10/12/how-to-play-fetlar-hnefatafl</id>
+   <content type="html">&lt;p&gt;The Fetlar rule variant is a common and popular way to play hnefatafl on a 11x11 board. There are 37 total pieces,
+24 attackers, 12 defenders and 1 king.&lt;/p&gt;
+
+&lt;h2 id=&quot;step-1-arrange-the-pieces&quot;&gt;Step 1: Arrange the Pieces&lt;/h2&gt;
+
+&lt;p&gt;Arrange the pieces on the board according to the following layout:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/Hnefatafl_11x11_board.svg&quot; alt=&quot;Fetlar  Layout&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The king piece goes on the central square surrounded by his defenders forming a diamond shape.
+The attacker pieces surround the defenders along the perimeter of the board.&lt;/p&gt;
+
+&lt;h2 id=&quot;step-2-learn-the-rules&quot;&gt;Step 2: Learn the Rules&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Attackers start first.&lt;/li&gt;
+  &lt;li&gt;Pieces move like rooks in chess, horizontally and vertically as many spaces are there are available.&lt;/li&gt;
+  &lt;li&gt;Pieces can not jump, skip, frolic, dance, fly or hop over other pieces.&lt;/li&gt;
+  &lt;li&gt;Pieces can not move diagonally.&lt;/li&gt;
+  &lt;li&gt;Only the king piece can go to the corner squares or central square.&lt;/li&gt;
+  &lt;li&gt;Other pieces can pass through the central square after the king leaves but can’t stop there (think freeway with no exit).&lt;/li&gt;
+  &lt;li&gt;Capture pieces by surrounding the other player’s piece on two sides either horizontally or vertically (not diagonally).&lt;/li&gt;
+  &lt;li&gt;You can capture 3 pieces at most with 1 move.&lt;/li&gt;
+  &lt;li&gt;You can capture pieces against the central square and corner squares as though your piece is on it.&lt;/li&gt;
+  &lt;li&gt;The king is special, attackers needs to surround him on 4 sides to capture.&lt;/li&gt;
+  &lt;li&gt;If the king is next to the central square, attackers needs to surround him on 3 sides to capture.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;The defender wins by getting the king to the corner square.&lt;/strong&gt;  &lt;br /&gt;
+&lt;strong&gt;The attacker wins by capturing the king.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;step-3-switch&quot;&gt;Step 3: Switch&lt;/h2&gt;
+&lt;p&gt;After the first game switch sides and play again.  This is not really a step in the Fetlar rules as much as it’s a good chance to play both sides.&lt;/p&gt;
+
+&lt;p&gt;Generally speaking, most people feel that it’s easier to win as the defender.  This is one of the characteristics of hnefatafl games due to it’s asymmetrical nature.  The strategies of an attacker is more long term.  Not to worry, as each player gets better the game becomes more balanced.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A Review of The Lewis Chessmen Unmasked</title>
+   <link href="http://localhost:4000/2016/10/07/lewis-chessmen-unmasked-review/"/>
+   <updated>2016-10-07T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2016/10/07/lewis-chessmen-unmasked-review</id>
+   <content type="html">&lt;p&gt;Any fascination with the ancient game of hnefatafl will eventually lead to the Lewis Chessmen.  The most commercially available set, &lt;a href=&quot;http://tafl.cyningstan.com/stock/1242/the-viking-game&quot;&gt;The Viking Game&lt;/a&gt; uses pieces inspired by them. The more motivated enthusiast have used them in DIY sets and their Norse origin is undeniable.  There are a ton of books out there about the Lewis Chessmen. The British Museum and the National Museum of Scotland put on a joint exhibition (not all the pieces belong to one museum) in 2010. &lt;em&gt;The Lewis Chessmen: Unmasked&lt;/em&gt; by David Caldwell is the companion book to that exhibition.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.britishmuseum.org/about_us/news_and_press/statements/the_lewis_chessmen.aspx&quot;&gt;The Lewis Chessmen&lt;/a&gt; is a collection of chess pieces dating back to the 12th century.  They were found accidentally in the
+Isle of Lewis.  The book does a wonderful job of describing its mysterious discovery, its Scandanavian roots and theories about who they may have belonged to.  It’s a short (80 pages) companion book and catalogs each piece 
+with beautiful photographs. Two of the pages are dedicated to connecting the chessmen to hnefatafl, suggesting that the kings doubled as pieces in both games.  There is evidence to support this notion as double-sided boards have been found at archaelogical sites.&lt;/p&gt;
+
+&lt;p&gt;The book is a great read and introduces these little figures in a compelling way.
+Though it is a pale substitute for viewing the chessmen in real life, it does a pretty good job of fueling the intrigue. &lt;br /&gt;
+&lt;img src=&quot;/assets/lewis-chessmen-unmasked.jpg&quot; alt=&quot;Lewis Chessmen Unmasked&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How to Play Tablut</title>
+   <link href="http://localhost:4000/2016/09/25/how-to-play-tablut/"/>
+   <updated>2016-09-25T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2016/09/25/how-to-play-tablut</id>
+   <content type="html">&lt;p&gt;Tablut is played on a 9x9 board with a total 25 of pieces.  This includes 16 attackers, 8 defenders and 1 king.
+It was played in Lapland as late as the 18th century and is the most documented hnefatafl game thanks to Swedish botanist Carl Linneaus.  In 1732, while touring the area he came across the game played by the locals and &lt;a href=&quot;https://archive.org/stream/ungdomsskrifter02linne#page/n155/mode/2up&quot;&gt;described it in his diary&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;step-1-arrange-the-pieces&quot;&gt;Step 1: Arrange the Pieces&lt;/h2&gt;
+
+&lt;p&gt;Arrange the pieces on the board according to the following layout:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/354px-Tablut_board.png&quot; alt=&quot;Tablut Layout&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The king piece goes on the central square surrounded by his defenders.
+The attacker pieces surround the defenders making a cross symbol.&lt;/p&gt;
+
+&lt;h2 id=&quot;step-2-learn-the-rules&quot;&gt;Step 2: Learn the Rules&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Attackers start first.&lt;/li&gt;
+  &lt;li&gt;Pieces move like rooks in chess, horizontally and vertically as many spaces are there are available.&lt;/li&gt;
+  &lt;li&gt;Pieces can not jump, skip, frolic, dance, fly or hop over other pieces.&lt;/li&gt;
+  &lt;li&gt;Pieces can not move diagonally.&lt;/li&gt;
+  &lt;li&gt;Only the king piece can go to the central square.&lt;/li&gt;
+  &lt;li&gt;Once the king leaves the central square, he can’t go back.&lt;/li&gt;
+  &lt;li&gt;Other pieces can pass through the central square after the king leaves but can’t stop there (think freeway with no exit).&lt;/li&gt;
+  &lt;li&gt;Capture pieces by surrounding the other player’s piece on two sides either horizontally or vertically (not diagonally).&lt;/li&gt;
+  &lt;li&gt;You can voluntarily enter a space between two enemies and not be captured.&lt;/li&gt;
+  &lt;li&gt;You can capture pieces against the central square as though your piece is on it.&lt;/li&gt;
+  &lt;li&gt;If the king is in the central square, attackers needs to surround him on 4 sides to capture.&lt;/li&gt;
+  &lt;li&gt;If the king is next to the central square, attackers needs to surround him on 3 sides to capture.&lt;/li&gt;
+  &lt;li&gt;If the king is anywhere else on the board he is captured like any other piece.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;The defender wins by getting the king to an edge.&lt;/strong&gt;  &lt;br /&gt;
+&lt;strong&gt;The attacker wins by capturing the king.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;step-3-switch&quot;&gt;Step 3: Switch&lt;/h2&gt;
+&lt;p&gt;After the first game switch sides and play again.&lt;/p&gt;
+
+&lt;p&gt;Generally speaking, most people feel that it’s easier to win as the defender.  This is one of the characteristics of hnefatafl games due to it’s asymmetrical nature.  The strategies of an attacker is more long term.  Not to worry, as each player gets better the game becomes more balanced.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How to Play Brandub</title>
+   <link href="http://localhost:4000/2016/09/20/how-to-play-brandub/"/>
+   <updated>2016-09-20T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2016/09/20/how-to-play-brandub</id>
+   <content type="html">&lt;p&gt;Brandub is an Irish variant of hnefatafl.  It is played on a 7x7 board with 13 pieces.
+Although it is the tiny sibling of all the hnefatafl games, it is just as fun and strategic.&lt;/p&gt;
+
+&lt;h2 id=&quot;step-1-arrange-the-pieces&quot;&gt;Step 1: Arrange the Pieces&lt;/h2&gt;
+
+&lt;p&gt;Arrange the pieces on the board according to the following layout:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/283px-Brandub_board.png&quot; alt=&quot;Brandub Layout&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The king piece goes on the central square surrounded by his defenders.
+The attacker pieces surround the defenders making a cross symbol.&lt;/p&gt;
+
+&lt;h2 id=&quot;step-2-learn-the-rules&quot;&gt;Step 2: Learn the Rules&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Attackers move first.&lt;/li&gt;
+  &lt;li&gt;Pieces move like rooks in chess, horizontally and vertically as many spaces are there are available.&lt;/li&gt;
+  &lt;li&gt;Pieces can not jump, skip, frolic, dance, fly or hop over other pieces.&lt;/li&gt;
+  &lt;li&gt;Pieces can not move diagonally.&lt;/li&gt;
+  &lt;li&gt;Only the king piece can go to the corner squares or central square.&lt;/li&gt;
+  &lt;li&gt;Once the king leaves the central square, he can’t go back.&lt;/li&gt;
+  &lt;li&gt;Other pieces can pass through the central square after the king leaves but can’t stop there (think freeway with no exit).&lt;/li&gt;
+  &lt;li&gt;Capture pieces by surrounding the other player’s piece on two sides either horizontally or vertically (not diagonally).
+&lt;img src=&quot;/assets/120px-Tafl_normal_capture.png&quot; alt=&quot;Normal Capture&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;You can voluntarily enter a space between two enemies and not be captured.
+&lt;img src=&quot;/assets/120px-Tafl_volunteer.png&quot; alt=&quot;Voluntarily enter between two enemies&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;You can capture pieces against the central square and corner squares as though your piece is on it.&lt;/li&gt;
+  &lt;li&gt;If the king is in the central square, attackers needs to surround him on 4 sides to capture.
+&lt;img src=&quot;/assets/120px-Tafl_king_capture_4_sides.png&quot; alt=&quot;Capture on 4 sides&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;If the king is next to the central square, attackers needs to surround him on 3 sides to capture.
+&lt;img src=&quot;/assets/120px-Tafl_king_capture_3_sides.png&quot; alt=&quot;Capture on 3 sides&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;If the king is anywhere else on the board he is captured like any other piece.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;The defender wins by getting the king to the corner square.&lt;/strong&gt;  &lt;br /&gt;
+&lt;strong&gt;The attacker wins by capturing the king.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;step-3-switch&quot;&gt;Step 3: Switch&lt;/h2&gt;
+&lt;p&gt;After the first game switch sides and play again.&lt;/p&gt;
+
+&lt;p&gt;Generally speaking, most people feel that it’s easier to win as the defender.  This is one of the characteristics of hnefatafl games due to it’s asymmetrical nature.  The strategies of an attacker is more long term.  Not to worry, as each player gets better the game becomes more balanced.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>What is Hnefatafl?</title>
+   <link href="http://localhost:4000/2016/09/19/what-is-hnefatafl/"/>
+   <updated>2016-09-19T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2016/09/19/what-is-hnefatafl</id>
+   <content type="html">&lt;p&gt;Besides it’s somewhat unfortunate name, hnefatafl (pronounced “neffa-taffle”) is a wonderful ancient game the Vikings played.  Commonly thought
+to be a predecessor of chess, it is much simpler but just as addicting.  Originally from
+Scandanavia, as the Vikings migrated (a.k.a. raided other regions) they brought hnefatafl with
+them, introducing it to the local people.
+Different regions played slightly different variations of the game but the core fundamental strategy stayed the same.
+The size of the board also varied depending on the local taste.  It’s kind of like how Chinese food is different but familiar no matter what country you’re in.&lt;/p&gt;
+
+&lt;p&gt;The defenders and their king always sit in the middle of the board, outnumbered by twice as many
+attackers.  The board is always an odd number of squares (i.e. 7x7, 9x9, 11x11, etc.).  The defender’s 
+objective is to get the king to the safety of a corner square (or edge depending on the hnefatafl version).
+The attacker’s objective is to capture the king.&lt;/p&gt;
+
+&lt;p&gt;The size of the board and the name of the game also varied depending on the region.  The Irish variant is called
+“brandub” and is played on a 7x7 board.  The Norse version seemed to be commonly played on 11x11 or 13x13 board.  &lt;br /&gt;
+Tablut from Lapland is played on 9x9 board.  Today, most commercially available hnefatafl sets are on a 11x11 board.
+Each version contain it’s own characteristics but all belong to the tafl family of games.&lt;/p&gt;
+
+&lt;p&gt;One of the most obvious attributes of hnefatafl is it’s asymmetrical nature.  The fact that one player
+gets just about twice as many pieces as the other &lt;em&gt;feels&lt;/em&gt; very strange and unfair.  But that is one 
+the many enduring qualities of this game.  Playing different sides requires different ways of thinking.
+The rules are simple and easy to learn, but the gameplay is complex and interesting.&lt;/p&gt;
+
+&lt;p&gt;Hnefatafl, like other ancient games isn’t owned by any one person or company.  It’s the open source of the physical
+gaming world.  This gives people the freedom to explore without the legal issues of proprietary games.  Take a look online and you’ll find a plethora of hand-made do-it-yourself as well as mobile and online versions.
+Hnefatafl is not a game most people know about.  But it’s certainly a game that is experiencing a bit of revival.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Basic Brandub</title>
+   <link href="http://localhost:4000/2016/09/18/basic-brandub/"/>
+   <updated>2016-09-18T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2016/09/18/basic-brandub</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/brandub-product.jpg&quot; alt=&quot;Brandub&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Brandub is the Irish variant of the ancient Viking game of hnefatafl.&lt;/p&gt;
+
+&lt;p&gt;This board is hand-made using 8 inch square plywood that is 3/8 inch thick.  The pattern is
+burned into the wood using the pyrography technique. 
+Included is a set of glass gems, 8 black attackers, 4 red defenders and
+a hand-casted resin king.&lt;/p&gt;
+
+&lt;p&gt;As with many hand-made products, no two boards are alike.  There may be minor irregularities that gives
+each set a unique rustic character.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;WARNING: CHOKING HAZARD - This product contains small parts and is not suitable for children.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;$15 (plus shipping)  &lt;br /&gt;
+Available for &lt;a href=&quot;https://www.etsy.com/listing/485250523/hnefatafl-brandub&quot;&gt;purchase&lt;/a&gt; on Etsy.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+
+</feed>

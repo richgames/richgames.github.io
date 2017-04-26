@@ -4,7 +4,7 @@
  <title>Rich Games</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2017-04-25T00:43:11-07:00</updated>
+ <updated>2017-04-26T08:11:56-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Liz Lam</name>
@@ -37,10 +37,10 @@
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;Player 2 follows a similar path but the mirror reflection to their side.&lt;/p&gt;
+    &lt;p&gt;Player 2 follows a similar path but on their side.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;If you land a square occupied by the other player’s piece &lt;em&gt;and&lt;/em&gt; it’s not on a marked square.  The opponent’s piece is knocked off the board and must start over.&lt;/p&gt;
+    &lt;p&gt;If you land a square occupied by the other player’s piece &lt;em&gt;and&lt;/em&gt; it’s not on a marked square, the opponent’s piece is knocked off the board and must start over.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;If a piece is on a marked square, it is safe from being knocked off.&lt;/p&gt;

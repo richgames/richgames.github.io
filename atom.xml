@@ -4,13 +4,45 @@
  <title>Rich Games</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2017-04-26T08:11:56-07:00</updated>
+ <updated>2017-05-03T21:19:16-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Liz Lam</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>How to Play Seega</title>
+   <link href="http://localhost:4000/2017/05/03/how-to-play-seega/"/>
+   <updated>2017-05-03T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2017/05/03/how-to-play-seega</id>
+   <content type="html">&lt;p&gt;Seega is a small abstract game from 19th century Egypt.  It has some similarities with the tafl family of games with its sandwiching capture method.  It is 
+played on a 5x5 grid with 24 pieces (12 per player).&lt;/p&gt;
+
+&lt;h2 id=&quot;step-1-setup-the-board&quot;&gt;Step 1: Setup the Board&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/seega.png&quot; alt=&quot;Seega&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Each player gets 12 pieces and take turns placing 2 pieces on the board, leaving the middle square empty.&lt;/p&gt;
+
+&lt;h2 id=&quot;step-2-learn-the-rules&quot;&gt;Step 2: Learn the Rules&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The last player to place a piece starts.&lt;/li&gt;
+  &lt;li&gt;A piece can  move horizontally or vertically to an adjacent square (like a rook that can only move 1 space at a time).&lt;/li&gt;
+  &lt;li&gt;Pieces are allowed on the center square.&lt;/li&gt;
+  &lt;li&gt;If a player is unable to move, the other player takes an extra turn to create an opening.&lt;/li&gt;
+  &lt;li&gt;A piece is captured when a player is able to sandwich an opponent’s piece horizontally or vertically.&lt;/li&gt;
+  &lt;li&gt;Capturing more than one piece with 1 move is possible.&lt;/li&gt;
+  &lt;li&gt;Moving in between two enemy pieces is permitted.&lt;/li&gt;
+  &lt;li&gt;The center square is a safe place and a piece on it can’t be captured.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;The first player to capture all the opponent pieces wins.&lt;/strong&gt;&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>How to Play the Royal Game of Ur</title>

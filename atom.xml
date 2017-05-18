@@ -4,13 +4,46 @@
  <title>Rich Games</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2017-05-07T16:19:11-07:00</updated>
+ <updated>2017-05-17T20:34:20-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Liz Lam</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>How to Play Fox and Geese</title>
+   <link href="http://localhost:4000/2017/05/17/how-to-play-fox-and-geese/"/>
+   <updated>2017-05-17T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2017/05/17/how-to-play-fox-and-geese</id>
+   <content type="html">&lt;p&gt;Fox and Geese is a northern European hunt game played with 13 geese and 1 fox.  Its asymetrical nature is similar to that of hnefatafl.  Some theorize there is a relationship between two.  Queen Victoria is said to also be a fan on this medieval game.&lt;/p&gt;
+
+&lt;h2 id=&quot;step-1-setup-the-board&quot;&gt;Step 1: Setup the Board&lt;/h2&gt;
+&lt;p&gt;Arrange the 13 geese  pieces on the board according to the following layout:
+&lt;img src=&quot;/assets/fox-geese.png&quot; alt=&quot;Fox and Geese&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The fox player may place their piece on an empty point.&lt;/p&gt;
+
+&lt;h2 id=&quot;step-2-learn-the-rules&quot;&gt;Step 2: Learn the Rules&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;The geese starts the game.&lt;/li&gt;
+  &lt;li&gt;Geese may move along any line going from point to point.&lt;/li&gt;
+  &lt;li&gt;The fox also moves along lines like the geese.&lt;/li&gt;
+  &lt;li&gt;The fox capures a goose by jumping over it into a vacant spot (like checkers), as long as the jump is along a line.&lt;/li&gt;
+  &lt;li&gt;If possible, the fox is allowed to capture another goose if in a position to do so.&lt;/li&gt;
+  &lt;li&gt;Geese can not capture the fox.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;The geese wins if the trap the fox so that it may no longer move.&lt;/strong&gt;  &lt;br /&gt;
+&lt;strong&gt;The fox wins if it captures enough (10) geese so that it can’t be trapped.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;step-3-switch&quot;&gt;Step 3: Switch&lt;/h2&gt;
+
+&lt;p&gt;There is a slight advantage to the geese so switching sides will balance out the game.&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>How to Play Nine Men's Morris</title>
@@ -22,9 +55,10 @@ have been found in Troy, Ireland, and Egypt.  The Romans took it across its empi
 
 &lt;h2 id=&quot;step-1-setup-the-board&quot;&gt;Step 1: Setup the Board&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/nine.png&quot; alt=&quot;Seega&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/nine.png&quot; alt=&quot;Nine Men's Morris&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;Black starts the placement phase of the game.&lt;/li&gt;
   &lt;li&gt;Each player gets 9 pieces and take turns placing them on the board.&lt;/li&gt;
   &lt;li&gt;Pieces should be placed on any place where there is an intersection of lines (corners included).&lt;/li&gt;
 &lt;/ul&gt;
@@ -32,9 +66,11 @@ have been found in Troy, Ireland, and Egypt.  The Romans took it across its empi
 &lt;h2 id=&quot;step-2-learn-the-rules&quot;&gt;Step 2: Learn the Rules&lt;/h2&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;Black starts the movement phase of the game.&lt;/li&gt;
   &lt;li&gt;A piece can move along a line to an adjacent point.&lt;/li&gt;
   &lt;li&gt;When a player has 3 of its own pieces in a row (called a mill), the player can then remove one of the opponent’s pieces from the board.&lt;/li&gt;
   &lt;li&gt;You can not remove an opponent’s piece if it is part of a mill.&lt;/li&gt;
+  &lt;li&gt;If a player is down to 3 pieces, they can move a piece to any vacant spot on the board.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;The first player to capture all but 2 of the opponent pieces wins .&lt;/strong&gt;&lt;/p&gt;
@@ -170,7 +206,7 @@ the game “combines extreme simplicity with extraordinary strategic subtley.”
    <content type="html">&lt;p&gt;Fanorona is a game from Madagascar that dates back to 1680.  It is a beautiful game
 played with 44 pieces (22 per player) and has a unique method of capturing.
 The game has experienced a bit of a revival in modern times due to its &lt;a href=&quot;https://www.youtube.com/watch?v=Vn5WIwlYY6Y&quot;&gt;inclusion
-in the Assasin’s Creed&lt;/a&gt; video game.&lt;/p&gt;
+in the Assassin’s Creed&lt;/a&gt; video game.&lt;/p&gt;
 
 &lt;h2 id=&quot;step-1-arrange-the-pieces&quot;&gt;Step 1: Arrange the Pieces&lt;/h2&gt;
 
@@ -192,7 +228,7 @@ the enemies are on separate lines.&lt;/li&gt;
   &lt;li&gt;Only one capture is allowed on a player’s first move.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;Player wins by capturing all the oponents pieces.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Player wins by capturing all the opponents pieces.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;step-3-switch&quot;&gt;Step 3: Switch&lt;/h2&gt;
 &lt;p&gt;After the first game switch sides and play again.&lt;/p&gt;

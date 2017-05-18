@@ -4,7 +4,7 @@
  <title>Rich Games</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2017-05-17T23:03:41-07:00</updated>
+ <updated>2017-05-17T23:10:49-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Liz Lam</name>
@@ -17,13 +17,13 @@
    <link href="http://localhost:4000/2017/05/17/how-to-play-fox-and-geese/"/>
    <updated>2017-05-17T00:00:00-07:00</updated>
    <id>http://localhost:4000/2017/05/17/how-to-play-fox-and-geese</id>
-   <content type="html">&lt;p&gt;Fox and Geese is a northern European hunt game played with 13 geese and 1 fox.  Its asymetrical nature is similar to that of hnefatafl.  Some theorize there is a relationship between two.  Queen Victoria is said to also be a fan on this medieval game.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Fox and Geese is a northern European hunt game played with 13 geese and 1 fox.  Its asymmetrical nature is similar to that of hnefatafl.  Some theorize there is a relationship between two.  Queen Victoria is said to also be a fan on this medieval game.&lt;/p&gt;
 
 &lt;h2 id=&quot;step-1-setup-the-board&quot;&gt;Step 1: Setup the Board&lt;/h2&gt;
 &lt;p&gt;Arrange the 13 geese  pieces on the board according to the following layout:
 &lt;img src=&quot;/assets/fox-geese.png&quot; alt=&quot;Fox and Geese&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;The fox player may place their piece on an empty point.&lt;/p&gt;
+&lt;p&gt;The fox player may place their piece on any empty point.&lt;/p&gt;
 
 &lt;h2 id=&quot;step-2-learn-the-rules&quot;&gt;Step 2: Learn the Rules&lt;/h2&gt;
 &lt;ul&gt;

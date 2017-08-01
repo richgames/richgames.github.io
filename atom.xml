@@ -4,13 +4,43 @@
  <title>Rich Games</title>
  <link href="http://shop.lizlam.com/atom.xml" rel="self"/>
  <link href="http://shop.lizlam.com/"/>
- <updated>2017-07-25T22:36:36-07:00</updated>
+ <updated>2017-07-31T22:56:55-07:00</updated>
  <id>http://shop.lizlam.com</id>
  <author>
    <name>Liz Lam</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>How to Play Five Lines</title>
+   <link href="http://shop.lizlam.com/2017/07/31/how-to-play-five-lines/"/>
+   <updated>2017-07-31T00:00:00-07:00</updated>
+   <id>http://shop.lizlam.com/2017/07/31/how-to-play-five-lines</id>
+   <content type="html">&lt;p&gt;Five Lines was a game originating from Ancient Greece where it was known as Penta Grammai.  The earliest reference to it is in 600 B.C. in a verse by Greek poet, Alkaios.  It became popular among the Romans and boards have been found etched into
+pavements of old Roman towns.&lt;/p&gt;
+
+&lt;p&gt;Phase 1: Place the Pieces&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/five_lines.png&quot; alt=&quot;Five Liness&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Each player gets 5 pieces and places them on their side of the board (one per line/rectangle).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;phase-2-move-the-pieces&quot;&gt;Phase 2: Move the Pieces&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Each player take turns rolling a single die and moves one of their pieces counterclockwise according to the die value&lt;/li&gt;
+  &lt;li&gt;Only 1 piece is allowed per line, so pieces are only allowed to move to a vacant spot.&lt;/li&gt;
+  &lt;li&gt;The exception is the middle line (called the sacred line) is where more than 1 piece can land.&lt;/li&gt;
+  &lt;li&gt;Player must move a piece even if it means moving a piece off the sacred line.&lt;/li&gt;
+  &lt;li&gt;If a player is unable to move into a vacant spot or the sacred lie, they pass.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;The first player able to get all 5 of their pieces onto the sacred line of the opposing side wins.&lt;/strong&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>How to Play Five Men's Morris</title>

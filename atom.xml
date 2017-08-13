@@ -4,13 +4,32 @@
  <title>Rich Games</title>
  <link href="http://shop.lizlam.com/atom.xml" rel="self"/>
  <link href="http://shop.lizlam.com/"/>
- <updated>2017-08-12T22:38:30-07:00</updated>
+ <updated>2017-08-13T00:48:11-07:00</updated>
  <id>http://shop.lizlam.com</id>
  <author>
    <name>Liz Lam</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Print and Play the Royal Game of Ur</title>
+   <link href="http://shop.lizlam.com/2017/08/13/royal-game-or-ur-pnp/"/>
+   <updated>2017-08-13T00:00:00-07:00</updated>
+   <id>http://shop.lizlam.com/2017/08/13/royal-game-or-ur-pnp</id>
+   <content type="html">&lt;p&gt;Print and plays are a great way to try out games before investing money on a nice set.  In some cases, especially
+with independent game designers, it’s the only way to play their games.  They are also great for classroom use or
+group use.  If anything, it’s fun and cheap entertainment.  I recently explored creating one for the Royal Game of Ur
+using pocket change for pieces and casting tokens. It was a fun experiment and for those interested, I was able to create the entire PDF (diagrams
+and all) using Google Docs.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/royal-game-of-ur-pnp-preview.png&quot; alt=&quot;Royal Game of Ur Print and Play&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Feel free to &lt;a href=&quot;/assets/royal-game-of-ur-pnp.pdf&quot;&gt;download the PDF&lt;/a&gt;, grab a pocket full of change and some friends to
+re-live those college budget nights. :) Happy Gaming!&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>How to Play Senet</title>
@@ -26,7 +45,7 @@ game historians have sought to reconstruct the game.  These rules are by British
 &lt;p&gt;&lt;img src=&quot;/assets/senet.png&quot; alt=&quot;Senet&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Each player gets 7 pieces and they are placed on the top half of the board alternating black and white.&lt;/li&gt;
+  &lt;li&gt;Each player gets 7 pieces and they are placed on the top half of the board alternating colors.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;step-2-learn-the-rules&quot;&gt;Step 2: Learn the Rules&lt;/h2&gt;

@@ -4,13 +4,31 @@
  <title>Rich Games</title>
  <link href="http://shop.lizlam.com/atom.xml" rel="self"/>
  <link href="http://shop.lizlam.com/"/>
- <updated>2017-10-03T17:48:23-07:00</updated>
+ <updated>2017-12-12T22:52:57-08:00</updated>
  <id>http://shop.lizlam.com</id>
  <author>
    <name>Liz Lam</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>The Making of a Go Board</title>
+   <link href="http://shop.lizlam.com/2017/12/12/making-a-go-board/"/>
+   <updated>2017-12-12T00:00:00-08:00</updated>
+   <id>http://shop.lizlam.com/2017/12/12/making-a-go-board</id>
+   <content type="html">&lt;p&gt;I recently made a Go board for a friend’s kid.  It’s the second one I’ve done and I really enjoyed the process.  Initially, I felt a bit intimidated about making one in the first place.  Why?  Go boards have a long history of precision and meticulous 
+craftmanship which is really different from the rustic style of my game boards.  At the end of the day, it’s all really about 
+fun and friendship so I was happy to present what I had.  The board is a 9x9 grid, decorated with bamboo and panda illustrations.
+The lighter pieces are natural colored, finished with beeswax.  The darker pieces were stained with 10-12 coats of coffee.
+Overall, I was happy with what I ended up with and hope my friend’s son have many years of enjoyment from it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/go1.jpg&quot; alt=&quot;Go Board 1&quot; /&gt;
+&lt;img src=&quot;/assets/go2.jpg&quot; alt=&quot;Go Board 2&quot; /&gt;
+&lt;img src=&quot;/assets/go_board_2.jpg&quot; alt=&quot;Go Board 2&quot; /&gt;&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Do-It-Yourself: Egg Carton Mancala</title>

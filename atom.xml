@@ -4,13 +4,45 @@
  <title>Rich Games</title>
  <link href="http://shop.lizlam.com/atom.xml" rel="self"/>
  <link href="http://shop.lizlam.com/"/>
- <updated>2017-12-12T22:52:57-08:00</updated>
+ <updated>2018-01-02T15:41:10-08:00</updated>
  <id>http://shop.lizlam.com</id>
  <author>
    <name>Liz Lam</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>How to Play Pulijudam</title>
+   <link href="http://shop.lizlam.com/2018/01/02/how-to-play-pulijudam/"/>
+   <updated>2018-01-02T00:00:00-08:00</updated>
+   <id>http://shop.lizlam.com/2018/01/02/how-to-play-pulijudam</id>
+   <content type="html">&lt;p&gt;Pulijudam is a game much like &lt;a href=&quot;/2017/05/17/how-to-play-fox-and-geese/&quot;&gt;Fox and Geese&lt;/a&gt; out of India.  Also known as Tigers and Lambs, it is an asymmetrical game played on the intersections of a triangular board.  There are 3 tiger pieces and 15 lamb pieces.&lt;/p&gt;
+
+&lt;h2 id=&quot;phase-1-place-the-pieces&quot;&gt;Phase 1: Place the Pieces&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/pulijudam.png&quot; alt=&quot;Pulijudam&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The Tiger player places their pieces as the diagram shows.&lt;/li&gt;
+  &lt;li&gt;The Lamb player takes the remaining 15 pieces&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;phase-2-move-the-pieces&quot;&gt;Phase 2: Move the Pieces&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The Lamb player starts and places a piece on any empty point.&lt;/li&gt;
+  &lt;li&gt;The Lamb player can not move any pieces until all 15 pieces are placed on the board.&lt;/li&gt;
+  &lt;li&gt;The Tiger player can move one space to an adjacent point.&lt;/li&gt;
+  &lt;li&gt;When the Lamb player can move a piece, it also can move to any adjacent point.&lt;/li&gt;
+  &lt;li&gt;The Tiger player can capture a single lamb by jumping over it onto an unoccupied point.&lt;/li&gt;
+  &lt;li&gt;Lambs can not jump over/capture tigers.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;The Lambs win if it traps the tigeres so they can no longer move.&lt;/strong&gt;  &lt;br /&gt;
+&lt;strong&gt;The Tigers win if they capture all the lambs.&lt;/strong&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>The Making of a Go Board</title>

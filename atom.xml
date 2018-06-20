@@ -4,13 +4,37 @@
  <title>Rich Games</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-06-08T22:14:28-07:00</updated>
+ <updated>2018-06-20T00:00:22-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Liz Lam</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Photoblog: Making a Senet-Ur Board</title>
+   <link href="http://localhost:4000/2018/06/19/photoblog-senet-ur/"/>
+   <updated>2018-06-19T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2018/06/19/photoblog-senet-ur</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://a4games.company/senet-ur/&quot;&gt;Senet-Ur&lt;/a&gt; is a hybrid of two ancient games by &lt;a href=&quot;https://a4games.company/&quot;&gt;A4 Games&lt;/a&gt;.  As its name suggests, it combines the rules and board layout from both Senet and the Royal Game of Ur.  I actually quite like the name “Senet-Ur” because it makes me want to pronounce it like “senator.”&lt;/p&gt;
+
+&lt;p&gt;Like the beginning of any game, I started with the grid layout.  &lt;br /&gt;
+&lt;img src=&quot;/assets/senet-ur1.jpg&quot; alt=&quot;Making a Senet-Ur Board 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I then continue with the square designs.  &lt;br /&gt;
+&lt;img src=&quot;/assets/senet-ur2.jpg&quot; alt=&quot;Making a Senet-Ur Board 2&quot; /&gt;
+&lt;img src=&quot;/assets/senet-ur3.jpg&quot; alt=&quot;Making a Senet-Ur Board 3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Once done, I coated the board with 3 layers of sanding sealant and polished with beeswax.  The pieces and casting tokens are also hand rubbed with beeswax.  The brown pieces are stained with several layers of coffee.  &lt;br /&gt;
+&lt;img src=&quot;/assets/senet-ur4.jpg&quot; alt=&quot;Making a Senet-Ur Board 4&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I had some issues with the board not quite sitting flat so I added some tripod style legs.  This ensures the board will not wobble (unless you press down hard on a corner).  &lt;br /&gt;
+&lt;img src=&quot;/assets/senet-ur5.jpg&quot; alt=&quot;Making a Senet-Ur Board 4&quot; /&gt;
+I was quite happy with how the set turned out and even more happy to play a few rounds.  I love the creativity of combining two ancient games to produce something that is unique yet familiar.&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Photoblog: Making a Puluc Board</title>

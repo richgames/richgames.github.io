@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Rich Games</title>
- <link href="http://shop.lizlam.com/atom.xml" rel="self"/>
- <link href="http://shop.lizlam.com/"/>
- <updated>2018-11-01T07:10:40+00:00</updated>
- <id>http://shop.lizlam.com</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2019-05-30T16:00:51-07:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Liz Lam</name>
    <email></email>
@@ -13,10 +13,28 @@
 
  
  <entry>
+   <title>Traditional Xiang Qi or Not?</title>
+   <link href="http://localhost:4000/2019/05/30/traditional-xiangqi-or-not/"/>
+   <updated>2019-05-30T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2019/05/30/traditional-xiangqi-or-not</id>
+   <content type="html">&lt;p&gt;I learned to play Xiang Qi (or Chinese Chess) as a young child.  I think I was 6 or 7 and it was one of the first board games I ever learned.   My uncle spent a bit of time teaching me all the characters and the moves on a traditional set.  Since I was a child, I was able to pick it up pretty quickly.  It’s a great chess variant and although many people play it (because there are a lot of Chinese people in the world), I feel that it doesn’t get the international audience it deserves due the requirement of having to know the Chinese characters.  I think Japanese Shogi also has a similar problem.&lt;/p&gt;
+
+&lt;p&gt;So needless to say, I was really excited to find a relatively cheap copy on Amazon (I think I spent about $17 on it) with figures instead of the traditional discs.  I figured (no pun intended) this would be a great set to teach others with I would probably capture of the interest of my young children.  The set is pretty wonderful and detailed, especially for the price.  &lt;br /&gt;
+&lt;img src=&quot;/assets/xiangqi-figures1.jpg&quot; alt=&quot;Xiang Qi Set&quot; /&gt;
+&lt;img src=&quot;/assets/xiangqi-figures2.jpg&quot; alt=&quot;Xiang Qi Set Closeup&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As I was setting up the pieces and showing my daughter how to play, I felt strange not showing her on a traditional set.  Maybe it’s because that’s the way I learned, maybe it felt less authentic with the figures, either way, it didn’t feel quite right.&lt;/p&gt;
+
+&lt;p&gt;It’s likely I will end up playing with my kids on both types of sets but it was interesting that something as simple as a board game had evoked any emotional reaction at all.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
    <title>Puluc Design Iteration</title>
-   <link href="http://shop.lizlam.com/2018/11/01/puluc-v2/"/>
-   <updated>2018-11-01T00:00:00+00:00</updated>
-   <id>http://shop.lizlam.com/2018/11/01/puluc-v2</id>
+   <link href="http://localhost:4000/2018/11/01/puluc-v2/"/>
+   <updated>2018-11-01T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2018/11/01/puluc-v2</id>
    <content type="html">&lt;p&gt;I’ve been wanting to iterate over the design of a &lt;a href=&quot;http://richgames.xyz/2018/06/08/photoblog-puluc/&quot;&gt;Puluc board I had previously made.&lt;/a&gt;  In particular, I wanted to clean up the lines in the stairs in both of the homebase sections.
 I found that the trick to burning fine lines is turning down the heat.  That gave me more control  &lt;br /&gt;
 over the drawing and lead to less charred bleeding.  Adding shaded patterns also improved the overall look and feel and
@@ -34,9 +52,9 @@ of the cubes reinforced the decorations and added to the cut-throat nature of th
  
  <entry>
    <title>Yoté Board and Elephants</title>
-   <link href="http://shop.lizlam.com/2018/10/18/photoblog-yote/"/>
-   <updated>2018-10-18T00:00:00+00:00</updated>
-   <id>http://shop.lizlam.com/2018/10/18/photoblog-yote</id>
+   <link href="http://localhost:4000/2018/10/18/photoblog-yote/"/>
+   <updated>2018-10-18T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2018/10/18/photoblog-yote</id>
    <content type="html">&lt;p&gt;I used to work for a company that hosted annual employee art shows.  This was a great way to share creative passions with coworkers and I participated one year
 with a wall full (10-12) of elephant paintings.&lt;/p&gt;
 
@@ -53,9 +71,9 @@ Wood burning on red oak can be a little tricky but I was pleased with the result
  
  <entry>
    <title>How to Play Yoté</title>
-   <link href="http://shop.lizlam.com/2018/09/27/how-to-play-yote/"/>
-   <updated>2018-09-27T00:00:00+00:00</updated>
-   <id>http://shop.lizlam.com/2018/09/27/how-to-play-yote</id>
+   <link href="http://localhost:4000/2018/09/27/how-to-play-yote/"/>
+   <updated>2018-09-27T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2018/09/27/how-to-play-yote</id>
    <content type="html">&lt;p&gt;Yoté is a highly addicting strategy game from West Africa.  &lt;br /&gt;
 It is played on a 5x6 board with 24 pieces and possesses an interesting capturing characteristic.&lt;/p&gt;
 
@@ -81,9 +99,9 @@ the board.  The capturing player may now take another piece off the board of the
  
  <entry>
    <title>A World of Chess Review</title>
-   <link href="http://shop.lizlam.com/2018/07/27/a-world-of-chess-review/"/>
-   <updated>2018-07-27T00:00:00+00:00</updated>
-   <id>http://shop.lizlam.com/2018/07/27/a-world-of-chess-review</id>
+   <link href="http://localhost:4000/2018/07/27/a-world-of-chess-review/"/>
+   <updated>2018-07-27T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2018/07/27/a-world-of-chess-review</id>
    <content type="html">&lt;p&gt;There is no shortage on books about chess.  A quick look on the internet in your favorite search engine will produce overwhelming results.  There are books on the history of chess, the strategy of chess, chess variants, famous chess players and introductions for beginners.  So when I was looking for a book about chess, there was plenty to choose from.  I started off by picking up a copy of Murray’s History of Chess.  Written in 1913, it is a well known classic with a comprehensive look at the origins of chess.&lt;/p&gt;
 
 &lt;p&gt;I didn’t make it pass page 30.&lt;/p&gt;
@@ -101,9 +119,9 @@ the board.  The capturing player may now take another piece off the board of the
  
  <entry>
    <title>How to Play Puluc</title>
-   <link href="http://shop.lizlam.com/2018/07/03/how-to-play-puluc/"/>
-   <updated>2018-07-03T00:00:00+00:00</updated>
-   <id>http://shop.lizlam.com/2018/07/03/how-to-play-puluc</id>
+   <link href="http://localhost:4000/2018/07/03/how-to-play-puluc/"/>
+   <updated>2018-07-03T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2018/07/03/how-to-play-puluc</id>
    <content type="html">&lt;p&gt;Puluc finds its origins from Central America, played by the Ketchi people who are said to be descendants of the Mayans.  It is traditionally played with corn husks and is a wonderful ancient filler game.  Much of the game relies on luck, but it is a strangely satisfying game that often times can end in less than 5 minutes.&lt;/p&gt;
 
 &lt;h2 id=&quot;step-1-setup-the-board&quot;&gt;Step 1: Setup the Board&lt;/h2&gt;
@@ -146,9 +164,9 @@ as follows:&lt;/p&gt;
  
  <entry>
    <title>Photoblog: Making a Senet-Ur Board</title>
-   <link href="http://shop.lizlam.com/2018/06/19/photoblog-senet-ur/"/>
-   <updated>2018-06-19T00:00:00+00:00</updated>
-   <id>http://shop.lizlam.com/2018/06/19/photoblog-senet-ur</id>
+   <link href="http://localhost:4000/2018/06/19/photoblog-senet-ur/"/>
+   <updated>2018-06-19T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2018/06/19/photoblog-senet-ur</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;https://a4games.company/senet-ur/&quot;&gt;Senet-Ur&lt;/a&gt; is a hybrid of two ancient games by &lt;a href=&quot;https://a4games.company/&quot;&gt;A4 Games&lt;/a&gt;.  As its name suggests, it combines the rules and board layout from both Senet and the Royal Game of Ur.  I actually quite like the name “Senet-Ur” because it makes me want to pronounce it like “senator.”&lt;/p&gt;
 
 &lt;p&gt;Like the beginning of any game, I started with the grid layout.  &lt;br /&gt;
@@ -170,9 +188,9 @@ I was quite happy with how the set turned out and even more happy to play a few 
  
  <entry>
    <title>Photoblog: Making a Puluc Board</title>
-   <link href="http://shop.lizlam.com/2018/06/08/photoblog-puluc/"/>
-   <updated>2018-06-08T00:00:00+00:00</updated>
-   <id>http://shop.lizlam.com/2018/06/08/photoblog-puluc</id>
+   <link href="http://localhost:4000/2018/06/08/photoblog-puluc/"/>
+   <updated>2018-06-08T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2018/06/08/photoblog-puluc</id>
    <content type="html">&lt;p&gt;Start off by drawing out the lines.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/puluc-1-photoblog.jpg&quot; alt=&quot;Making a Puluc Board 1&quot; /&gt;&lt;/p&gt;
@@ -200,9 +218,9 @@ Now for the casting sticks and playing pieces.  I paint popsicle sticks and stai
  
  <entry>
    <title>A Busy Royal Game of Ur Board</title>
-   <link href="http://shop.lizlam.com/2018/05/23/busy-royal-game-of-ur/"/>
-   <updated>2018-05-23T00:00:00+00:00</updated>
-   <id>http://shop.lizlam.com/2018/05/23/busy-royal-game-of-ur</id>
+   <link href="http://localhost:4000/2018/05/23/busy-royal-game-of-ur/"/>
+   <updated>2018-05-23T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2018/05/23/busy-royal-game-of-ur</id>
    <content type="html">&lt;p&gt;I’ve done a lot of experimenting with making Royal Game of Ur sets.  The famous set that most people are familiar with at the British Museum is visually beautiful and busy.  &lt;br /&gt;
 I’ve experimented with some more minimal designs like the one below.
 &lt;img src=&quot;/assets/minimal_ur.jpg&quot; alt=&quot;Royal Game of Ur Minimal&quot; /&gt;&lt;/p&gt;
@@ -217,9 +235,9 @@ I’ve experimented with some more minimal designs like the one below.
  
  <entry>
    <title>How to Play Pulijudam</title>
-   <link href="http://shop.lizlam.com/2018/01/02/how-to-play-pulijudam/"/>
-   <updated>2018-01-02T00:00:00+00:00</updated>
-   <id>http://shop.lizlam.com/2018/01/02/how-to-play-pulijudam</id>
+   <link href="http://localhost:4000/2018/01/02/how-to-play-pulijudam/"/>
+   <updated>2018-01-02T00:00:00-08:00</updated>
+   <id>http://localhost:4000/2018/01/02/how-to-play-pulijudam</id>
    <content type="html">&lt;p&gt;Pulijudam is a game much like &lt;a href=&quot;/2017/05/17/how-to-play-fox-and-geese/&quot;&gt;Fox and Geese&lt;/a&gt; out of India.  Also known as Tigers and Lambs, it is an asymmetrical game played on the intersections of a triangular board.  There are 3 tiger pieces and 15 lamb pieces.&lt;/p&gt;
 
 &lt;h2 id=&quot;phase-1-place-the-pieces&quot;&gt;Phase 1: Place the Pieces&lt;/h2&gt;
@@ -249,9 +267,9 @@ I’ve experimented with some more minimal designs like the one below.
  
  <entry>
    <title>The Making of a Go Board</title>
-   <link href="http://shop.lizlam.com/2017/12/12/making-a-go-board/"/>
-   <updated>2017-12-12T00:00:00+00:00</updated>
-   <id>http://shop.lizlam.com/2017/12/12/making-a-go-board</id>
+   <link href="http://localhost:4000/2017/12/12/making-a-go-board/"/>
+   <updated>2017-12-12T00:00:00-08:00</updated>
+   <id>http://localhost:4000/2017/12/12/making-a-go-board</id>
    <content type="html">&lt;p&gt;I recently made a Go board for a friend’s kid.  It’s the second one I’ve done and I really enjoyed the process.  Initially, I felt a bit intimidated about making one in the first place.  Why?  Go boards have a long history of precision and meticulous 
 craftmanship which is really different from the rustic style of my game boards.  At the end of the day, it’s all really about 
 fun and friendship so I was happy to present what I had.  The board is a 9x9 grid, decorated with bamboo and panda illustrations.
@@ -267,9 +285,9 @@ Overall, I was happy with what I ended up with and hope my friend’s son have m
  
  <entry>
    <title>Do-It-Yourself: Egg Carton Mancala</title>
-   <link href="http://shop.lizlam.com/2017/10/02/egg-carton-mancala/"/>
-   <updated>2017-10-02T00:00:00+00:00</updated>
-   <id>http://shop.lizlam.com/2017/10/02/egg-carton-mancala</id>
+   <link href="http://localhost:4000/2017/10/02/egg-carton-mancala/"/>
+   <updated>2017-10-02T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2017/10/02/egg-carton-mancala</id>
    <content type="html">&lt;p&gt;I was recently interested in learning how to play Wari which is a West African game from the Mancala family.  There are a ton of buying options out there, but I wanted to play a few games before purchasing a set.
 I came across a mention of using an empty egg carton and 48 pieces of whatever you can find.&lt;br /&gt;
 You would need to fit at least 4 pieces in each cup for the initial setup.  Coins, coffee beans, rocks or buttons would work.
@@ -282,9 +300,9 @@ Although it wouldn’t replace getting a nice set, it worked out pretty well for
  
  <entry>
    <title>Do-It-Yourself: Painting Resin</title>
-   <link href="http://shop.lizlam.com/2017/08/30/diy-painting-resin/"/>
-   <updated>2017-08-30T00:00:00+00:00</updated>
-   <id>http://shop.lizlam.com/2017/08/30/diy-painting-resin</id>
+   <link href="http://localhost:4000/2017/08/30/diy-painting-resin/"/>
+   <updated>2017-08-30T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2017/08/30/diy-painting-resin</id>
    <content type="html">&lt;p&gt;Casting resin pieces is a great way to make game pieces.  Depending on the resin color, you may want to further enhance your pieces with some custom painting.&lt;/p&gt;
 
 &lt;p&gt;In a &lt;a href=&quot;http://richgames.xyz/2016/10/27/diy-resin-king/&quot;&gt;previous blog&lt;/a&gt;, the white resin was great for a casting the chess pawn because it matched the stone-like quality of the piece.
@@ -305,9 +323,9 @@ This technique can be applied to resin pieces.&lt;/p&gt;
  
  <entry>
    <title>Print and Play the Royal Game of Ur</title>
-   <link href="http://shop.lizlam.com/2017/08/13/royal-game-or-ur-pnp/"/>
-   <updated>2017-08-13T00:00:00+00:00</updated>
-   <id>http://shop.lizlam.com/2017/08/13/royal-game-or-ur-pnp</id>
+   <link href="http://localhost:4000/2017/08/13/royal-game-or-ur-pnp/"/>
+   <updated>2017-08-13T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2017/08/13/royal-game-or-ur-pnp</id>
    <content type="html">&lt;p&gt;Print and plays are a great way to try out games before investing money on a nice set.  In some cases, especially
 with independent game designers, it’s the only way to play their games.  They are also great for classroom use or
 group use.  If anything, it’s fun and cheap entertainment.  I recently explored creating one for the Royal Game of Ur
@@ -324,9 +342,9 @@ re-live those college budget nights. :) Happy Gaming!&lt;/p&gt;
  
  <entry>
    <title>How to Play Senet</title>
-   <link href="http://shop.lizlam.com/2017/08/12/how-to-play-senet/"/>
-   <updated>2017-08-12T00:00:00+00:00</updated>
-   <id>http://shop.lizlam.com/2017/08/12/how-to-play-senet</id>
+   <link href="http://localhost:4000/2017/08/12/how-to-play-senet/"/>
+   <updated>2017-08-12T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2017/08/12/how-to-play-senet</id>
    <content type="html">&lt;p&gt;Senet is an ancient Egyptian board game played on a 3x10 grid board.  It was being played before 3000 B.C. and have been
 found in burial tombs.  One of the most eleaborate boards belonged to King Tutankhamun.  No rules have survived and many
 game historians have sought to reconstruct the game.  These rules are by British Museum curator, Irving Finkel.&lt;/p&gt;
@@ -368,9 +386,9 @@ move their piece.  The value is determined by how many marked sides are up.  If 
  
  <entry>
    <title>How to Play Five Lines</title>
-   <link href="http://shop.lizlam.com/2017/07/31/how-to-play-five-lines/"/>
-   <updated>2017-07-31T00:00:00+00:00</updated>
-   <id>http://shop.lizlam.com/2017/07/31/how-to-play-five-lines</id>
+   <link href="http://localhost:4000/2017/07/31/how-to-play-five-lines/"/>
+   <updated>2017-07-31T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2017/07/31/how-to-play-five-lines</id>
    <content type="html">&lt;p&gt;Five Lines was a game originating from Ancient Greece where it was known as Penta Grammai.  The earliest reference to it is in 600 B.C. in a verse by Greek poet, Alkaios.  It became popular among the Romans and boards have been found etched into
 pavements of old Roman towns.&lt;/p&gt;
 
@@ -398,15 +416,15 @@ pavements of old Roman towns.&lt;/p&gt;
  
  <entry>
    <title>How to Play Five Men's Morris</title>
-   <link href="http://shop.lizlam.com/2017/07/25/how-to-play-five-mens-morris/"/>
-   <updated>2017-07-25T00:00:00+00:00</updated>
-   <id>http://shop.lizlam.com/2017/07/25/how-to-play-five-mens-morris</id>
+   <link href="http://localhost:4000/2017/07/25/how-to-play-five-mens-morris/"/>
+   <updated>2017-07-25T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2017/07/25/how-to-play-five-mens-morris</id>
    <content type="html">&lt;p&gt;Five Men’s Morris is a merels game from Europe.  It also almost identical to Six Men’s Morris which only differs
 by the fact that each player gets an extra piece.  Diagrams of the board have been found in 16th century manuscripts.&lt;/p&gt;
 
 &lt;h2 id=&quot;phase-1-place-the-pieces&quot;&gt;Phase 1: Place the Pieces&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/five.png&quot; alt=&quot;Five Men&#39;s Morris&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/five.png&quot; alt=&quot;Five Men's Morris&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Each player gets 5 pieces and take turns placing them on the board with the intention of trying to make 3 in a row.&lt;/li&gt;
@@ -428,14 +446,14 @@ by the fact that each player gets an extra piece.  Diagrams of the board have be
  
  <entry>
    <title>How to Play Three Men's Morris</title>
-   <link href="http://shop.lizlam.com/2017/07/20/how-to-play-three-mens-morris/"/>
-   <updated>2017-07-20T00:00:00+00:00</updated>
-   <id>http://shop.lizlam.com/2017/07/20/how-to-play-three-mens-morris</id>
+   <link href="http://localhost:4000/2017/07/20/how-to-play-three-mens-morris/"/>
+   <updated>2017-07-20T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2017/07/20/how-to-play-three-mens-morris</id>
    <content type="html">&lt;p&gt;Three Men’s Morris is a simple strategy game played by the ancient Romans.&lt;/p&gt;
 
 &lt;h2 id=&quot;phase-1-place-the-pieces&quot;&gt;Phase 1: Place the Pieces&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/three.png&quot; alt=&quot;Three Men&#39;s Morris&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/three.png&quot; alt=&quot;Three Men's Morris&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Each player gets 3 pieces and take turns placing them on the board with the intention of trying to make 3 in a row.&lt;/li&gt;
@@ -456,9 +474,9 @@ by the fact that each player gets an extra piece.  Diagrams of the board have be
  
  <entry>
    <title>Roman Cats - A Retheming of Shut the Box</title>
-   <link href="http://shop.lizlam.com/2017/07/03/retheming-shut-the-box/"/>
-   <updated>2017-07-03T00:00:00+00:00</updated>
-   <id>http://shop.lizlam.com/2017/07/03/retheming-shut-the-box</id>
+   <link href="http://localhost:4000/2017/07/03/retheming-shut-the-box/"/>
+   <updated>2017-07-03T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2017/07/03/retheming-shut-the-box</id>
    <content type="html">&lt;p&gt;Retheming is a fun way to breathe new life into old abstract games.  I recently experimented with making wooden Roman numeral dice and that is where the idea began.  Shut the Box is an old English pub game that is still fairly popular today.  There are many variations and sets available online.&lt;br /&gt;
 I was thinking about how to make a set without having to construct the actual box.  It’s a super simple game that could be potentially played using just a deck of card and set of dice.  With this in mind, I made 9 cat tokens, each with a Roman numeral across the top.  My 11 year old nephew and his friend assisted me with the cat drawings.
  &lt;strong&gt;Roman Cats&lt;/strong&gt;, a kitty themed version of Shut the Box was born!&lt;/p&gt;
@@ -489,9 +507,11 @@ sum of the rolled dice.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;The player with the highest score wins.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Optional End Rules&lt;/em&gt;
-* The player who takes the last token receives an extra 6 points
-* If the player who took the last token is winning by less than 6 points, the losing player has a chance to roll both dice again.  If they roll exactly a 6, they also receive 6 bonus points.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Optional End Rules&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The player who takes the last token receives an extra 6 points&lt;/li&gt;
+  &lt;li&gt;If the player who took the last token is winning by less than 6 points, the losing player has a chance to roll both dice again.  If they roll exactly a 6, they also receive 6 bonus points.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;Using Roman numerals added an additional learning element since you have to know your Roman numerals to play!  It might also be interesting to make a Chinese version with Kanji characters. In any event, retheming games is a great way to include family and friends in interacting via board games.  My nephew and his friend (who both happen to love cats) approved and enjoyed a game that they may have not otherwise played.&lt;/p&gt;
 
@@ -506,9 +526,9 @@ sum of the rolled dice.&lt;/p&gt;
  
  <entry>
    <title>Games - Discover and Play 5 Famous Ancient Games</title>
-   <link href="http://shop.lizlam.com/2017/06/03/discover-and-play-review/"/>
-   <updated>2017-06-03T00:00:00+00:00</updated>
-   <id>http://shop.lizlam.com/2017/06/03/discover-and-play-review</id>
+   <link href="http://localhost:4000/2017/06/03/discover-and-play-review/"/>
+   <updated>2017-06-03T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2017/06/03/discover-and-play-review</id>
    <content type="html">&lt;p&gt;For the individual discovering the beauty of ancient games, &lt;strong&gt;Games - Discover and Play 5 Famous Ancient Games&lt;/strong&gt; by Irving Finkel 
 is a great gentle introduction into that world.  It is originally a children’s activity book published by the British Museum.
 It takes a child (and the child at heart) through 5 different ancient race games: Duodecim Scripta, Royal Game of Ur, Ancient Egyptian Senet, Pachisi,
@@ -535,9 +555,9 @@ try out each game before investing in nicer sets.  The boards and the rules are 
  
  <entry>
    <title>How to Play Fox and Geese</title>
-   <link href="http://shop.lizlam.com/2017/05/17/how-to-play-fox-and-geese/"/>
-   <updated>2017-05-17T00:00:00+00:00</updated>
-   <id>http://shop.lizlam.com/2017/05/17/how-to-play-fox-and-geese</id>
+   <link href="http://localhost:4000/2017/05/17/how-to-play-fox-and-geese/"/>
+   <updated>2017-05-17T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2017/05/17/how-to-play-fox-and-geese</id>
    <content type="html">&lt;p&gt;Fox and Geese is a northern European hunt game played with 13 geese and 1 fox.  Its asymmetrical nature is similar to that of hnefatafl.  Some theorize there is a relationship between two.  Queen Victoria is said to also be a fan on this medieval game.&lt;/p&gt;
 
 &lt;h2 id=&quot;step-1-setup-the-board&quot;&gt;Step 1: Setup the Board&lt;/h2&gt;
@@ -567,15 +587,15 @@ try out each game before investing in nicer sets.  The boards and the rules are 
  
  <entry>
    <title>How to Play Nine Men's Morris</title>
-   <link href="http://shop.lizlam.com/2017/05/07/how-to-to-play-nine-mens-morris/"/>
-   <updated>2017-05-07T00:00:00+00:00</updated>
-   <id>http://shop.lizlam.com/2017/05/07/how-to-to-play-nine-mens-morris</id>
+   <link href="http://localhost:4000/2017/05/07/how-to-to-play-nine-mens-morris/"/>
+   <updated>2017-05-07T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2017/05/07/how-to-to-play-nine-mens-morris</id>
    <content type="html">&lt;p&gt;Nine Men’s Morris is an ancient game with an unknown origin.  Historic boards
 have been found in Troy, Ireland, and Egypt.  The Romans took it across its empire and it has even found it’s way on the back of Viking Hnefatafl boards.&lt;/p&gt;
 
 &lt;h2 id=&quot;step-1-setup-the-board&quot;&gt;Step 1: Setup the Board&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/nine.png&quot; alt=&quot;Nine Men&#39;s Morris&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/nine.png&quot; alt=&quot;Nine Men's Morris&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Black starts the placement phase of the game.&lt;/li&gt;
@@ -604,9 +624,9 @@ first will balance out the game.&lt;/p&gt;
  
  <entry>
    <title>How to Play Seega</title>
-   <link href="http://shop.lizlam.com/2017/05/03/how-to-play-seega/"/>
-   <updated>2017-05-03T00:00:00+00:00</updated>
-   <id>http://shop.lizlam.com/2017/05/03/how-to-play-seega</id>
+   <link href="http://localhost:4000/2017/05/03/how-to-play-seega/"/>
+   <updated>2017-05-03T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2017/05/03/how-to-play-seega</id>
    <content type="html">&lt;p&gt;Seega is a small abstract game from 19th century Egypt.  It has some similarities with the tafl family of games with its sandwiching capture method.  It is
 played on a 5x5 grid with 24 pieces (12 per player).&lt;/p&gt;
 
@@ -635,9 +655,9 @@ played on a 5x5 grid with 24 pieces (12 per player).&lt;/p&gt;
  
  <entry>
    <title>How to Play the Royal Game of Ur</title>
-   <link href="http://shop.lizlam.com/2017/04/25/how-to-play-the-royal-game-of-ur/"/>
-   <updated>2017-04-25T00:00:00+00:00</updated>
-   <id>http://shop.lizlam.com/2017/04/25/how-to-play-the-royal-game-of-ur</id>
+   <link href="http://localhost:4000/2017/04/25/how-to-play-the-royal-game-of-ur/"/>
+   <updated>2017-04-25T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2017/04/25/how-to-play-the-royal-game-of-ur</id>
    <content type="html">&lt;p&gt;The Royal Game of Ur dates back to 2600 B.C.  It is the most complete ancient board game known to date. In 1926, Sir Leonard Woolley discovered the board and pieces while excavating the royal tombs in Ur (modern day Iraq).  British Museum’s curator Irving Finkel &lt;a href=&quot;https://www.youtube.com/watch?v=wHjznvH54Cw&quot;&gt;discovered the rules&lt;/a&gt; on a cuneiform tablet where both the &lt;a href=&quot;http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=8817&amp;amp;partId=1&quot;&gt;board and tablet are on display&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;step-1-start-with-a-blank-board&quot;&gt;Step 1: Start with a Blank Board&lt;/h2&gt;
@@ -680,9 +700,9 @@ played on a 5x5 grid with 24 pieces (12 per player).&lt;/p&gt;
  
  <entry>
    <title>How to Play French Military Game</title>
-   <link href="http://shop.lizlam.com/2017/02/20/how-to-play-french-military-game/"/>
-   <updated>2017-02-20T00:00:00+00:00</updated>
-   <id>http://shop.lizlam.com/2017/02/20/how-to-play-french-military-game</id>
+   <link href="http://localhost:4000/2017/02/20/how-to-play-french-military-game/"/>
+   <updated>2017-02-20T00:00:00-08:00</updated>
+   <id>http://localhost:4000/2017/02/20/how-to-play-french-military-game</id>
    <content type="html">&lt;p&gt;The French Military Game is a 19th century game played with just 4 pieces: 3 hunters and 1 prey.
 It was popular among French officers during the Franco-Prussian War of 1870-71.
 Also known as Hare &amp;amp; Hounds, it is one of the smallest hunt games.  Mathematician Martin
@@ -716,9 +736,9 @@ the game “combines extreme simplicity with extraordinary strategic subtley.”
  
  <entry>
    <title>How to Play Fanorona</title>
-   <link href="http://shop.lizlam.com/2016/12/31/how-to-play-fanorona/"/>
-   <updated>2016-12-31T00:00:00+00:00</updated>
-   <id>http://shop.lizlam.com/2016/12/31/how-to-play-fanorona</id>
+   <link href="http://localhost:4000/2016/12/31/how-to-play-fanorona/"/>
+   <updated>2016-12-31T00:00:00-08:00</updated>
+   <id>http://localhost:4000/2016/12/31/how-to-play-fanorona</id>
    <content type="html">&lt;p&gt;Fanorona is a game from Madagascar that dates back to 1680.  It is a beautiful game
 played with 44 pieces (22 per player) and has a unique method of capturing.
 The game has experienced a bit of a revival in modern times due to its &lt;a href=&quot;https://www.youtube.com/watch?v=Vn5WIwlYY6Y&quot;&gt;inclusion
@@ -756,9 +776,9 @@ game alquerque, the unique capturing methods makes it stand solidly on its own.&
  
  <entry>
    <title>How to Play Sea Battle Tafl</title>
-   <link href="http://shop.lizlam.com/2016/11/06/how-to-play-sea-battle-tafl/"/>
-   <updated>2016-11-06T00:00:00+00:00</updated>
-   <id>http://shop.lizlam.com/2016/11/06/how-to-play-sea-battle-tafl</id>
+   <link href="http://localhost:4000/2016/11/06/how-to-play-sea-battle-tafl/"/>
+   <updated>2016-11-06T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2016/11/06/how-to-play-sea-battle-tafl</id>
    <content type="html">&lt;p&gt;Sea Battle Tafl is a modern variation of hnefatafl.  It is played on a 9x9 board with a total 25 of pieces much like &lt;a href=&quot;http://richgames.xyz/2016/09/25/how-to-play-tablut/&quot;&gt;Tablut&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;step-1-arrange-the-pieces&quot;&gt;Step 1: Arrange the Pieces&lt;/h2&gt;
@@ -797,9 +817,9 @@ The attacker/pirate ship pieces surround the defenders making a cross symbol.&lt
  
  <entry>
    <title>Do-It-Yourself: Casting a Resin King</title>
-   <link href="http://shop.lizlam.com/2016/10/27/diy-resin-king/"/>
-   <updated>2016-10-27T00:00:00+00:00</updated>
-   <id>http://shop.lizlam.com/2016/10/27/diy-resin-king</id>
+   <link href="http://localhost:4000/2016/10/27/diy-resin-king/"/>
+   <updated>2016-10-27T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2016/10/27/diy-resin-king</id>
    <content type="html">&lt;p&gt;One of the many enduring qualities of tafl games is the simplicity of the pieces.   No matter what size board or what rule variation (with perhaps the exception of &lt;a href=&quot;http://aagenielsen.dk/berserk_rules.php&quot;&gt;Berserk Hnefatafl&lt;/a&gt;), a set only need pieces of 3 distinctions: attackers, defenders and a king.  This makes it easier to create your own set.  It is common to see decorative glass gems as hnefatafl pieces.  In the &lt;a href=&quot;http://www.richgames.xyz/2016/10/24/diy-brandub/&quot;&gt;last post&lt;/a&gt;, we started to make a &lt;a href=&quot;http://www.richgames.xyz/2016/09/18/basic-brandub/&quot;&gt;Basic Brandub&lt;/a&gt; game with these.  Let’s upgrade the set a bit with a hand-casted resin king piece.&lt;/p&gt;
 
 &lt;p&gt;Tucked away in a drawer, I had an old chess pawn given to me by my best friend in grade school.  I’ve had this pawn since I was 7 or 8 years old.  It reminds me of my first friendship and being that tafl games are great to play with friends, it was a fitting piece to cast.  Obviously, pick an item that works for you and give your set a personal touch.&lt;/p&gt;
@@ -821,9 +841,9 @@ The attacker/pirate ship pieces surround the defenders making a cross symbol.&lt
  
  <entry>
    <title>Do-It-Yourself: Make a Brandub Set</title>
-   <link href="http://shop.lizlam.com/2016/10/24/diy-brandub/"/>
-   <updated>2016-10-24T00:00:00+00:00</updated>
-   <id>http://shop.lizlam.com/2016/10/24/diy-brandub</id>
+   <link href="http://localhost:4000/2016/10/24/diy-brandub/"/>
+   <updated>2016-10-24T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2016/10/24/diy-brandub</id>
    <content type="html">&lt;p&gt;Making board games can be a fun, creative and sometimes frustrating adventure. There is something wonderful about playing a game with family and friends on something created by your own hands.  This is the first in a series of Do-It-Yourself blog articles on how to do just that and some of the lessons learned in the process. In this first article, we will describe the beginnings steps in making a &lt;a href=&quot;/2016/09/18/basic-brandub/&quot;&gt;Basic Brandub&lt;/a&gt; set.&lt;/p&gt;
 
 &lt;h2 id=&quot;the-board&quot;&gt;The Board&lt;/h2&gt;
@@ -850,9 +870,9 @@ found in hobby stores for decorative purposes.  &lt;a href=&quot;http://www.hobb
  
  <entry>
    <title>How to Play Fetlar Hnefatafl</title>
-   <link href="http://shop.lizlam.com/2016/10/12/how-to-play-fetlar-hnefatafl/"/>
-   <updated>2016-10-12T00:00:00+00:00</updated>
-   <id>http://shop.lizlam.com/2016/10/12/how-to-play-fetlar-hnefatafl</id>
+   <link href="http://localhost:4000/2016/10/12/how-to-play-fetlar-hnefatafl/"/>
+   <updated>2016-10-12T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2016/10/12/how-to-play-fetlar-hnefatafl</id>
    <content type="html">&lt;p&gt;The Fetlar rule variant is a common and popular way to play hnefatafl on a 11x11 board. There are 37 total pieces,
 24 attackers, 12 defenders and 1 king.&lt;/p&gt;
 
@@ -893,9 +913,9 @@ The attacker pieces surround the defenders along the perimeter of the board.&lt;
  
  <entry>
    <title>A Review of The Lewis Chessmen Unmasked</title>
-   <link href="http://shop.lizlam.com/2016/10/07/lewis-chessmen-unmasked-review/"/>
-   <updated>2016-10-07T00:00:00+00:00</updated>
-   <id>http://shop.lizlam.com/2016/10/07/lewis-chessmen-unmasked-review</id>
+   <link href="http://localhost:4000/2016/10/07/lewis-chessmen-unmasked-review/"/>
+   <updated>2016-10-07T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2016/10/07/lewis-chessmen-unmasked-review</id>
    <content type="html">&lt;p&gt;Any fascination with the ancient game of hnefatafl will eventually lead to the Lewis Chessmen.  The most commercially available set, &lt;a href=&quot;http://tafl.cyningstan.com/stock/1242/the-viking-game&quot;&gt;The Viking Game&lt;/a&gt; uses pieces inspired by them. The more motivated enthusiast have used them in DIY sets and their Norse origin is undeniable.  There are a ton of books out there about the Lewis Chessmen. The British Museum and the National Museum of Scotland put on a joint exhibition (not all the pieces belong to one museum) in 2010. &lt;em&gt;The Lewis Chessmen: Unmasked&lt;/em&gt; by David Caldwell is the companion book to that exhibition.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.britishmuseum.org/about_us/news_and_press/statements/the_lewis_chessmen.aspx&quot;&gt;The Lewis Chessmen&lt;/a&gt; is a collection of chess pieces dating back to the 12th century.  They were found accidentally in the
@@ -910,9 +930,9 @@ Though it is a pale substitute for viewing the chessmen in real life, it does a 
  
  <entry>
    <title>How to Play Tablut</title>
-   <link href="http://shop.lizlam.com/2016/09/25/how-to-play-tablut/"/>
-   <updated>2016-09-25T00:00:00+00:00</updated>
-   <id>http://shop.lizlam.com/2016/09/25/how-to-play-tablut</id>
+   <link href="http://localhost:4000/2016/09/25/how-to-play-tablut/"/>
+   <updated>2016-09-25T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2016/09/25/how-to-play-tablut</id>
    <content type="html">&lt;p&gt;Tablut is played on a 9x9 board with a total 25 of pieces.  This includes 16 attackers, 8 defenders and 1 king.
 It was played in Lapland as late as the 18th century and is the most documented hnefatafl game thanks to Swedish botanist Carl Linneaus.  In 1732, while touring the area he came across the game played by the locals and &lt;a href=&quot;https://archive.org/stream/ungdomsskrifter02linne#page/n155/mode/2up&quot;&gt;described it in his diary&lt;/a&gt;.&lt;/p&gt;
 
@@ -955,9 +975,9 @@ The attacker pieces surround the defenders making a cross symbol.&lt;/p&gt;
  
  <entry>
    <title>How to Play Brandub</title>
-   <link href="http://shop.lizlam.com/2016/09/20/how-to-play-brandub/"/>
-   <updated>2016-09-20T00:00:00+00:00</updated>
-   <id>http://shop.lizlam.com/2016/09/20/how-to-play-brandub</id>
+   <link href="http://localhost:4000/2016/09/20/how-to-play-brandub/"/>
+   <updated>2016-09-20T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2016/09/20/how-to-play-brandub</id>
    <content type="html">&lt;p&gt;Brandub is an Irish variant of hnefatafl.  It is played on a 7x7 board with 13 pieces.
 Although it is the tiny sibling of all the hnefatafl games, it is just as fun and strategic.&lt;/p&gt;
 
@@ -1004,9 +1024,9 @@ The attacker pieces surround the defenders making a cross symbol.&lt;/p&gt;
  
  <entry>
    <title>What is Hnefatafl?</title>
-   <link href="http://shop.lizlam.com/2016/09/19/what-is-hnefatafl/"/>
-   <updated>2016-09-19T00:00:00+00:00</updated>
-   <id>http://shop.lizlam.com/2016/09/19/what-is-hnefatafl</id>
+   <link href="http://localhost:4000/2016/09/19/what-is-hnefatafl/"/>
+   <updated>2016-09-19T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2016/09/19/what-is-hnefatafl</id>
    <content type="html">&lt;p&gt;Besides it’s somewhat unfortunate name, hnefatafl (pronounced “neffa-taffle”) is a wonderful ancient game the Vikings played.  Commonly thought
 to be a predecessor of chess, it is much simpler but just as addicting.  Originally from
 Scandanavia, as the Vikings migrated (a.k.a. raided other regions) they brought hnefatafl with
@@ -1038,9 +1058,9 @@ Hnefatafl is not a game most people know about.  But it’s certainly a game tha
  
  <entry>
    <title>Basic Brandub</title>
-   <link href="http://shop.lizlam.com/2016/09/18/basic-brandub/"/>
-   <updated>2016-09-18T00:00:00+00:00</updated>
-   <id>http://shop.lizlam.com/2016/09/18/basic-brandub</id>
+   <link href="http://localhost:4000/2016/09/18/basic-brandub/"/>
+   <updated>2016-09-18T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2016/09/18/basic-brandub</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/brandub-product.jpg&quot; alt=&quot;Brandub&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Brandub is the Irish variant of the ancient Viking game of hnefatafl.&lt;/p&gt;

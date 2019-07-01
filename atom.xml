@@ -4,7 +4,7 @@
  <title>Rich Games</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2019-06-30T22:50:35-07:00</updated>
+ <updated>2019-06-30T23:07:10-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Liz Lam</name>
@@ -69,7 +69,7 @@ Tawlbwrdd (2 variations)  &lt;br /&gt;
 Hnefatafl (3 variations)  &lt;br /&gt;
 Alea Evangelii&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../assets/tafl_kindle.jpg&quot; alt=&quot;Tafl Book Pic&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/tafl_kindle.jpg&quot; alt=&quot;Tafl Book Pic&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;There are helpful diagrams of starting positions included with each section.&lt;/p&gt;
 

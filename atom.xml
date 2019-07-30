@@ -4,7 +4,7 @@
  <title>Rich Games</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2019-07-22T22:39:39-07:00</updated>
+ <updated>2019-07-29T21:36:53-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Liz Lam</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Photoblog: Making a Cam Board</title>
-   <link href="http://localhost:4000/2019/07/22/photoblog-cam/"/>
-   <updated>2019-07-22T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2019/07/22/photoblog-cam</id>
+   <link href="http://localhost:4000/2019/07/29/photoblog-cam/"/>
+   <updated>2019-07-29T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2019/07/29/photoblog-cam</id>
    <content type="html">&lt;p&gt;In 1882, George S. Parker of Parker Brother started working on a game called &lt;a href=&quot;boardgamegeek.com/boardgame/117864/chivalry&quot;&gt;Chivalry&lt;/a&gt;.  He wanted to create a game that was less complicated than chess but more interesting than checkers.  It was published in 1887 but did not really gain mainstream interest.  In 1930’s, the game was slightly modified, republished as Camelot and enjoyed it’s “golden age”.  &lt;a href=&quot;boardgamegeek.com/boardgame/5251/camelot&quot;&gt;Camelot&lt;/a&gt; was said to be played by well known folks such as Jose Raul Capablanca and John F. Kennedy.  In 1949, a smaller version of Camelot called &lt;a href=&quot;boardgamegeek.com/boardgame/117869/cam&quot;&gt;Cam&lt;/a&gt; was released.  The &lt;a href=&quot;boardgamegeek.com/boardgame/5251/camelot&quot;&gt;rules&lt;/a&gt; are pretty much the same as Camelot with some modification due to having a smaller board and less pieces.&lt;/p&gt;
 
 &lt;p&gt;You can easily find used versions of Camelot on eBay or etsy, but this is not so true for Cam.  Since I really enjoyed playing Camelot (having picked up a used copy in the past), I’d thought it be a fun project to make my own Cam board.&lt;/p&gt;
@@ -34,6 +34,29 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/final_cam.jpg&quot; alt=&quot;Final Cam&quot; /&gt;
 And I’m glad I did! It’s not perfect, but I like the rustic flag and it feels good to play on. I haven’t quite settled on the playing pieces yet, so that will be another project to work on…&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Modern Abstract Spotlight: Chameleon by Logy Games</title>
+   <link href="http://localhost:4000/2019/07/28/modern-abstract-spotlight-chameleon/"/>
+   <updated>2019-07-28T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2019/07/28/modern-abstract-spotlight-chameleon</id>
+   <content type="html">&lt;p&gt;If you’re a fan of light chess variants and unique components, you’ll love Chameleon by &lt;a href=&quot;http://www.logygames.com/english/index.html&quot;&gt;Logy Games&lt;/a&gt;.
+Mitsuo Yamamoto is the designer behind the game and the company which produces these hand-made ceramic sets.  At its core, Chameleon is a small chess game reduced to the movements of kings, knights and bishops.  Every piece has a “nature” and can always move one space any direction like a king.  The “nature” is essentially the middle color of each piece (black or white).  This determines if a piece can move like a knight or bishop depending on what square it’s on.&lt;/p&gt;
+
+&lt;p&gt;The variable moves can be summed up with the following:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;If the piece’s nature matches the square color, it moves like a bishop.&lt;/strong&gt;  &lt;br /&gt;
+&lt;strong&gt;If the piece’s nature doesn’t match the square, it moves like a knight.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The goal is to either capture all your opponents pieces or move one of your pieces to the other side of the board without being captured on the next move.   &lt;br /&gt;
+&lt;img src=&quot;/assets/chameleon.jpg&quot; alt=&quot;Chameleon Game Setup&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I would highly recommend it to any fans of simple abstract strategy games.  If you want to give it a try, it’s pretty easy to make your own version.&lt;/p&gt;
+
+&lt;p&gt;Here is also a print and play image that was made available on the &lt;a href=&quot;https://www.kickstarter.com/projects/logygames/chameleon-a-modern-version-of-chess/description&quot;&gt;Kickstarter campaign page&lt;/a&gt;.&lt;br /&gt;
+&lt;img src=&quot;/assets/Chameleon_PNP.jpg&quot; alt=&quot;Chameleon Print and Play&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  

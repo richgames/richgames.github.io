@@ -4,13 +4,119 @@
  <title>Rich Games</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2019-11-05T22:50:09-08:00</updated>
+ <updated>2019-12-04T00:12:34-08:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Liz Lam</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>A Review of Thai Chess and Cambodian Chess by Gary Gifford</title>
+   <link href="http://localhost:4000/2019/12/03/thai-chess-review/"/>
+   <updated>2019-12-03T00:00:00-08:00</updated>
+   <id>http://localhost:4000/2019/12/03/thai-chess-review</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/thai_chess_book.jpg&quot; alt=&quot;Book&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://amzn.to/2Ymffas&quot;&gt;Thai Chess and Cambodian Chess: Makruk and Ouk Chattrangi&lt;/a&gt; is a self published book by Gary Gifford.  Those who love chess variants will appreciate this short read.  In just under 90 pages, Gifford gives an introduction to the history, rules, openings, recorded games and describes homemade sets.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Gifford starts off with how he was personally introduced to Makruk when some friends invited him to play.  This peaked his interest and led him on a quest to find a book on this regional variant.  He even went as far as to contact a bookstore in Bangkok but with no success.  As the result of a seemingly lack of Makruk books in the world, he decided to write this one.&lt;/p&gt;
+
+&lt;p&gt;Ouk Chattrang (the Cambodian version) is almost identical to Makruk. Both games appeared in the center of the former Khmer Empire (9th-15th A.D.).  The Khmer Empire included modern day Cambodia, Thailand, Laos, Vietnam, Myanmar and Malaysia.  Gifford gives a brief history, borrowing much of his information from H.R. Murray’s classic, History of Chess (1913).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Rules&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;One of the notable differences in Makruk is where the pawns are located.  Instead of the 2nd and 7th rank, the pawns sit on the 3rd and 6th rank.  Coincidentally (or maybe not), pawns do not move 2 spaces on their first moves and there is no en passant captures.  There is also no castling.&lt;/p&gt;
+
+&lt;p&gt;Another more subtle setup difference is Kings face the enemy Queens.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/makruk.jpg&quot; alt=&quot;Makruk board&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Makruk and Ouk Chattrang Setup&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The moves of most of the pieces will feel familiar with the exception of the Bishop and Queen.
+These are much weaker pieces compared to those of Western chess.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The &lt;strong&gt;Rook&lt;/strong&gt; moves the same as Western chess, any number of spaces in an orthogonal manner.&lt;/li&gt;
+  &lt;li&gt;The &lt;strong&gt;Horse&lt;/strong&gt; moves the same “L” shape move as the Western Knight.&lt;/li&gt;
+  &lt;li&gt;The &lt;strong&gt;Bishop&lt;/strong&gt; can only move 1 space diagonally or forward (not directly backwards or to the side).&lt;/li&gt;
+  &lt;li&gt;The &lt;strong&gt;King&lt;/strong&gt; moves 1 space any direction as the Western King, but there is no castling.&lt;/li&gt;
+  &lt;li&gt;The &lt;strong&gt;Queen&lt;/strong&gt; moves 1 space diagonally.&lt;/li&gt;
+  &lt;li&gt;The &lt;strong&gt;Pawns&lt;/strong&gt; move 1 space forward and capture 1 space diagonally as in Western Chess.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Pawns promote on the 6th rank and only promote to Queens.  Which is unfortunate since the Queen
+is almost the weakest piece on the board (second only to the pawns themselves).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Special Ouk Chattrang Rules&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Ouk Chattrang has a couple of special first moves that is not in Makruk.&lt;/p&gt;
+
+&lt;p&gt;The King is allowed to move like a Horse on it’s first move, ending up on the 2nd rank.
+The Queen is allowed to move forward 2 spaces on her first move.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Counting Rules&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;One of the most unique things about Makruk that differentiates it from other regional chess variants is the counting rules.  Although, I have usually skipped these rules, Gifford emphasizes the importance of playing with them.  He compares playing Makruk without the counting rules is like playing Western chess without the castling rule or en passant captures.  This convinced me that in order to play an authentic version of a game, you can’t simply leave out rules that are not to your liking.&lt;/p&gt;
+
+&lt;p&gt;The counting rules fall into 2 major categories:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;No Pawns&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;When all the pawns are captured or promoted (i.e. no one has pawns), the game must end in checkmate after 64 moves.
+It is up the losing player to keep this count and you can end up with a draw instead of a lost.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Bare King&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;When the losing player only has a King left on the board, look at the winning player’s pieces and this determines how many moves they have to checkmate.&lt;/p&gt;
+
+&lt;p&gt;If the winning player has:&lt;/p&gt;
+
+&lt;p&gt;2 Rooks, then 8 minus total number of pieces on the board.  &lt;br /&gt;
+1 Rook, then 16 minus total number of pieces on the board.  &lt;br /&gt;
+2 Bishops, then 22 minus total number of pieces on the board.  &lt;br /&gt;
+2 Horses, then 32 minus total number of pieces on the board.  &lt;br /&gt;
+1 Bishop, then 44 minus total number of pieces on the board.  &lt;br /&gt;
+1 Horse, then 64 minus total number of pieces on the board.  &lt;br /&gt;
+Only Queens Left, then 64 minus total number of pieces on the board.&lt;/p&gt;
+
+&lt;p&gt;The game can conceivable move from a No Pawns count to a Bare King count.
+Once you are counting from the calculation made in the Bare King category, that’s it.
+No recalculation is done.&lt;/p&gt;
+
+&lt;p&gt;I initially found this a bit confusing (which is why I have ignore the counting rules in the past).  Gifford seems to acknowledge this by providing counting exercises and answers in order for the new player to learn.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Openings and Games&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Next he categorizes and goes through a 16 different openings with names like “King Horse Low / Queen Horse High” and “Two Horse Low (Low Horse Constellation)”&lt;/p&gt;
+
+&lt;p&gt;Here is a little video I made with &lt;a href=&quot;https://amzn.to/2qhCIgb&quot;&gt;my set&lt;/a&gt; to help further explain.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/NRpwDSy04P0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;As if to complement the 16 openings, Gifford then goes through 16 games, annotating and providing his insight every step of the way.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Making Your Own Set&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The last section is full of pictures and instructions on how to make your own sets.  This is covers everything from modifying &lt;a href=&quot;https://amzn.to/2Yj0GV8&quot;&gt;cheap plastic&lt;/a&gt; sets to taking a trip to the hardware store to find nuts and bolts that would match.  Gifford insists on using pieces as traditional as possible.  Like the counting rules, there is an authenticity to it and it just wouldn’t quite be the same otherwise.&lt;/p&gt;
+
+&lt;p&gt;He states: &lt;strong&gt;&lt;em&gt;“I will not play Makruk using a western set anymore than I would play a game of checkers using chess pieces.”&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;There is something that rings true about that statement.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Overall, if you have interest in Makruk or Ouk Chattrang, this is a great little book to get started with.  The author’s passion and expertise really comes through and it’s fun to share in some of that enthusiasm.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Drawing Fun with Inktober 2019</title>

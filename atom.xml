@@ -4,7 +4,7 @@
  <title>Rich Games</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-02-12T20:26:14-08:00</updated>
+ <updated>2020-02-12T20:48:08-08:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Liz Lam</name>
@@ -13,7 +13,7 @@
 
  
  <entry>
-   <title>Making a Nogging the Nog Dice Tower</title>
+   <title>Making a Noggin the Nog Dice Tower</title>
    <link href="http://localhost:4000/2020/02/06/noggin-dice-tower/"/>
    <updated>2020-02-06T00:00:00-08:00</updated>
    <id>http://localhost:4000/2020/02/06/noggin-dice-tower</id>

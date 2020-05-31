@@ -4,13 +4,35 @@
  <title>Rich Games</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-02-12T20:48:08-08:00</updated>
+ <updated>2020-05-31T02:42:34-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Liz Lam</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Progressive Morris Games</title>
+   <link href="http://localhost:4000/2020/04/24/progressive-morris/"/>
+   <updated>2020-04-24T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2020/04/24/progressive-morris</id>
+   <content type="html">&lt;p&gt;It’s been pretty crazy in this post COVID-19 world.  I live in the San Francisco Bay Area and we’ve been sheltering in place for over a month now.  As I adjust to having the kids home due to school closures and still trying to work a full time job, there’s been little time for game &lt;em&gt;making&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;On the other hand, there has been ample time for game &lt;em&gt;playing&lt;/em&gt; with the kids.&lt;/p&gt;
+
+&lt;p&gt;We’ve been spending a lot of afternoons in the front yard where there is a stone path to the gate.
+One of the days, I decided to teach my 5 year old how to play some of the Morris games progressively.  Using chalk, I drew a 3 Men’s Morris board on one of the stones, then 5 Men’s Morris on the next one, and finally 9 Men’s Morris.&lt;/p&gt;
+
+&lt;p&gt;We played each game starting with the simplest.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/prog_morris_game.jpg&quot; alt=&quot;Front Yard&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As in the time of ancient days, the Morris games are a great way to pass the time.  The simple rules and setup make it easy to sketch out a board and play using found objects.&lt;/p&gt;
+
+&lt;p&gt;My daughter loved it and I imagine there will be more Morris games in our future.  In the midst of all the uncertainly, it’s nice to find the silver linings.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Making a Noggin the Nog Dice Tower</title>

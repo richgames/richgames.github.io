@@ -4,13 +4,67 @@
  <title>Rich Games</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-06-04T00:20:22-07:00</updated>
+ <updated>2020-06-14T13:31:53-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Liz Lam</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Angel Chess Microsite</title>
+   <link href="http://localhost:4000/2020/06/14/angel-chess-site/"/>
+   <updated>2020-06-14T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2020/06/14/angel-chess-site</id>
+   <content type="html">&lt;p&gt;I came across a chess variant called &lt;a href=&quot;https://boardgamegeek.com/boardgame/153759/angel-chess&quot;&gt;Angel Chess on the BoardGameGeek website&lt;/a&gt;. 
+What drew me in was the image of an old patent containing a beautiful hand drawn diagram of the game.&lt;/p&gt;
+
+&lt;p&gt;I was immediately intrigued.&lt;/p&gt;
+
+&lt;p&gt;As a result, I created a &lt;a href=&quot;https://angel-chess-project.now.sh/&quot;&gt;microsite on Angel Chess&lt;/a&gt;.  It’s still a work in progress but feel free to explore it and learn about this very interesting game.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/angel-chess-site.png&quot; alt=&quot;angel-chess-site&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How to Play Pex</title>
+   <link href="http://localhost:4000/2020/06/10/how-to-play-pex/"/>
+   <updated>2020-06-10T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2020/06/10/how-to-play-pex</id>
+   <content type="html">&lt;p&gt;My 5 year daughter sporadically designed her first board game!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/pex.png&quot; alt=&quot;Pex&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s actually not a bad game and fun to play with children.    &lt;br /&gt;
+I thought it be fun to share her rules and see what people thought.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;SETUP&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Start off with a 6x5 board with the long side facing each player.      &lt;br /&gt;
+Place 6 pieces of your color on the first row.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RULES&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Take turns doing the following:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Roll a dice.&lt;/li&gt;
+  &lt;li&gt;Move your piece the exact number of spaces as the dice value.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;You are allowed to move your piece in any direction (both orthogonally and diagonally).  &lt;br /&gt;
+You are not allowed to move into the same space twice.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;WIN CONDITION&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Move all your pieces into the opposite side of the board.  &lt;br /&gt;
+You also win if the opposing player can not move.&lt;/p&gt;
+
+&lt;p&gt;Give it a try and feel free to let me know how it goes!&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>44 Etsy Sales</title>

@@ -4,7 +4,7 @@
  <title>Rich Games</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-06-14T13:31:53-07:00</updated>
+ <updated>2020-07-14T21:15:16-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Liz Lam</name>
@@ -13,18 +13,19 @@
 
  
  <entry>
-   <title>Angel Chess Microsite</title>
-   <link href="http://localhost:4000/2020/06/14/angel-chess-site/"/>
-   <updated>2020-06-14T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2020/06/14/angel-chess-site</id>
-   <content type="html">&lt;p&gt;I came across a chess variant called &lt;a href=&quot;https://boardgamegeek.com/boardgame/153759/angel-chess&quot;&gt;Angel Chess on the BoardGameGeek website&lt;/a&gt;. 
-What drew me in was the image of an old patent containing a beautiful hand drawn diagram of the game.&lt;/p&gt;
+   <title>Making A Chaturaji Set</title>
+   <link href="http://localhost:4000/2020/07/14/chaturaji/"/>
+   <updated>2020-07-14T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2020/07/14/chaturaji</id>
+   <content type="html">&lt;p&gt;Chaturaji literally means “4 Kings”.  It is a 4 handed Indian chess variant with written sources dating back to 1030 A.D.  Like many of the ancient chess variants, sets can be hard to find.  In true maker fashion, I found some STL’s of the &lt;a href=&quot;https://pinshape.com/items/8681-3d-printed-nishapur-chess&quot;&gt;Nishapur Chess pieces&lt;/a&gt; and had a friend 3D print them for me.  The King and Queen pieces look similar enough where you can make the 4 sets of pieces needed for Chaturaji.  With the help of my 3 and 5 year old daughters, we painted the pieces different colors.  Painting chess pieces with children is….interesting.  Let’s just say many layers of colors (including some very muddy ones) were involved.&lt;/p&gt;
 
-&lt;p&gt;I was immediately intrigued.&lt;/p&gt;
+&lt;p&gt;The board is an 8x8 inch red oak plywood which was originally the start for another game.  I played around with the grid and it ended up with this imprecise and rustic look.  In the end, I felt like the set came together and it was a fun way to spend some time with my kids.&lt;/p&gt;
 
-&lt;p&gt;As a result, I created a &lt;a href=&quot;https://angel-chess-project.now.sh/&quot;&gt;microsite on Angel Chess&lt;/a&gt;.  It’s still a work in progress but feel free to explore it and learn about this very interesting game.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/angel-chess-site.png&quot; alt=&quot;angel-chess-site&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/chaturaji-in-progress.jpg&quot; alt=&quot;chaturaji in progress&quot; /&gt;
+&lt;img src=&quot;/assets/chaturaji-white-closeup.jpg&quot; alt=&quot;chaturaji white closeup&quot; /&gt;
+&lt;img src=&quot;/assets/chaturaji-white-gold-closeup.jpg&quot; alt=&quot;chaturaji white and gold closeup&quot; /&gt;
+&lt;img src=&quot;/assets/chaturaji-all-4-closeup.jpg&quot; alt=&quot;chaturaji all 4 closeup&quot; /&gt;
+&lt;img src=&quot;/assets/chaturaji-done.jpg&quot; alt=&quot;chaturaji done&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  

@@ -4,13 +4,45 @@
  <title>Rich Games</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-07-14T21:23:14-07:00</updated>
+ <updated>2020-08-15T21:54:35-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Liz Lam</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Making Dice</title>
+   <link href="http://localhost:4000/2020/08/15/making-dice/"/>
+   <updated>2020-08-15T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2020/08/15/making-dice</id>
+   <content type="html">&lt;p&gt;It shouldn’t surprise anyone too much that gamers love dice.  The idea of some sort of randomizer have been around a long time with some ancient dice said to be dated as far back as 2500 BC. I’ve been experimenting with making dice and thought I’d jot down some of my techniques for those who are interested.&lt;/p&gt;
+
+&lt;p&gt;The first thing you need when making dice is wooden cubes.  You can buy these of various size at almost any hobby shop.  Using my wood burner, I burn the appropriate number of pips on each side.  I’ve played around with staining the die using coffee and wine.  What??!  Yes, coffee and/or wine.  Unfortunately known for staining clothes, carpet, and teeth, both coffee and wine acts as a great subtle stainer for light woods.  I usually stain the dice with few a few layers until I achieve the tint I want.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/making-dice1.jpg&quot; alt=&quot;making dice 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you like hard edges, you can pretty much stop at this point, but I like to sand the edges to reveal the original lighter wood color.  This lighter contrast accents the dice visually and gives it a nice round feeling in your hands.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/making-dice2.jpg&quot; alt=&quot;making dice 2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The last step is to finish it off with a little coconut oil or beeswax.  Coconut oil will darken the wood a bit more than beeswax but both work pretty well.  Have you tried making your own dice?  Do you have a technique or oil that you like using?  Feel free to tweet me &lt;a href=&quot;https://twitter.com/richfamilygames&quot;&gt;@richfamilygames&lt;/a&gt; with your input.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Postcard Challenge</title>
+   <link href="http://localhost:4000/2020/08/14/postcard-challenge/"/>
+   <updated>2020-08-14T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2020/08/14/postcard-challenge</id>
+   <content type="html">&lt;p&gt;I created a side project for myself to design some micro games.  I randomly drew 7 boards on postcards with the intention of designing a game for each one over 7 days.  It doesn’t necessarily have to be one a day, but it’s a good starting point. Having the framework keeps me encouraged.  I don’t necessarily have high expectations of the games and think of them more as first drafts.  The exercise is also a way for me to overcome my shyness of just pulling the trigger on these things.  It’s true when they say, perfection is the enemy of done.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/postcard-challenge-in-progress.png&quot; alt=&quot;postcard challenge progress&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I also built a &lt;a href=&quot;https://postcard-challenge.vercel.app/&quot;&gt;website&lt;/a&gt; to encourage anyone else if interested.  In the website, I describe a process where you can share your games (or the progress of your game design) on social media.  I drew this inspiration from the Inktober challenge.  I hope you able to give it a try and have a little fun in the process.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Making A Chaturaji Set</title>

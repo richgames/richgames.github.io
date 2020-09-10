@@ -4,13 +4,57 @@
  <title>Rich Games</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-08-15T21:54:35-07:00</updated>
+ <updated>2020-09-09T22:57:30-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Liz Lam</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>A Review of Break Away</title>
+   <link href="http://localhost:4000/2020/09/09/break-away-review/"/>
+   <updated>2020-09-09T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2020/09/09/break-away-review</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;Break Away: The game of confrontation and escape&lt;/em&gt; is a modern game that is unabashedly derived from our favorite Norse game, Hnefatafl.  It was originally a part of the Hi-Q Collection by CBS Toys, a division of CBS Inc.  Published in the early 1980’s, it is another example of how ancient games can evolve.&lt;/p&gt;
+
+&lt;p&gt;The components are pretty simple.  The game consists of a blue plastic board with a 9x9 grid.  Each cell contains a hole that fits the plastic peg pieces.  There are 16 white pegs (though you won’t need them all in the base game), 8 blue pegs and 1 blue king (which is just another blue peg that is slightly larger).  At the ends of the board, the top lid comes off to reveal a compartment where the pieces can be comfortably stored.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/breakaway-1.jpg&quot; alt=&quot;Break Away 1&quot; /&gt;
+&lt;img src=&quot;/assets/breakaway-2.jpg&quot; alt=&quot;Break Away 2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Break Away contains most of the framework you would expect in a Tafl game. There are attackers and defenders (simply called white and blue pawns) that move like a rook in chess.  Capturing is done by sandwich ing a piece. The king is captured on all 4 sides and can itself participate in captures.
+There is also nothing particularly special about the central square.  You can move through it and land on it like any other square.&lt;/p&gt;
+
+&lt;p&gt;Where the rules start to break away (no pun intended) is in the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The king can only move 1 space at a time orthogonally.&lt;/li&gt;
+  &lt;li&gt;Defenders (blue) wins by escaping to the top or bottom edge of the board (where the compartments are).&lt;/li&gt;
+  &lt;li&gt;Pieces can be captured in the corners, if the opposing pieces occupy both orthogonal cells.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/breakaway-corner.jpg&quot; alt=&quot;Break Away Corner Capture&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;If a piece moves between two opposing pieces against the edge, a 3rd piece can capture it by surrounding it.  This is much like the modern shield wall rule.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/breakaway-edge.jpg&quot; alt=&quot;Break Away Edge Capture&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The standard setup only allows for 12 white attackers as oppose to the usual 16.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/breakaway-setup.jpg&quot; alt=&quot;Break Away Setup&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As I mentioned earlier, there are in fact 16 attackers included with the game.  The rules offer a “Master Break Away” variant that has a standard Tablut setup.  The rest of the rules are the same.&lt;/p&gt;
+
+&lt;p&gt;In conclusion, I mostly like this game.  I’m not as fond as variants that only allow the king to move 1 step at a time.  I know Magpie (which is a modern Brandub variation) has this same restriction, but I think it works better on the smaller 7x7 board.  The two edge escape and corner capture rules are different enough to give some nice variety.  All in all, it is still a welcomed addition to my Hnefatafl collection.&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Making Dice</title>

@@ -4,13 +4,100 @@
  <title>Rich Games</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-09-09T22:57:30-07:00</updated>
+ <updated>2020-10-23T22:11:57-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Liz Lam</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Interview With Hnefatafl Books Author Damian Walker</title>
+   <link href="http://localhost:4000/2020/10/23/damian-walker-interview/"/>
+   <updated>2020-10-23T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2020/10/23/damian-walker-interview</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;This is a part of an ongoing interview series with book authors who write about our favorite types of games. Damian Walker is the author of not one but two books on hnefatafl.  Both &lt;a href=&quot;https://www.lulu.com/shop/damian-gareth-walker/an-introduction-to-hnefatafl/paperback/product-22385082.html&quot;&gt;An Introduction to Hneftafl&lt;/a&gt; and &lt;a href=&quot;https://www.lulu.com/shop/damian-walker/reconstructing-hnefatafl/hardcover/product-21428427.html&quot;&gt;Reconstructing Hnefatafl&lt;/a&gt; introduced me to this Norse game and I’ve been a huge fan ever since.  I am delighted to share this interview with Damian everyone and hope you enjoy it too.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Can you tell us a little about yourself?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m a web developer living in Yorkshire, England. I’m from these parts, although I’ve also lived in Northwest England and, when I was very young, in New Jersey.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How did you first learn about hnefatafl?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It was in a book I got from the library back in 2002: Jack Botermans’ “The World of Games”. I was between jobs at the time, and I was very much attracted to these games that could be easily made with things lying about the house.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What drew you in about it compared to other ancient board games?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The attractive rotational symmetry drew my attention, as well as the asymmetrical division of the pieces between the two teams. Though it wasn’t the only game from that book that attracted my attention. What drew me further in was the air of mystery, the fact that at the time we didn’t really know how it was played.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What inspired you to write not just one book, but two books about hnefatafl?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The two books are really aimed at different readerships. The first one (Reconstructing Hnefatafl) is the more serious one of the two, aimed at re-enactors and other people who want to bring the game to modern audiences; it goes into a lot of detail about historical evidence and game balance in order to justify its reconstructions. The newer book (An Introduction to Hnefatafl) is more of a light read for people who just want to find out a bit more about the game and to play it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Have you ever considered combining both books into one?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Yes and no. I’d actually thought about writing a larger book on the game, having gathered enough research to fill one. But my day job can be quite demanding of my energy, so that project has been pushed back.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How long did it take to write the books?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s difficult to tell how long Reconstructing Hnefatafl took, as it was done in a few stages across a number of years. It drew on a never-published book I’d been working on since about 2004, so it includes about ten years of research. An Introduction to Hnefatafl was originally a 20-page booklet, which took me a week to put together from the same research. I used to sell that from my web site. I then reworked it into the book as it exists now, which probably took me a few months.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How did you feel when you first published it?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I was very pleased with Reconstructing Hnefatafl. It was originally going to be a free PDF. I got a lot of support from David Parlett, author of the Oxford Book of Board Games, and through him from Irving Finkel of the British Museum. They suggested I present it as a paper at the Board Games Colloquium that’s held each year. That never happened, as I couldn’t afford to travel, but I was glad to share it instead as a printed book. I was quite proud of it as it was the first book on the game that made it in print.
+An Introduction to Hnefatafl was also quite fun, although since it was the second book I published, the experience had fewer surprises for me.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What was the hardest chapters to write?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I honestly can’t remember, although it’s probably the Alea Evangelii chapter of Reconstructing Hnefatafl. It was nigh on impossible to get anyone to play that thing with me, especially as the rules were experimental. It was only some years afterwards that the game got extensively playtested. That showed that my reconstruction is far from balanced, and a lot more research on that game is needed.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Are there plans for more books or updates to the current ones?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;At some point, I should revisit Reconstructing Hnefatafl, as the research is falling out of date - particularly on things like game balance, where there are many more willing play-testers now than there were when I wrote it. There’s that larger book on the game that I mentioned, which I’m not actively working on but I haven’t abandoned either. I’d also like to write more books following the format of “A Book of Historic Board Games”.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alea Evangelii is a tafl game that is played on a 19x19 grid.  Do you think there is a connection here to the game of Go?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I don’t think there’s a connection. In fact there are three games I know of played on a similar looking board. There’s alea evangelii, go, and an unknown game which appears to be a large form of ludus latrunculorum. I think the board size in all these cases is just coincidence.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;You also wrote, &lt;a href=&quot;https://www.lulu.com/en/us/shop/damian-gareth-walker/a-book-of-historic-board-games/paperback/product-1re9pzq4.html&quot;&gt;A Book of Historic Board Games&lt;/a&gt;.  Can you talk a bit about the journey and inspiration behind this book?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This is my favourite of the three books I’ve written, although it’s also the least successful. I’m interested in ancient board games in general, and I wanted to write something that drew on my research beyond hnefatafl. There are already many books that cover large numbers of games, so I decided to select just twelve and cover them in a reasonable amount of detail. It was inspired more by books like David Pritchard’s Brain Games than by the books that attempt to cover as many games as possible.
+This was the most fun to write, and led me into some very interesting research. This kind of project is much easier now than it was even ten years ago; the vast number of digitised documents means that one can go back to primary sources without having to leave the house.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Many consider you an authoritative source on hnefatafl.  How does that make you feel?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It seems like quite a responsibility for someone who hasn’t really been that active over the past few years! I’m glad that interest in the game has increased as time has drawn on, though, and I hope to have the time in future to bring myself up to date with new developments.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How many hnefatafl sets do you own?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I think I might have about twenty by now. I spent quite a long time looking for attractive sets on eBay, and I also kept one of nearly every design of board that I made myself.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Do you have a favorite set?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It seems a bit conceited, but I do like the 9x9 set that I used to make, with the walnut veneer edge. Of the more well-known ones that people might recognise, I really like the wooden one that was marketed by York Archaeological Trust back in 1980, which you still see surfacing on eBay from time to time. It comes with a nice set of rules, too.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What is your favorite historic hnefatafl variant?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Tablut is my favourite, as it’s the one we can be most certain about. I also think the 9x9 size makes for a good game.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What is your favorite modern variant?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I very much like Sea Battle Tafl. It’s very elegant and easy to teach. Since I’m oriented more towards historic games, I like the fact that it manages balance without introducing too many imaginative new ideas.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How often do you play now?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Sadly I very rarely get to play now. I was never a strong player, but I’m very out of practice now!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Have you ever experimented with creating your own tafl variation?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;No, I tend to prefer to uncover historical games than to create new ones. I have had a lot of fun pasting themes onto existing hnefatafl rules, though. I’m particularly fond of the Christmas one, with Santa and his eight elves trying to set off from the North Pole before sixteen naughty children ambush them and steal the presents!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Thanks Damian for your time.  What is the best way for people to contact your or get in touch with you if they have more questions or just want to chat?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m quite active on Twitter nowadays, especially on my personal account (&lt;a href=&quot;https://twitter.com/cyningstan&quot;&gt;@cyningstan&lt;/a&gt;) so people are welcome to contact me there.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>A Review of Break Away</title>

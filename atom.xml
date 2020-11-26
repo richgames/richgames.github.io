@@ -4,13 +4,82 @@
  <title>Rich Games</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-10-25T23:20:47-07:00</updated>
+ <updated>2020-11-25T17:17:31-08:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Liz Lam</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>My Top Threes</title>
+   <link href="http://localhost:4000/2020/11/25/my-top-threes/"/>
+   <updated>2020-11-25T00:00:00-08:00</updated>
+   <id>http://localhost:4000/2020/11/25/my-top-threes</id>
+   <content type="html">&lt;p&gt;I was thinking about my favourite games and what my “Top Ten” list would look like.
+Spoiler Alert: I couldn’t come up with the list because there are so many games I like for
+different reasons.&lt;/p&gt;
+
+&lt;p&gt;So I decided to came up with a “Top Threes” list in different categories.  Some categories are simply games produced by some of my favourite independent game publishers, others are just games I like to play with my kids.  Not all are purely abstract strategy games, but many are.  I hope you reading the list as much a I enjoyed putting it together.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hnefatafl Variants&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Brandub (7x7)&lt;/li&gt;
+  &lt;li&gt;Tablut (9x9)&lt;/li&gt;
+  &lt;li&gt;Fetlar Hnefatafl&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Historic/Ancient (not Hnefatafl)&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Backgammon&lt;/li&gt;
+  &lt;li&gt;Royal Game of Ur&lt;/li&gt;
+  &lt;li&gt;Go&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Kid Friendly&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;JamSumo by Cubiko Games&lt;/li&gt;
+  &lt;li&gt;Hippos and Crocodiles by Nestorgames&lt;/li&gt;
+  &lt;li&gt;Ice Dice by Looney Labs&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Chess Variants (regional and/or modern)&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Xiang Qi (Chinese Chess)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.plunderchess.com/&quot;&gt;Plunder Chess&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Makruk&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.logygames.com/english/&quot;&gt;Logy Games&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Safari-Dual&lt;/li&gt;
+  &lt;li&gt;Most Honest&lt;/li&gt;
+  &lt;li&gt;Chameleon&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nestorgames.com/#bytype&quot;&gt;Nestorgames&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Sleepers&lt;/li&gt;
+  &lt;li&gt;Tetrarchia&lt;/li&gt;
+  &lt;li&gt;Garden of Mars&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/3M_bookshelf_game_series&quot;&gt;Vintage 3M Bookshelf Games&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Break Thru&lt;/li&gt;
+  &lt;li&gt;Twixt&lt;/li&gt;
+  &lt;li&gt;Feudal&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Modern Abstract (after 1900’s)&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Tak&lt;/li&gt;
+  &lt;li&gt;Hive&lt;/li&gt;
+  &lt;li&gt;Camelot&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Interview With Hnefatafl Books Author Damian Walker</title>

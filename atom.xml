@@ -4,7 +4,7 @@
  <title>Rich Games</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-11-25T17:17:31-08:00</updated>
+ <updated>2021-02-21T22:28:12-08:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Liz Lam</name>
@@ -13,66 +13,112 @@
 
  
  <entry>
+   <title>A Review of Swords & Shields</title>
+   <link href="http://localhost:4000/2020/12/23/swords-and-shields/"/>
+   <updated>2020-12-23T00:00:00-08:00</updated>
+   <id>http://localhost:4000/2020/12/23/swords-and-shields</id>
+   <content type="html">&lt;p&gt;Swords &amp;amp; Shields by Milton Bradley (USA) is another vintage find of a classic Tafl game. Published in 1970, it embraces the Norse tradition with decorative Viking themed graphics. The game give credit to its history with the following in the inside cover of the box:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/swords-and-shields-inside-cover.jpg&quot; alt=&quot;Swords and Shields inside cover&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The components are pretty nice. The game board folds out to a large playing area and is made of a thick high quality cardboard similar to Monopoly or Sorry. The pieces are made of a light molded plastic with attractive details. My only complaint is they are little too light. I found myself accidentally knocking them over more times than I would expect. There are 16 attacking sword pieces, 8 defending shield pieces and a Chief Shield that acts as the King piece. The pieces are played on the intersection of lines.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/swords-and-shields-pieces.jpg&quot; alt=&quot;Swords and Shields pieces&quot; /&gt;
+&lt;img src=&quot;/assets/swords-and-shields-pieces-upclose.jpg&quot; alt=&quot;Swords and Shields pieces upclose&quot; /&gt;
+&lt;img src=&quot;/assets/swords-and-shields-complete.jpg&quot; alt=&quot;Swords and Shields setup&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The rules for gameplay are very similar to the historical Tablut.
+Swords (attackers) move first.
+All pieces move orthogonally (like a Rook in Chess).
+Capturing pieces are done by sandwiching an opponent’s piece.
+A piece may safely move in between 2 opponent pieces without being captured.
+The Chief Shield is allowed to participate in captures.
+The Chief Shield is generally captured on 2 sides, unless sitting on center dot where it requires a capture on 4 sides.
+Swords win by capturing the Chief Shield.
+Shields win when Chief Shield escapes to an edge.
+There are however some small differences in the details:
+The Chief Shield can move back into the center dot after leaving it.
+Only the Chief Shield can move through the dot.
+If the Chief Shield is on a dot that is adjacent to the center, it can be captured with just one Sword,
+sandwiching the Chief Shield with the center dot.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/swords-and-shields-diagram.jpg&quot; alt=&quot;Swords and Shields diagram&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There is nowhere in the rules that suggest you can capture other pieces in this manner, so I assume this is a special capture case for the Chief Shield.&lt;/p&gt;
+
+&lt;p&gt;Swords &amp;amp; Shields is a great commercial example of a published Tafl game. It has pretty much kept most of the traditional rules in place with small variations. I like that the Chief Shield is most vulnerable right outside of the center dot. It forces the defending player to move its Chief quickly out of the center area where it may normally just sit for a while. It is also easy to pick up a used copy on a marketplace platform like eBay for anyone who wants to add it to their own collection.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>My Top Threes</title>
-   <link href="http://localhost:4000/2020/11/25/my-top-threes/"/>
-   <updated>2020-11-25T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2020/11/25/my-top-threes</id>
+   <link href="http://localhost:4000/2020/11/23/my-top-threes/"/>
+   <updated>2020-11-23T00:00:00-08:00</updated>
+   <id>http://localhost:4000/2020/11/23/my-top-threes</id>
    <content type="html">&lt;p&gt;I was thinking about my favourite games and what my “Top Ten” list would look like.
 Spoiler Alert: I couldn’t come up with the list because there are so many games I like for
 different reasons.&lt;/p&gt;
 
-&lt;p&gt;So I decided to came up with a “Top Threes” list in different categories.  Some categories are simply games produced by some of my favourite independent game publishers, others are just games I like to play with my kids.  Not all are purely abstract strategy games, but many are.  I hope you reading the list as much a I enjoyed putting it together.&lt;/p&gt;
+&lt;p&gt;So I decided to came up with a “Top Threes” list in different categories. Some categories are simply games produced by some of my favourite independent game publishers, others are just games I like to play with my kids. Not all are purely abstract strategy games, but many are. I hope you reading the list as much a I enjoyed putting it together.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Hnefatafl Variants&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hnefatafl Variants&lt;/strong&gt;:&lt;/p&gt;
+
 &lt;ol&gt;
   &lt;li&gt;Brandub (7x7)&lt;/li&gt;
   &lt;li&gt;Tablut (9x9)&lt;/li&gt;
   &lt;li&gt;Fetlar Hnefatafl&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;strong&gt;Historic/Ancient (not Hnefatafl)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Historic/Ancient (not Hnefatafl)&lt;/strong&gt;:&lt;/p&gt;
+
 &lt;ol&gt;
   &lt;li&gt;Backgammon&lt;/li&gt;
   &lt;li&gt;Royal Game of Ur&lt;/li&gt;
   &lt;li&gt;Go&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;strong&gt;Kid Friendly&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kid Friendly&lt;/strong&gt;:&lt;/p&gt;
+
 &lt;ol&gt;
   &lt;li&gt;JamSumo by Cubiko Games&lt;/li&gt;
   &lt;li&gt;Hippos and Crocodiles by Nestorgames&lt;/li&gt;
   &lt;li&gt;Ice Dice by Looney Labs&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;strong&gt;Chess Variants (regional and/or modern)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Chess Variants (regional and/or modern)&lt;/strong&gt;:&lt;/p&gt;
+
 &lt;ol&gt;
   &lt;li&gt;Xiang Qi (Chinese Chess)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.plunderchess.com/&quot;&gt;Plunder Chess&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Plunder Chess&lt;/li&gt;
   &lt;li&gt;Makruk&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.logygames.com/english/&quot;&gt;Logy Games&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Logy Games&lt;/strong&gt;:&lt;/p&gt;
+
 &lt;ol&gt;
   &lt;li&gt;Safari-Dual&lt;/li&gt;
   &lt;li&gt;Most Honest&lt;/li&gt;
   &lt;li&gt;Chameleon&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nestorgames.com/#bytype&quot;&gt;Nestorgames&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nestorgames&lt;/strong&gt;:&lt;/p&gt;
+
 &lt;ol&gt;
   &lt;li&gt;Sleepers&lt;/li&gt;
   &lt;li&gt;Tetrarchia&lt;/li&gt;
   &lt;li&gt;Garden of Mars&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/3M_bookshelf_game_series&quot;&gt;Vintage 3M Bookshelf Games&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vintage 3M Bookshelf Games&lt;/strong&gt;:&lt;/p&gt;
+
 &lt;ol&gt;
   &lt;li&gt;Break Thru&lt;/li&gt;
   &lt;li&gt;Twixt&lt;/li&gt;
   &lt;li&gt;Feudal&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;strong&gt;Modern Abstract (after 1900’s)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Modern Abstract (after 1900’s)&lt;/strong&gt;:&lt;/p&gt;
+
 &lt;ol&gt;
   &lt;li&gt;Tak&lt;/li&gt;
   &lt;li&gt;Hive&lt;/li&gt;
@@ -86,7 +132,7 @@ different reasons.&lt;/p&gt;
    <link href="http://localhost:4000/2020/10/23/damian-walker-interview/"/>
    <updated>2020-10-23T00:00:00-07:00</updated>
    <id>http://localhost:4000/2020/10/23/damian-walker-interview</id>
-   <content type="html">&lt;p&gt;&lt;em&gt;This is a part of an ongoing interview series with book authors who write about our favorite types of games. Damian Walker is the author of not one but two books on hnefatafl.  Both &lt;a href=&quot;https://www.lulu.com/shop/damian-gareth-walker/an-introduction-to-hnefatafl/paperback/product-22385082.html&quot;&gt;An Introduction to Hneftafl&lt;/a&gt; and &lt;a href=&quot;https://www.lulu.com/shop/damian-walker/reconstructing-hnefatafl/hardcover/product-21428427.html&quot;&gt;Reconstructing Hnefatafl&lt;/a&gt; introduced me to this Norse game and I’ve been a huge fan ever since.  I am delighted to share this interview with everyone and hope you enjoy it too.&lt;/em&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;em&gt;This is a part of an ongoing interview series with book authors who write about our favorite types of games. Damian Walker is the author of not one but two books on hnefatafl.  Both &lt;a href=&quot;https://www.lulu.com/shop/damian-gareth-walker/an-introduction-to-hnefatafl/paperback/product-22385082.html&quot;&gt;An Introduction to Hneftafl&lt;/a&gt; and &lt;a href=&quot;https://www.lulu.com/shop/damian-walker/reconstructing-hnefatafl/hardcover/product-21428427.html&quot;&gt;Reconstructing Hnefatafl&lt;/a&gt; introduced me to this Norse game and I’ve been a huge fan ever since.  I am delighted to share this interview with Damian everyone and hope you enjoy it too.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Can you tell us a little about yourself?&lt;/strong&gt;&lt;/p&gt;
 

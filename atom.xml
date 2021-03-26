@@ -4,13 +4,58 @@
  <title>Rich Games</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2021-02-21T22:28:12-08:00</updated>
+ <updated>2021-03-25T18:35:37-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Liz Lam</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Mini Tori Shogi</title>
+   <link href="http://localhost:4000/2021/02/27/mini-tori-shogi/"/>
+   <updated>2021-02-27T00:00:00-08:00</updated>
+   <id>http://localhost:4000/2021/02/27/mini-tori-shogi</id>
+   <content type="html">&lt;p&gt;I am a big fan of small Shogi games such as Mini Shogi.  Tori Shogi (also known as Bird Shogi) is considered to be the smallest of the historic variants.  It is played on a 7x7 grid with 16 pieces per player.  With a total
+of 32 pieces and just 49 squares, the game can feel a little cramped.  As a result, I have been wanting to experiment with a smaller version.&lt;/p&gt;
+
+&lt;p&gt;In the same vein as Mini Shogi, I came up with a smaller Tori Shogi game that I not so cleverly
+call Mini Tori Shogi.  It is played on a 5x5 board and each player has 6 pieces.  The pieces are
+traditional pieces from the original Tori Shogi game.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Setup&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Each player has 2 Pheasants, 2 Cranes, 1 Phoenix, and 1 Falcon.  &lt;br /&gt;
+The board is arranged like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/mini-tori-shogi-setup.png&quot; alt=&quot;Mini Tori Shogi Setup&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Rules&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;The Pheasants moves forward to the 2nd space and diagonally back 1 space (left or right).&lt;/li&gt;
+  &lt;li&gt;The Cranes move 1 space any direction except horizontally.&lt;/li&gt;
+  &lt;li&gt;The Phoenix moves 1 space any direction.  This is the King/General piece.&lt;/li&gt;
+  &lt;li&gt;The Falcon moves 1 space any direction except backwards and promotes to an Eagle.&lt;/li&gt;
+  &lt;li&gt;The Eagle can:  &lt;br /&gt;
+ a.) Move 1 space forward, left, right and back diagonally.  &lt;br /&gt;
+ b.) Move 2 spaces back diagonally.  &lt;br /&gt;
+ c.) Move as many spaces forward diagonally and back vertically (no jumping allowed).&lt;/li&gt;
+  &lt;li&gt;Only the Falcon promotes when it reaches the last row of the opposing side.&lt;/li&gt;
+  &lt;li&gt;Captured pieces are allowed to be dropped back on the board.&lt;/li&gt;
+  &lt;li&gt;The first person who captures their opponent’s Phoenix wins.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The set itself was fun to make.  The board is a 1/4 inch red oak plywood containing a grid burned in with a Razortip wood burner.  I was originally going to make the pieces with the original Kanji characters and helper markers that indicate how to move.  I love how Kanji characters look, but decided to explore the use of bird silhouettes.  They are not perfect, but I liked how they turned out.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/mini-tori-shogi-homemade.jpeg&quot; alt=&quot;Mini Tori Shogi&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, after playing a few game, I think I need to iterate more on which pieces to use and the setup. 
+Although I enjoy the aesthetics of the game, there are some problems with the gameplay.  For example, at the start of the game, the Pheasants can only move forward to the second space.  That means 2 of the 3 moves it can make are not possible.  Also, the lack of long distance moving pieces (like a Rook or Bishop) makes the game less dynamic and bit slow.&lt;/p&gt;
+
+&lt;p&gt;This was still a fun experiment and I will probably continue to iterate on it.  Please feel free to give any feedback or ideas by tweeting to &lt;a href=&quot;https://twitter.com/richfamilygames&quot;&gt;@richfamilygames&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>A Review of Swords & Shields</title>

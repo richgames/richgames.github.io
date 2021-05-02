@@ -4,13 +4,40 @@
  <title>Rich Games</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2021-03-25T18:35:37-07:00</updated>
+ <updated>2021-05-02T13:36:23-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Liz Lam</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>A Review of Hnefatafl by Pub Games of England</title>
+   <link href="http://localhost:4000/2021/03/28/hneftafl-pub-games-england/"/>
+   <updated>2021-03-28T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2021/03/28/hneftafl-pub-games-england</id>
+   <content type="html">&lt;p&gt;Hneftafl…the vikings’ board game by Pub Games of England is an interesting vintage set.  There are no dates on the box.  If I had to guess, I would say it was produced some time in the 1980’s.   I’ve seen the set for sale online with a slightly different box label stating the company was located in Sussex, England.&lt;/p&gt;
+
+&lt;p&gt;This set is simple and beautiful.  The rustic wooden board is compact measuring at 5.5 inches squared.  It is a 7x7 playing area with holes instead of squares.  The playing pieces are wooden pegs that fit into the holes.  There are 12 light wood attackers, 6 dark wood defenders and 1 king.  If you’re thinking this seems unusual for a brandub sized board, you’re right!  There are 50% more pieces than your classic brandub game.  Also unusual is the setup of the game (shown in the picture).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/hnefatafl-pub-games-of-england.jpg&quot; alt=&quot;Hnefatafl by Pub Games of England&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The rules will feel very normal for any fan of tafl games.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Attackers move first.&lt;/li&gt;
+  &lt;li&gt;Only the king may enter the center square.&lt;/li&gt;
+  &lt;li&gt;All pieces move like a rook in chess.&lt;/li&gt;
+  &lt;li&gt;Pieces captured by sandwiching.&lt;/li&gt;
+  &lt;li&gt;The defenders win by the king escaping to any edge.&lt;/li&gt;
+  &lt;li&gt;The attackers win by capturing the king on 4 sides.&lt;/li&gt;
+  &lt;li&gt;The king can be captured on 3 sides if it sitting on a space orthogonal to the center square.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This is a great little set that is sometimes hard to find.  I do feel there are probably too many pieces for the board size (though it’s not as bad as the game of ard ri).  The pegs and compact form factor makes it perfect to play at a coffee shop or travelling.  I wish I knew more about the publishers.  The fun part for me when finding these old vintage sets is not only the variation in rules but learning a bit about the publishers that produced them.  If you happen to know more, feel free to DM or tweet to @richfamilygames.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Mini Tori Shogi</title>

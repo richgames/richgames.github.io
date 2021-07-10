@@ -4,13 +4,43 @@
  <title>Rich Games</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2021-06-10T12:48:07-07:00</updated>
+ <updated>2021-07-10T14:33:49-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Liz Lam</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Photoblog: Making a Pai Sho Board</title>
+   <link href="http://localhost:4000/2021/06/18/making-a-paisho-board/"/>
+   <updated>2021-06-18T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2021/06/18/making-a-paisho-board</id>
+   <content type="html">&lt;p&gt;If you’re a fan of Avatar: The Last Airbender, you will probably be familiar with Pai Sho.  It’s a fictional game that constantly makes an appearance in this animated series.  Although there are no official rules for Pai Sho, there are &lt;a href=&quot;https://skudpaisho.com/site/games/&quot;&gt;many community driven ones&lt;/a&gt;.  I recently picked up this extra small &lt;a href=&quot;https://baronalbatross.company.site/products/Pai-Sho-XXS-Game-Kit-p354041377&quot;&gt;DIY Pai Sho kit&lt;/a&gt;.  The kit contains all the pieces needed to assembly a board.  The tiles (tokens) included are for one of the more popular fan made games called “Skud Pai Sho”.  Putting it together wasn’t too difficult, but a utility knife is definitely needed to cut out all the board parts.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/diy-paisho-kit.jpg&quot; alt=&quot;DIY Pai Sho Kit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Once I glued the board together, I decided to wood burn the sections.  In Pai Sho, the sections are called “gardens”.  Unfortunately, I got glue all over the board.  In addition, I was off a little bit so there were some gaps in the middle as a result.  If you decide to try this kit, definitely take the time to measure everything out on this step.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/diy-paisho-in-progress.jpg&quot; alt=&quot;DIY Pai Sho Kit&quot; /&gt;
+&lt;img src=&quot;/assets/diy-paisho-in-progress2.jpg&quot; alt=&quot;DIY Pai Sho Kit&quot; /&gt;
+&lt;img src=&quot;/assets/diy-paisho-burning-done.jpg&quot; alt=&quot;DIY Pai Sho Kit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;For the pieces, I used coffee to stain them and then put a layer of Mod Podge Dimensional
+Magic on top.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/diy-paisho-pieces.jpg&quot; alt=&quot;DIY Pai Sho Kit&quot; /&gt;
+&lt;img src=&quot;/assets/diy-paisho-pieces-upclose.jpg&quot; alt=&quot;DIY Pai Sho Kit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I don’t know if I would recommend using the Mod Podge Dimensional Magic because some of the coats came out cloudy.  I don’t know if I just put on too much or if that is just the nature of the product.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/diy-paisho-done.jpg&quot; alt=&quot;DIY Pai Sho Kit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;At the end of the day, I was still quite pleased with how everything turned out.  This is a tiny board to play on which makes it’s idea for taking on the go.  The compact size also makes it a low time investment as DIY projects go.  Now it’s time for a cup of tea and a game of Pai Sho.&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Photoblog: Coloring a Brandub Board</title>

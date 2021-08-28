@@ -4,13 +4,40 @@
  <title>Rich Games</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2021-07-10T14:33:49-07:00</updated>
+ <updated>2021-08-28T02:19:18-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Liz Lam</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Some Quick Thoughts on Understanding the Elephant: Part 1</title>
+   <link href="http://localhost:4000/2021/07/10/understanding-the-elephant/"/>
+   <updated>2021-07-10T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2021/07/10/understanding-the-elephant</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/understanding-elephant-part1.jpg&quot; alt=&quot;Understanding the Elephant Part 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/32314657-understanding-the-elephant&quot;&gt;Understanding the Elephant: A Xiangqi Primer Part 1: History of Xiangqi&lt;/a&gt; written by
+Jim Png is one of the many books on Xiangqi (Chinese Chess) from this prolific author.
+He is also the creator and maintainer of xqinenglish.com, a site dedicated to the game.
+Just after a few paragraphs into the book, you can really get a sense of the passion and
+dedication he has for Xiangqi.  The book itself is split up into 3 sections: history, famous
+players and folk lore.&lt;/p&gt;
+
+&lt;p&gt;The first and very dense portion of the book is meant to present evidence of the possible Chinese
+origin of chess.  It is a popular belief that chess came from India due to H.J.R. Murray’s ideas presented 
+in his canonical book, The History of Chess.  Png challenges some of these ideas due to the fact that 
+Murray studied Arabic and was able to research Arabic sources in great detail.  He also mentions an absence of research of Chinese literature due to Murray’s own lack of knowledge of Chinese.  It is definitely an interesting point.  Png continues by presenting a ton of references of ancient Chinese poems and literature as well as taking a closer look at the kanji characters that are on Xiangqi pieces.&lt;/p&gt;
+
+&lt;p&gt;The second section of the book tells many tales of famous Xiangqi players.  Although some of the stories were interesting, to be honest I mostly skimmed through this part.&lt;/p&gt;
+
+&lt;p&gt;The last and final section tells some of the folk lore and myths surrounding Xiangqi.  This doesn’t really present necessarily evidence about the origin story, but does indicate that Xiangqi has been around long enough to have myths and folklore.&lt;/p&gt;
+
+&lt;p&gt;Overall, this was a fun book to go through.  It’s a bit of a misnomer to call it a “primer” since it doesn’t really even tell how to play the game.  This series of books is certainly a labor of love and Png believes that anyone that loves a subject enough would want to know more about its history.  The result is this part 1 of the “primer” series.  In my opinion, this book is solidly in the “for chess history buffs” category and I would recommend it to anyone who is interested in seeing the chess origin story from a different point of view.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Photoblog: Making a Pai Sho Board</title>

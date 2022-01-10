@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Rich Games</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2021-08-28T02:19:18-07:00</updated>
- <id>http://localhost:4000</id>
+ <link href="http://richgames.xyz/atom.xml" rel="self"/>
+ <link href="http://richgames.xyz/"/>
+ <updated>2022-01-09T20:00:15-08:00</updated>
+ <id>http://richgames.xyz</id>
  <author>
    <name>Liz Lam</name>
    <email></email>
@@ -13,10 +13,73 @@
 
  
  <entry>
+   <title>Abstract Tutorials and Reviews with The Boardgame Kaptain</title>
+   <link href="http://richgames.xyz/2022/01/09/boardgame-kaptain/"/>
+   <updated>2022-01-09T00:00:00-08:00</updated>
+   <id>http://richgames.xyz/2022/01/09/boardgame-kaptain</id>
+   <content type="html">&lt;p&gt;It is easy to get lost in the ever expanding sea of channels on YouTube.  With the explosion of game tutorials and reviews, everyone is vying for clicks and views.  But one in particular I wanted to bring attention to is the The Boardgame Kaptain.  Although it is not solely for abstract or historical games, I am surprised by the amount of abstract games this channel contains.  I did a quick peruse of the uploaded videos and thought I’d share a list:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=x94mjlEmEDA&quot;&gt;NXS Ragnarok&lt;/a&gt;  &lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=oi5yYWuOqt4&quot;&gt;Quantum&lt;/a&gt;  &lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=eDGei98yBtY&quot;&gt;Game of Y&lt;/a&gt;  &lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=prSdnrdO1Nw&quot;&gt;Batalo&lt;/a&gt;  &lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=fO5GCfGUrI4&quot;&gt;Mijnlieff&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=2ImNafdiohA&quot;&gt;Mijnlieff Modular Board Expansion&lt;/a&gt;  &lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=nv2AzUuV1pA&quot;&gt;Hexentafl&lt;/a&gt;  &lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=5dh8akYYMAM&quot;&gt;Paco Sako&lt;/a&gt;  &lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=F0w8a8XMs2E&quot;&gt;Raft &amp;amp; Scupper&lt;/a&gt;   &lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=VpFS_P56oEE&quot;&gt;Sovereign Chess&lt;/a&gt;  &lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=uOABbW2LnmY&quot;&gt;Saiju&lt;/a&gt;   &lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=bwPPvpM7jEA&quot;&gt;Flink&lt;/a&gt;  &lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=_KqwV-Bbuv8&quot;&gt;Onager&lt;/a&gt;   &lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=Y3cPdn0bd7k&quot;&gt;Niju&lt;/a&gt;   &lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=OmAbnuPm4FI&quot;&gt;KuniUmi&lt;/a&gt;   &lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=CfANrXAYet4&quot;&gt;Green Skull&lt;/a&gt;  &lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=Jrkj-1GE42s&quot;&gt;Return to Camelot&lt;/a&gt;   &lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=Ri_s00odGSk&quot;&gt;Shobu&lt;/a&gt;   &lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=euoMn25UJOs&quot;&gt;Royal Game of Ur&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This is not an exhaustive list of the abstracts on their channel but it’s already an impressive one!
+It’s obvious to me that The Boardgame Kaptain likes to highlight small indie developers of abstract games and everyone who is interested should go check out his channel!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How to Play Mini Xiang Qi</title>
+   <link href="http://richgames.xyz/2021/08/28/mini-xiangqi/"/>
+   <updated>2021-08-28T00:00:00-07:00</updated>
+   <id>http://richgames.xyz/2021/08/28/mini-xiangqi</id>
+   <content type="html">&lt;p&gt;Mini Xiang Qi is a smaller variation of Xiang Qi (or Chinese Chess) played on a 7x7 board.  Its design is credited to Shigenobu Kusumoto (1974).  Each player starts off with 12 pieces each: 1 General, 2 Horses, 2 Cannons, 2 Chariots and 5 Soldiers (see initial setup below).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/mini-xiangqi-diagram.png&quot; alt=&quot;Mini Xiang Qi&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There are no Advisors, Elephants or river in this abridged version of the game.  Most of the rules are the same with the exception that a soldier can move forward, left and right from the beginning of the game as though it has already crossed the river.  In Mini Xiang Qi there is no river on the board and a player wins by checkmating the opposing side’s general.  Here’s a refresher on how the relevant pieces move.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;General&lt;/strong&gt; &lt;br /&gt;
+Moves 1 step vertically or horizontally but not diagonally.  &lt;br /&gt;
+Generals must stay in their castle&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Horse&lt;/strong&gt;  &lt;br /&gt;
+May move 1 step vertically or horizontally and then 1 step diagonally. 
+It can not move if there is any piece blocking the path.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cannon&lt;/strong&gt;  &lt;br /&gt;
+Moves like a rook but in order to capture must jump over exact one piece horizontally or vertically.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chariot&lt;/strong&gt;  &lt;br /&gt;
+Moves like a rook.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Soldier&lt;/strong&gt;  &lt;br /&gt;
+Moves and captures by moving one step forward and one step horizontally.
+Soldiers can also be promoted (optional) to a Chariot, Cannon or Horse after reaching the last 2 opposite ranks.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Some Quick Thoughts on Understanding the Elephant: Part 1</title>
-   <link href="http://localhost:4000/2021/07/10/understanding-the-elephant/"/>
+   <link href="http://richgames.xyz/2021/07/10/understanding-the-elephant/"/>
    <updated>2021-07-10T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2021/07/10/understanding-the-elephant</id>
+   <id>http://richgames.xyz/2021/07/10/understanding-the-elephant</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/understanding-elephant-part1.jpg&quot; alt=&quot;Understanding the Elephant Part 1&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/32314657-understanding-the-elephant&quot;&gt;Understanding the Elephant: A Xiangqi Primer Part 1: History of Xiangqi&lt;/a&gt; written by
@@ -41,9 +104,9 @@ Murray studied Arabic and was able to research Arabic sources in great detail.  
  
  <entry>
    <title>Photoblog: Making a Pai Sho Board</title>
-   <link href="http://localhost:4000/2021/06/18/making-a-paisho-board/"/>
+   <link href="http://richgames.xyz/2021/06/18/making-a-paisho-board/"/>
    <updated>2021-06-18T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2021/06/18/making-a-paisho-board</id>
+   <id>http://richgames.xyz/2021/06/18/making-a-paisho-board</id>
    <content type="html">&lt;p&gt;If you’re a fan of Avatar: The Last Airbender, you will probably be familiar with Pai Sho.  It’s a fictional game that constantly makes an appearance in this animated series.  Although there are no official rules for Pai Sho, there are &lt;a href=&quot;https://skudpaisho.com/site/games/&quot;&gt;many community driven ones&lt;/a&gt;.  I recently picked up this extra small &lt;a href=&quot;https://baronalbatross.company.site/products/Pai-Sho-XXS-Game-Kit-p354041377&quot;&gt;DIY Pai Sho kit&lt;/a&gt;.  The kit contains all the pieces needed to assembly a board.  The tiles (tokens) included are for one of the more popular fan made games called “Skud Pai Sho”.  Putting it together wasn’t too difficult, but a utility knife is definitely needed to cut out all the board parts.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/diy-paisho-kit.jpg&quot; alt=&quot;DIY Pai Sho Kit&quot; /&gt;&lt;/p&gt;
@@ -71,9 +134,9 @@ Magic on top.&lt;/p&gt;
  
  <entry>
    <title>Photoblog: Coloring a Brandub Board</title>
-   <link href="http://localhost:4000/2021/05/20/coloring-brandub/"/>
+   <link href="http://richgames.xyz/2021/05/20/coloring-brandub/"/>
    <updated>2021-05-20T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2021/05/20/coloring-brandub</id>
+   <id>http://richgames.xyz/2021/05/20/coloring-brandub</id>
    <content type="html">&lt;p&gt;It’s been a while since I made a Brandub board and I wanted to experiment with some color.
 I have used tea and coffee stains in the past, but I wanted to try something different this time.  I had a box
 of Prismacolor Premier (erasable) pencils and I was pleasantly surprised how well they worked.
@@ -99,9 +162,9 @@ I started with the corner squares using the color “Terra Cotta” and “Light
  
  <entry>
    <title>Print On Demand Gems</title>
-   <link href="http://localhost:4000/2021/04/30/pod-gems/"/>
+   <link href="http://richgames.xyz/2021/04/30/pod-gems/"/>
    <updated>2021-04-30T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2021/04/30/pod-gems</id>
+   <id>http://richgames.xyz/2021/04/30/pod-gems</id>
    <content type="html">&lt;p&gt;Print on demand games can get a bad rap.  I think this is mostly because anyone with an idea can publish a game regardless if it’s been vetted or not.  This is not necessarily a bad thing.  It gives opportunity to those who may not have another avenue for bringing their games to life.  In the age of self-published content, there is a lot that needs to be filtered.  Here is a couple of print on demand games from several print companies that I think are worth taking a look at (though not all of them are abstract strategy games).&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Print and Play Games&lt;/strong&gt;  &lt;br /&gt;
@@ -127,9 +190,9 @@ Tweet us &lt;a href=&quot;https://twitter.com/richfamilygames&quot;&gt;@richfami
  
  <entry>
    <title>A Review of Hnefatafl by Pub Games of England</title>
-   <link href="http://localhost:4000/2021/03/28/hneftafl-pub-games-england/"/>
+   <link href="http://richgames.xyz/2021/03/28/hneftafl-pub-games-england/"/>
    <updated>2021-03-28T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2021/03/28/hneftafl-pub-games-england</id>
+   <id>http://richgames.xyz/2021/03/28/hneftafl-pub-games-england</id>
    <content type="html">&lt;p&gt;Hneftafl…the vikings’ board game by Pub Games of England is an interesting vintage set.  There are no dates on the box.  If I had to guess, I would say it was produced some time in the 1980’s.   I’ve seen the set for sale online with a slightly different box label stating the company was located in Sussex, England.&lt;/p&gt;
 
 &lt;p&gt;This set is simple and beautiful.  The rustic wooden board is compact measuring at 5.5 inches squared.  It is a 7x7 playing area with holes instead of squares.  The playing pieces are wooden pegs that fit into the holes.  There are 12 light wood attackers, 6 dark wood defenders and 1 king.  If you’re thinking this seems unusual for a brandub sized board, you’re right!  There are 50% more pieces than your classic brandub game.  Also unusual is the setup of the game (shown in the picture).&lt;/p&gt;
@@ -154,9 +217,9 @@ Tweet us &lt;a href=&quot;https://twitter.com/richfamilygames&quot;&gt;@richfami
  
  <entry>
    <title>Mini Tori Shogi</title>
-   <link href="http://localhost:4000/2021/02/27/mini-tori-shogi/"/>
+   <link href="http://richgames.xyz/2021/02/27/mini-tori-shogi/"/>
    <updated>2021-02-27T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2021/02/27/mini-tori-shogi</id>
+   <id>http://richgames.xyz/2021/02/27/mini-tori-shogi</id>
    <content type="html">&lt;p&gt;I am a big fan of small Shogi games such as Mini Shogi.  Tori Shogi (also known as Bird Shogi) is considered to be the smallest of the historic variants.  It is played on a 7x7 grid with 16 pieces per player.  With a total
 of 32 pieces and just 49 squares, the game can feel a little cramped.  As a result, I have been wanting to experiment with a smaller version.&lt;/p&gt;
 
@@ -199,9 +262,9 @@ Although I enjoy the aesthetics of the game, there are some problems with the ga
  
  <entry>
    <title>A Review of Swords & Shields</title>
-   <link href="http://localhost:4000/2020/12/23/swords-and-shields/"/>
+   <link href="http://richgames.xyz/2020/12/23/swords-and-shields/"/>
    <updated>2020-12-23T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2020/12/23/swords-and-shields</id>
+   <id>http://richgames.xyz/2020/12/23/swords-and-shields</id>
    <content type="html">&lt;p&gt;Swords &amp;amp; Shields by Milton Bradley (USA) is another vintage find of a classic Tafl game. Published in 1970, it embraces the Norse tradition with decorative Viking themed graphics. The game give credit to its history with the following in the inside cover of the box:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/swords-and-shields-inside-cover.jpg&quot; alt=&quot;Swords and Shields inside cover&quot; /&gt;&lt;/p&gt;
@@ -237,9 +300,9 @@ sandwiching the Chief Shield with the center dot.&lt;/p&gt;
  
  <entry>
    <title>My Top Threes</title>
-   <link href="http://localhost:4000/2020/11/23/my-top-threes/"/>
+   <link href="http://richgames.xyz/2020/11/23/my-top-threes/"/>
    <updated>2020-11-23T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2020/11/23/my-top-threes</id>
+   <id>http://richgames.xyz/2020/11/23/my-top-threes</id>
    <content type="html">&lt;p&gt;I was thinking about my favourite games and what my “Top Ten” list would look like.
 Spoiler Alert: I couldn’t come up with the list because there are so many games I like for
 different reasons.&lt;/p&gt;
@@ -314,9 +377,9 @@ different reasons.&lt;/p&gt;
  
  <entry>
    <title>Interview With Hnefatafl Books Author Damian Walker</title>
-   <link href="http://localhost:4000/2020/10/23/damian-walker-interview/"/>
+   <link href="http://richgames.xyz/2020/10/23/damian-walker-interview/"/>
    <updated>2020-10-23T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2020/10/23/damian-walker-interview</id>
+   <id>http://richgames.xyz/2020/10/23/damian-walker-interview</id>
    <content type="html">&lt;p&gt;&lt;em&gt;This is a part of an ongoing interview series with book authors who write about our favorite types of games. Damian Walker is the author of not one but two books on hnefatafl.  Both &lt;a href=&quot;https://www.lulu.com/shop/damian-gareth-walker/an-introduction-to-hnefatafl/paperback/product-22385082.html&quot;&gt;An Introduction to Hneftafl&lt;/a&gt; and &lt;a href=&quot;https://www.lulu.com/shop/damian-walker/reconstructing-hnefatafl/hardcover/product-21428427.html&quot;&gt;Reconstructing Hnefatafl&lt;/a&gt; introduced me to this Norse game and I’ve been a huge fan ever since.  I am delighted to share this interview with Damian everyone and hope you enjoy it too.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Can you tell us a little about yourself?&lt;/strong&gt;&lt;/p&gt;
@@ -401,9 +464,9 @@ This was the most fun to write, and led me into some very interesting research. 
  
  <entry>
    <title>A Review of Break Away</title>
-   <link href="http://localhost:4000/2020/09/09/break-away-review/"/>
+   <link href="http://richgames.xyz/2020/09/09/break-away-review/"/>
    <updated>2020-09-09T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2020/09/09/break-away-review</id>
+   <id>http://richgames.xyz/2020/09/09/break-away-review</id>
    <content type="html">&lt;p&gt;&lt;em&gt;Break Away: The game of confrontation and escape&lt;/em&gt; is a modern game that is unabashedly derived from our favorite Norse game, Hnefatafl.  It was originally a part of the Hi-Q Collection by CBS Toys, a division of CBS Inc.  Published in the early 1980’s, it is another example of how ancient games can evolve.&lt;/p&gt;
 
 &lt;p&gt;The components are pretty simple.  The game consists of a blue plastic board with a 9x9 grid.  Each cell contains a hole that fits the plastic peg pieces.  There are 16 white pegs (though you won’t need them all in the base game), 8 blue pegs and 1 blue king (which is just another blue peg that is slightly larger).  At the ends of the board, the top lid comes off to reveal a compartment where the pieces can be comfortably stored.&lt;/p&gt;
@@ -445,9 +508,9 @@ There is also nothing particularly special about the central square.  You can mo
  
  <entry>
    <title>Making Dice</title>
-   <link href="http://localhost:4000/2020/08/15/making-dice/"/>
+   <link href="http://richgames.xyz/2020/08/15/making-dice/"/>
    <updated>2020-08-15T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2020/08/15/making-dice</id>
+   <id>http://richgames.xyz/2020/08/15/making-dice</id>
    <content type="html">&lt;p&gt;It shouldn’t surprise anyone too much that gamers love dice.  The idea of some sort of randomizer have been around a long time with some ancient dice said to be dated as far back as 2500 BC. I’ve been experimenting with making dice and thought I’d jot down some of my techniques for those who are interested.&lt;/p&gt;
 
 &lt;p&gt;The first thing you need when making dice is wooden cubes.  You can buy these of various size at almost any hobby shop.  Using my wood burner, I burn the appropriate number of pips on each side.  I’ve played around with staining the die using coffee and wine.  What??!  Yes, coffee and/or wine.  Unfortunately known for staining clothes, carpet, and teeth, both coffee and wine acts as a great subtle stainer for light woods.  I usually stain the dice with few a few layers until I achieve the tint I want.&lt;/p&gt;
@@ -464,9 +527,9 @@ There is also nothing particularly special about the central square.  You can mo
  
  <entry>
    <title>Postcard Challenge</title>
-   <link href="http://localhost:4000/2020/08/14/postcard-challenge/"/>
+   <link href="http://richgames.xyz/2020/08/14/postcard-challenge/"/>
    <updated>2020-08-14T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2020/08/14/postcard-challenge</id>
+   <id>http://richgames.xyz/2020/08/14/postcard-challenge</id>
    <content type="html">&lt;p&gt;I created a side project for myself to design some micro games.  I randomly drew 7 boards on postcards with the intention of designing a game for each one over 7 days.  It doesn’t necessarily have to be one a day, but it’s a good starting point. Having the framework keeps me encouraged.  I don’t necessarily have high expectations of the games and think of them more as first drafts.  The exercise is also a way for me to overcome my shyness of just pulling the trigger on these things.  It’s true when they say, perfection is the enemy of done.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/postcard-challenge-in-progress.png&quot; alt=&quot;postcard challenge progress&quot; /&gt;&lt;/p&gt;
@@ -477,9 +540,9 @@ There is also nothing particularly special about the central square.  You can mo
  
  <entry>
    <title>Making A Chaturaji Set</title>
-   <link href="http://localhost:4000/2020/07/14/chaturaji/"/>
+   <link href="http://richgames.xyz/2020/07/14/chaturaji/"/>
    <updated>2020-07-14T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2020/07/14/chaturaji</id>
+   <id>http://richgames.xyz/2020/07/14/chaturaji</id>
    <content type="html">&lt;p&gt;Chaturaji literally means “4 Kings”.  It is a 4 handed Indian chess variant with written sources dating back to 1030 A.D.  Like many of the ancient chess variants, sets can be hard to find.  In true maker fashion, I found some STL’s of the &lt;a href=&quot;https://pinshape.com/items/8681-3d-printed-nishapur-chess&quot;&gt;Nishapur Chess pieces&lt;/a&gt; and had a friend 3D print them for me.  The King and Queen pieces look similar enough where you can make the 4 sets of pieces needed for Chaturaji.  With the help of my 3 and 5 year old daughters, we painted the pieces different colors.  Painting chess pieces with children is….interesting.  Let’s just say many layers of colors (including some very muddy ones) were involved.&lt;/p&gt;
 
 &lt;p&gt;The board is an 8x8 inch red oak plywood which was originally the start for another game.  I played around with the grid and it ended up with this imprecise and rustic look.  In the end, I felt like the set came together and it was a fun way to spend some time with my kids.&lt;/p&gt;
@@ -494,9 +557,9 @@ There is also nothing particularly special about the central square.  You can mo
  
  <entry>
    <title>Angel Chess Microsite</title>
-   <link href="http://localhost:4000/2020/06/14/angel-chess-site/"/>
+   <link href="http://richgames.xyz/2020/06/14/angel-chess-site/"/>
    <updated>2020-06-14T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2020/06/14/angel-chess-site</id>
+   <id>http://richgames.xyz/2020/06/14/angel-chess-site</id>
    <content type="html">&lt;p&gt;I came across a chess variant called &lt;a href=&quot;https://boardgamegeek.com/boardgame/153759/angel-chess&quot;&gt;Angel Chess on the BoardGameGeek website&lt;/a&gt;. 
 What drew me in was the image of an old patent containing a beautiful hand drawn diagram of the game.&lt;/p&gt;
 
@@ -510,9 +573,9 @@ What drew me in was the image of an old patent containing a beautiful hand drawn
  
  <entry>
    <title>How to Play Pex</title>
-   <link href="http://localhost:4000/2020/06/10/how-to-play-pex/"/>
+   <link href="http://richgames.xyz/2020/06/10/how-to-play-pex/"/>
    <updated>2020-06-10T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2020/06/10/how-to-play-pex</id>
+   <id>http://richgames.xyz/2020/06/10/how-to-play-pex</id>
    <content type="html">&lt;p&gt;My 5 year daughter sporadically designed her first board game!&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/pex.png&quot; alt=&quot;Pex&quot; /&gt;&lt;/p&gt;
@@ -548,9 +611,9 @@ You also win if the opposing player can not move.&lt;/p&gt;
  
  <entry>
    <title>44 Etsy Sales</title>
-   <link href="http://localhost:4000/2020/05/31/etsy-sales/"/>
+   <link href="http://richgames.xyz/2020/05/31/etsy-sales/"/>
    <updated>2020-05-31T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2020/05/31/etsy-sales</id>
+   <id>http://richgames.xyz/2020/05/31/etsy-sales</id>
    <content type="html">&lt;p&gt;Rich Games is not only a hobby site, but it is also hobby business.  I haven’t focused on it as much lately, but I enjoy making board games via pyrography (wood burning) and have sold 44 sets to date on Etsy.   I definitely don’t make a profit on these games (especially if you consider my labor), but I enjoy the creative process.  It’s fun to look back on the sets and I’d thought I share the numbers on what games sold.&lt;/p&gt;
 
 &lt;p&gt;3 Men’s Morris: 2  &lt;br /&gt;
@@ -585,9 +648,9 @@ The Morris games (3, 5 &amp;amp; 9) make up 11% of total sales.&lt;/p&gt;
  
  <entry>
    <title>Progressive Morris Games</title>
-   <link href="http://localhost:4000/2020/04/24/progressive-morris/"/>
+   <link href="http://richgames.xyz/2020/04/24/progressive-morris/"/>
    <updated>2020-04-24T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2020/04/24/progressive-morris</id>
+   <id>http://richgames.xyz/2020/04/24/progressive-morris</id>
    <content type="html">&lt;p&gt;It’s been pretty crazy in this post COVID-19 world.  I live in the San Francisco Bay Area and we’ve been sheltering in place for over a month now.  As I adjust to having the kids home due to school closures and still trying to work a full time job, there’s been little time for game &lt;em&gt;making&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;On the other hand, there has been ample time for game &lt;em&gt;playing&lt;/em&gt; with the kids.&lt;/p&gt;
@@ -607,9 +670,9 @@ One of the days, I decided to teach my 5 year old how to play some of the Morris
  
  <entry>
    <title>Making a Noggin the Nog Dice Tower</title>
-   <link href="http://localhost:4000/2020/02/06/noggin-dice-tower/"/>
+   <link href="http://richgames.xyz/2020/02/06/noggin-dice-tower/"/>
    <updated>2020-02-06T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2020/02/06/noggin-dice-tower</id>
+   <id>http://richgames.xyz/2020/02/06/noggin-dice-tower</id>
    <content type="html">&lt;p&gt;My latest completed project is a Noggin the Nog themed dice tower that I made for my daughter.  I didn’t actually make the box itself.  I bought the unstained and unfinished plywood dice tower on Etsy for $12 and over a period of 8 months started working on it a bit at a time.  I’m pretty pleased with the final product and my daughter was ecstatic to get it.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/noggin-dice-tower-1.jpg&quot; alt=&quot;dice tower 1&quot; /&gt;
@@ -626,9 +689,9 @@ One of the days, I decided to teach my 5 year old how to play some of the Morris
  
  <entry>
    <title>Alea Evangelii by Forever Family Games</title>
-   <link href="http://localhost:4000/2020/01/01/alea-evangelii-forever-family-games/"/>
+   <link href="http://richgames.xyz/2020/01/01/alea-evangelii-forever-family-games/"/>
    <updated>2020-01-01T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2020/01/01/alea-evangelii-forever-family-games</id>
+   <id>http://richgames.xyz/2020/01/01/alea-evangelii-forever-family-games</id>
    <content type="html">&lt;p&gt;Any serious Hnefatafl enthusiast will eventually find themselves reading about the largest known version.  Alea Evangelii, meaning “Game of the Gospels” is referenced in an medieval century manuscript.  The manuscript contains a beautiful diagram of this game on a massive 19x19 grid.  It is said to have been played during the time of King Athelstan of the English.  No game rules exists.  The text on this manuscript is all allegorical containing metaphors for the gospels. It is interesting to note that the 19x19 grid is also used in the Chinese game of Go and like Go, the pieces are also played on the intersection of lines.&lt;/p&gt;
 
 &lt;p&gt;It is common to try to recreate this game on a Go board using the black and white pieces as attackers and defenders and perhaps a chess piece as the king.  Although Tafl sets in general are becoming more easy to purchase in general on sites like Etsy or eBay, Alea Evangelii sets are a bit more obscure and harder to come by.&lt;/p&gt;
@@ -667,9 +730,9 @@ As of writing this article, Forever Family Games has a &lt;a href=&quot;https://
  
  <entry>
    <title>A Review of Thai Chess and Cambodian Chess by Gary Gifford</title>
-   <link href="http://localhost:4000/2019/12/03/thai-chess-review/"/>
+   <link href="http://richgames.xyz/2019/12/03/thai-chess-review/"/>
    <updated>2019-12-03T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2019/12/03/thai-chess-review</id>
+   <id>http://richgames.xyz/2019/12/03/thai-chess-review</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/thai_chess_book.jpg&quot; alt=&quot;Book&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://amzn.to/2QIEnVx&quot;&gt;Thai Chess and Cambodian Chess: Makruk and Ouk Chattrangi&lt;/a&gt; is a self published book by Gary Gifford.  Those who love chess variants will appreciate this short read.  In just under 90 pages, Gifford gives an introduction to the history, rules, openings, recorded games and describes homemade sets.&lt;/p&gt;
@@ -773,9 +836,9 @@ No recalculation is done.&lt;/p&gt;
  
  <entry>
    <title>Drawing Fun with Inktober 2019</title>
-   <link href="http://localhost:4000/2019/11/05/inktober-fun/"/>
+   <link href="http://richgames.xyz/2019/11/05/inktober-fun/"/>
    <updated>2019-11-05T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2019/11/05/inktober-fun</id>
+   <id>http://richgames.xyz/2019/11/05/inktober-fun</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;https://inktober.com/&quot;&gt;Inktober&lt;/a&gt; is an art challenge to produce an ink drawing every day for the month of October.  Every day has a word associated with it to draw inspiration from.  I had thought about participating last year but couldn’t quite find the time.  This year, &lt;a href=&quot;https://twitter.com/richfamilygames/status/1182135786046550016&quot;&gt;9 days into October&lt;/a&gt;, I decided it’s never too late to start.&lt;/p&gt;
 
 &lt;p&gt;Here are some board game related drawings that I had some fun with:&lt;/p&gt;
@@ -792,9 +855,9 @@ No recalculation is done.&lt;/p&gt;
  
  <entry>
    <title>Photoblog: Making a Hare & Hounds Set</title>
-   <link href="http://localhost:4000/2019/10/01/photoblog-hare-hounds/"/>
+   <link href="http://richgames.xyz/2019/10/01/photoblog-hare-hounds/"/>
    <updated>2019-10-01T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2019/10/01/photoblog-hare-hounds</id>
+   <id>http://richgames.xyz/2019/10/01/photoblog-hare-hounds</id>
    <content type="html">&lt;p&gt;I’ve made a Hare &amp;amp; Hounds (aka &lt;a href=&quot;https://richgames.xyz/2017/02/20/how-to-play-french-military-game/&quot;&gt;The French Military Game&lt;/a&gt;) set in the past.  It was pretty simple with just the lines.  Although that is perfectly sufficient to play this small but strategic game, I’ve been wanting to make a more creative version of it.  I also wanted to change my approach a bit on making board games.  Often times it takes me weeks or months to complete something.  This is mostly due to the fact that I have little kids and can only squeeze in a bit of time in the evenings.  So this time around, I treated this project more like a quick sketch or doodle.&lt;/p&gt;
 
 &lt;p&gt;Starting with a piece of red oak plywood and ruler, I drew in the actual grid/game area.  At this point, I wasn’t really sure what else I was going to do but just starting is half the battle.  After looking at a few random images on the internet of rabbits and dogs, I started sketching out the hare and hound.&lt;/p&gt;
@@ -815,9 +878,9 @@ No recalculation is done.&lt;/p&gt;
  
  <entry>
    <title>Interview with TAFL Author Jesse Robinson</title>
-   <link href="http://localhost:4000/2019/09/01/jesse-robinson-interview/"/>
+   <link href="http://richgames.xyz/2019/09/01/jesse-robinson-interview/"/>
    <updated>2019-09-01T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2019/09/01/jesse-robinson-interview</id>
+   <id>http://richgames.xyz/2019/09/01/jesse-robinson-interview</id>
    <content type="html">&lt;p&gt;&lt;em&gt;This is a part of an ongoing interview series with book authors who write about our favorite types of games.  Jesse Robinson is the author of TAFL, one of the first books on Hnefatafl.  Although the e-book was first self published in 2013, I only just recently had the pleasure of &lt;a href=&quot;https://richgames.xyz/2019/06/24/tafl-book.review/&quot;&gt;reading and reviewing it&lt;/a&gt;.  I’m excited to be able to share this interview with others.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Can you tell us a little about yourself?&lt;/strong&gt;&lt;/p&gt;
@@ -884,9 +947,9 @@ No recalculation is done.&lt;/p&gt;
  
  <entry>
    <title>Photoblog: Making a Cam Board</title>
-   <link href="http://localhost:4000/2019/07/29/photoblog-cam/"/>
+   <link href="http://richgames.xyz/2019/07/29/photoblog-cam/"/>
    <updated>2019-07-29T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2019/07/29/photoblog-cam</id>
+   <id>http://richgames.xyz/2019/07/29/photoblog-cam</id>
    <content type="html">&lt;p&gt;In 1882, George S. Parker of Parker Brother started working on a game called &lt;a href=&quot;https://boardgamegeek.com/boardgame/117864/chivalry&quot;&gt;Chivalry&lt;/a&gt;.  He wanted to create a game that was less complicated than chess but more interesting than checkers.  It was published in 1887 but did not really gain mainstream interest.  In 1930’s, the game was slightly modified, republished as Camelot and enjoyed it’s “golden age”.  &lt;a href=&quot;https://boardgamegeek.com/boardgame/5251/camelot&quot;&gt;Camelot&lt;/a&gt; was said to be played by well known folks such as Jose Raul Capablanca and John F. Kennedy.  In 1949, a smaller version of Camelot called &lt;a href=&quot;https://boardgamegeek.com/boardgame/117869/cam&quot;&gt;Cam&lt;/a&gt; was released.  The &lt;a href=&quot;https://boardgamegeek.com/boardgame/5251/camelot&quot;&gt;rules&lt;/a&gt; are pretty much the same as Camelot with some modification due to having a smaller board and less pieces.&lt;/p&gt;
 
 &lt;p&gt;You can easily find used versions of Camelot on eBay or etsy, but this is not so true for Cam.  Since I really enjoyed playing Camelot (having picked up a used copy in the past), I’d thought it be a fun project to make my own Cam board.&lt;/p&gt;
@@ -909,9 +972,9 @@ And I’m glad I did! It’s not perfect, but I like the rustic flag and it feel
  
  <entry>
    <title>Modern Abstract Spotlight: Chameleon by Logy Games</title>
-   <link href="http://localhost:4000/2019/07/28/modern-abstract-spotlight-chameleon/"/>
+   <link href="http://richgames.xyz/2019/07/28/modern-abstract-spotlight-chameleon/"/>
    <updated>2019-07-28T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2019/07/28/modern-abstract-spotlight-chameleon</id>
+   <id>http://richgames.xyz/2019/07/28/modern-abstract-spotlight-chameleon</id>
    <content type="html">&lt;p&gt;If you’re a fan of light chess variants and unique components, you’ll love Chameleon by &lt;a href=&quot;http://www.logygames.com/english/index.html&quot;&gt;Logy Games&lt;/a&gt;.
 Mitsuo Yamamoto is the designer behind the game and the company which produces these hand-made ceramic sets.  At its core, Chameleon is a small chess game reduced to the movements of kings, knights and bishops.  Every piece has a “nature” and can always move one space any direction like a king.  The “nature” is essentially the middle color of each piece (black or white).  This determines if a piece can move like a knight or bishop depending on what square it’s on.&lt;/p&gt;
 
@@ -932,9 +995,9 @@ Mitsuo Yamamoto is the designer behind the game and the company which produces t
  
  <entry>
    <title>A Review of TAFL by Jesse Robinson</title>
-   <link href="http://localhost:4000/2019/06/24/tafl-book.review/"/>
+   <link href="http://richgames.xyz/2019/06/24/tafl-book.review/"/>
    <updated>2019-06-24T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2019/06/24/tafl-book.review</id>
+   <id>http://richgames.xyz/2019/06/24/tafl-book.review</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;https://amzn.to/37jCghj&quot;&gt;TAFL&lt;/a&gt; an e-book by Jesse Robinson is one of the first books about hnefatafl.  It takes a conversational approach and feels like you just had a good conversation with a random guy at the bookstore.  In just 52 pages, he shows his disdain for video games, explains how board games connect us to the past and introduces the system of tafl games.&lt;/p&gt;
 
 &lt;p&gt;One problem with hnefatafl and the tafl family of games is the lack of standardized rules.  Every one seems to play them slightly differently.  I really like how Robinson introduces the tafl games by the characteristics they have in common and how they can differ into the plethora of variations that exist.&lt;/p&gt;
@@ -1000,9 +1063,9 @@ Alea Evangelii&lt;/p&gt;
  
  <entry>
    <title>Traditional Xiang Qi or Not?</title>
-   <link href="http://localhost:4000/2019/05/30/traditional-xiangqi-or-not/"/>
+   <link href="http://richgames.xyz/2019/05/30/traditional-xiangqi-or-not/"/>
    <updated>2019-05-30T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2019/05/30/traditional-xiangqi-or-not</id>
+   <id>http://richgames.xyz/2019/05/30/traditional-xiangqi-or-not</id>
    <content type="html">&lt;p&gt;I remember learning to play Xiang Qi (or Chinese Chess) as a young child.  I was 6 or 7 and my uncle spent time teaching me all the characters and the moves on a traditional set. Xiang Qi pieces, unlike Western Chess, are simple discs with Chinese characters on them.  Since I was a child, I was able to pick it up pretty quickly.  It’s a great chess variant and although tons of  people play it (because let’s face it, there are a lot of Chinese people in the world), I feel that it doesn’t get the international audience it deserves.  This is probably due to the fact that it’s intimidating to learn the characters on the pieces and to make things worse, in some cases, the characters are different depending what side you’re on.&lt;/p&gt;
 
 &lt;p&gt;So needless to say, I was really excited to find a relatively &lt;a href=&quot;https://amzn.to/2SE4yPu&quot;&gt;cheap copy on Amazon&lt;/a&gt; (I think I spent about $17 on it) with figures instead of the traditional discs.  I figured (no pun intended) this would be a great set to teach others with including my own young children.  The set is quite nice and for the price I really don’t think I could have gotten a better set. 
@@ -1019,9 +1082,9 @@ Perhaps above all else, that is the real tradition that’s important.&lt;/p&gt;
  
  <entry>
    <title>Puluc Design Iteration</title>
-   <link href="http://localhost:4000/2018/11/01/puluc-v2/"/>
+   <link href="http://richgames.xyz/2018/11/01/puluc-v2/"/>
    <updated>2018-11-01T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2018/11/01/puluc-v2</id>
+   <id>http://richgames.xyz/2018/11/01/puluc-v2</id>
    <content type="html">&lt;p&gt;I’ve been wanting to iterate over the design of a &lt;a href=&quot;http://richgames.xyz/2018/06/08/photoblog-puluc/&quot;&gt;Puluc board I had previously made.&lt;/a&gt;  In particular, I wanted to clean up the lines in the stairs in both of the homebase sections.
 I found that the trick to burning fine lines is turning down the heat.  That gave me more control  &lt;br /&gt;
 over the drawing and lead to less charred bleeding.  Adding shaded patterns also improved the overall look and feel and
@@ -1039,9 +1102,9 @@ of the cubes reinforced the decorations and added to the cut-throat nature of th
  
  <entry>
    <title>Yoté Board and Elephants</title>
-   <link href="http://localhost:4000/2018/10/18/photoblog-yote/"/>
+   <link href="http://richgames.xyz/2018/10/18/photoblog-yote/"/>
    <updated>2018-10-18T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2018/10/18/photoblog-yote</id>
+   <id>http://richgames.xyz/2018/10/18/photoblog-yote</id>
    <content type="html">&lt;p&gt;I used to work for a company that hosted annual employee art shows.  This was a great way to share creative passions with coworkers and I participated one year
 with a wall full (10-12) of elephant paintings.&lt;/p&gt;
 
@@ -1058,9 +1121,9 @@ Wood burning on red oak can be a little tricky but I was pleased with the result
  
  <entry>
    <title>How to Play Yoté</title>
-   <link href="http://localhost:4000/2018/09/27/how-to-play-yote/"/>
+   <link href="http://richgames.xyz/2018/09/27/how-to-play-yote/"/>
    <updated>2018-09-27T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2018/09/27/how-to-play-yote</id>
+   <id>http://richgames.xyz/2018/09/27/how-to-play-yote</id>
    <content type="html">&lt;p&gt;Yoté is a highly addicting strategy game from West Africa.  &lt;br /&gt;
 It is played on a 5x6 board with 24 pieces and possesses an interesting capturing characteristic.&lt;/p&gt;
 
@@ -1086,9 +1149,9 @@ the board.  The capturing player may now take another piece off the board of the
  
  <entry>
    <title>A World of Chess Review</title>
-   <link href="http://localhost:4000/2018/07/27/a-world-of-chess-review/"/>
+   <link href="http://richgames.xyz/2018/07/27/a-world-of-chess-review/"/>
    <updated>2018-07-27T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2018/07/27/a-world-of-chess-review</id>
+   <id>http://richgames.xyz/2018/07/27/a-world-of-chess-review</id>
    <content type="html">&lt;p&gt;There is no shortage on books about chess.  A quick look on the internet in your favorite search engine will produce overwhelming results.  There are books on the history of chess, the strategy of chess, chess variants, famous chess players and introductions for beginners.  So when I was looking for a book about chess, there was plenty to choose from.  I started off by picking up a copy of Murray’s History of Chess.  Written in 1913, it is a well known classic with a comprehensive look at the origins of chess.&lt;/p&gt;
 
 &lt;p&gt;I didn’t make it pass page 30.&lt;/p&gt;
@@ -1106,9 +1169,9 @@ the board.  The capturing player may now take another piece off the board of the
  
  <entry>
    <title>How to Play Puluc</title>
-   <link href="http://localhost:4000/2018/07/03/how-to-play-puluc/"/>
+   <link href="http://richgames.xyz/2018/07/03/how-to-play-puluc/"/>
    <updated>2018-07-03T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2018/07/03/how-to-play-puluc</id>
+   <id>http://richgames.xyz/2018/07/03/how-to-play-puluc</id>
    <content type="html">&lt;p&gt;Puluc finds its origins from Central America, played by the Ketchi people who are said to be descendants of the Mayans.  It is traditionally played with corn husks and is a wonderful ancient filler game.  Much of the game relies on luck, but it is a strangely satisfying game that often times can end in less than 5 minutes.&lt;/p&gt;
 
 &lt;h2 id=&quot;step-1-setup-the-board&quot;&gt;Step 1: Setup the Board&lt;/h2&gt;
@@ -1151,9 +1214,9 @@ as follows:&lt;/p&gt;
  
  <entry>
    <title>Photoblog: Making a Senet-Ur Board</title>
-   <link href="http://localhost:4000/2018/06/19/photoblog-senet-ur/"/>
+   <link href="http://richgames.xyz/2018/06/19/photoblog-senet-ur/"/>
    <updated>2018-06-19T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2018/06/19/photoblog-senet-ur</id>
+   <id>http://richgames.xyz/2018/06/19/photoblog-senet-ur</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;https://a4games.company/senet-ur/&quot;&gt;Senet-Ur&lt;/a&gt; is a hybrid of two ancient games by &lt;a href=&quot;https://a4games.company/&quot;&gt;A4 Games&lt;/a&gt;.  As its name suggests, it combines the rules and board layout from both Senet and the Royal Game of Ur.  I actually quite like the name “Senet-Ur” because it makes me want to pronounce it like “senator.”&lt;/p&gt;
 
 &lt;p&gt;Like the beginning of any game, I started with the grid layout.  &lt;br /&gt;
@@ -1175,9 +1238,9 @@ I was quite happy with how the set turned out and even more happy to play a few 
  
  <entry>
    <title>Photoblog: Making a Puluc Board</title>
-   <link href="http://localhost:4000/2018/06/08/photoblog-puluc/"/>
+   <link href="http://richgames.xyz/2018/06/08/photoblog-puluc/"/>
    <updated>2018-06-08T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2018/06/08/photoblog-puluc</id>
+   <id>http://richgames.xyz/2018/06/08/photoblog-puluc</id>
    <content type="html">&lt;p&gt;Start off by drawing out the lines.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/puluc-1-photoblog.jpg&quot; alt=&quot;Making a Puluc Board 1&quot; /&gt;&lt;/p&gt;
@@ -1205,9 +1268,9 @@ Now for the casting sticks and playing pieces.  I paint popsicle sticks and stai
  
  <entry>
    <title>A Busy Royal Game of Ur Board</title>
-   <link href="http://localhost:4000/2018/05/23/busy-royal-game-of-ur/"/>
+   <link href="http://richgames.xyz/2018/05/23/busy-royal-game-of-ur/"/>
    <updated>2018-05-23T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2018/05/23/busy-royal-game-of-ur</id>
+   <id>http://richgames.xyz/2018/05/23/busy-royal-game-of-ur</id>
    <content type="html">&lt;p&gt;I’ve done a lot of experimenting with making Royal Game of Ur sets.  The famous set that most people are familiar with at the British Museum is visually beautiful and busy.  &lt;br /&gt;
 I’ve experimented with some more minimal designs like the one below.
 &lt;img src=&quot;/assets/minimal_ur.jpg&quot; alt=&quot;Royal Game of Ur Minimal&quot; /&gt;&lt;/p&gt;
@@ -1222,9 +1285,9 @@ I’ve experimented with some more minimal designs like the one below.
  
  <entry>
    <title>How to Play Pulijudam</title>
-   <link href="http://localhost:4000/2018/01/02/how-to-play-pulijudam/"/>
+   <link href="http://richgames.xyz/2018/01/02/how-to-play-pulijudam/"/>
    <updated>2018-01-02T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2018/01/02/how-to-play-pulijudam</id>
+   <id>http://richgames.xyz/2018/01/02/how-to-play-pulijudam</id>
    <content type="html">&lt;p&gt;Pulijudam is a game much like &lt;a href=&quot;/2017/05/17/how-to-play-fox-and-geese/&quot;&gt;Fox and Geese&lt;/a&gt; out of India.  Also known as Tigers and Lambs, it is an asymmetrical game played on the intersections of a triangular board.  There are 3 tiger pieces and 15 lamb pieces.&lt;/p&gt;
 
 &lt;h2 id=&quot;phase-1-place-the-pieces&quot;&gt;Phase 1: Place the Pieces&lt;/h2&gt;
@@ -1254,9 +1317,9 @@ I’ve experimented with some more minimal designs like the one below.
  
  <entry>
    <title>The Making of a Go Board</title>
-   <link href="http://localhost:4000/2017/12/12/making-a-go-board/"/>
+   <link href="http://richgames.xyz/2017/12/12/making-a-go-board/"/>
    <updated>2017-12-12T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2017/12/12/making-a-go-board</id>
+   <id>http://richgames.xyz/2017/12/12/making-a-go-board</id>
    <content type="html">&lt;p&gt;I recently made a Go board for a friend’s kid.  It’s the second one I’ve done and I really enjoyed the process.  Initially, I felt a bit intimidated about making one in the first place.  Why?  Go boards have a long history of precision and meticulous 
 craftmanship which is really different from the rustic style of my game boards.  At the end of the day, it’s all really about 
 fun and friendship so I was happy to present what I had.  The board is a 9x9 grid, decorated with bamboo and panda illustrations.
@@ -1272,9 +1335,9 @@ Overall, I was happy with what I ended up with and hope my friend’s son have m
  
  <entry>
    <title>Do-It-Yourself: Egg Carton Mancala</title>
-   <link href="http://localhost:4000/2017/10/02/egg-carton-mancala/"/>
+   <link href="http://richgames.xyz/2017/10/02/egg-carton-mancala/"/>
    <updated>2017-10-02T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2017/10/02/egg-carton-mancala</id>
+   <id>http://richgames.xyz/2017/10/02/egg-carton-mancala</id>
    <content type="html">&lt;p&gt;I was recently interested in learning how to play Wari which is a West African game from the Mancala family.  There are a ton of buying options out there, but I wanted to play a few games before purchasing a set.
 I came across a mention of using an empty egg carton and 48 pieces of whatever you can find.&lt;br /&gt;
 You would need to fit at least 4 pieces in each cup for the initial setup.  Coins, coffee beans, rocks or buttons would work.
@@ -1287,9 +1350,9 @@ Although it wouldn’t replace getting a nice set, it worked out pretty well for
  
  <entry>
    <title>Do-It-Yourself: Painting Resin</title>
-   <link href="http://localhost:4000/2017/08/30/diy-painting-resin/"/>
+   <link href="http://richgames.xyz/2017/08/30/diy-painting-resin/"/>
    <updated>2017-08-30T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2017/08/30/diy-painting-resin</id>
+   <id>http://richgames.xyz/2017/08/30/diy-painting-resin</id>
    <content type="html">&lt;p&gt;Casting resin pieces is a great way to make game pieces.  Depending on the resin color, you may want to further enhance your pieces with some custom painting.&lt;/p&gt;
 
 &lt;p&gt;In a &lt;a href=&quot;http://richgames.xyz/2016/10/27/diy-resin-king/&quot;&gt;previous blog&lt;/a&gt;, the white resin was great for a casting the chess pawn because it matched the stone-like quality of the piece.
@@ -1310,9 +1373,9 @@ This technique can be applied to resin pieces.&lt;/p&gt;
  
  <entry>
    <title>Print and Play the Royal Game of Ur</title>
-   <link href="http://localhost:4000/2017/08/13/royal-game-or-ur-pnp/"/>
+   <link href="http://richgames.xyz/2017/08/13/royal-game-or-ur-pnp/"/>
    <updated>2017-08-13T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2017/08/13/royal-game-or-ur-pnp</id>
+   <id>http://richgames.xyz/2017/08/13/royal-game-or-ur-pnp</id>
    <content type="html">&lt;p&gt;Print and plays are a great way to try out games before investing money on a nice set.  In some cases, especially
 with independent game designers, it’s the only way to play their games.  They are also great for classroom use or
 group use.  If anything, it’s fun and cheap entertainment.  I recently explored creating one for the Royal Game of Ur
@@ -1329,9 +1392,9 @@ re-live those college budget nights. :) Happy Gaming!&lt;/p&gt;
  
  <entry>
    <title>How to Play Senet</title>
-   <link href="http://localhost:4000/2017/08/12/how-to-play-senet/"/>
+   <link href="http://richgames.xyz/2017/08/12/how-to-play-senet/"/>
    <updated>2017-08-12T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2017/08/12/how-to-play-senet</id>
+   <id>http://richgames.xyz/2017/08/12/how-to-play-senet</id>
    <content type="html">&lt;p&gt;Senet is an ancient Egyptian board game played on a 3x10 grid board.  It was being played before 3000 B.C. and have been
 found in burial tombs.  One of the most eleaborate boards belonged to King Tutankhamun.  No rules have survived and many
 game historians have sought to reconstruct the game.  These rules are by British Museum curator, Irving Finkel.&lt;/p&gt;
@@ -1373,9 +1436,9 @@ move their piece.  The value is determined by how many marked sides are up.  If 
  
  <entry>
    <title>How to Play Five Lines</title>
-   <link href="http://localhost:4000/2017/07/31/how-to-play-five-lines/"/>
+   <link href="http://richgames.xyz/2017/07/31/how-to-play-five-lines/"/>
    <updated>2017-07-31T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2017/07/31/how-to-play-five-lines</id>
+   <id>http://richgames.xyz/2017/07/31/how-to-play-five-lines</id>
    <content type="html">&lt;p&gt;Five Lines was a game originating from Ancient Greece where it was known as Penta Grammai.  The earliest reference to it is in 600 B.C. in a verse by Greek poet, Alkaios.  It became popular among the Romans and boards have been found etched into
 pavements of old Roman towns.&lt;/p&gt;
 
@@ -1403,9 +1466,9 @@ pavements of old Roman towns.&lt;/p&gt;
  
  <entry>
    <title>How to Play Five Men's Morris</title>
-   <link href="http://localhost:4000/2017/07/25/how-to-play-five-mens-morris/"/>
+   <link href="http://richgames.xyz/2017/07/25/how-to-play-five-mens-morris/"/>
    <updated>2017-07-25T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2017/07/25/how-to-play-five-mens-morris</id>
+   <id>http://richgames.xyz/2017/07/25/how-to-play-five-mens-morris</id>
    <content type="html">&lt;p&gt;Five Men’s Morris is a merels game from Europe.  It also almost identical to Six Men’s Morris which only differs
 by the fact that each player gets an extra piece.  Diagrams of the board have been found in 16th century manuscripts.&lt;/p&gt;
 
@@ -1433,9 +1496,9 @@ by the fact that each player gets an extra piece.  Diagrams of the board have be
  
  <entry>
    <title>How to Play Three Men's Morris</title>
-   <link href="http://localhost:4000/2017/07/20/how-to-play-three-mens-morris/"/>
+   <link href="http://richgames.xyz/2017/07/20/how-to-play-three-mens-morris/"/>
    <updated>2017-07-20T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2017/07/20/how-to-play-three-mens-morris</id>
+   <id>http://richgames.xyz/2017/07/20/how-to-play-three-mens-morris</id>
    <content type="html">&lt;p&gt;Three Men’s Morris is a simple strategy game played by the ancient Romans.&lt;/p&gt;
 
 &lt;h2 id=&quot;phase-1-place-the-pieces&quot;&gt;Phase 1: Place the Pieces&lt;/h2&gt;
@@ -1461,9 +1524,9 @@ by the fact that each player gets an extra piece.  Diagrams of the board have be
  
  <entry>
    <title>Roman Cats - A Retheming of Shut the Box</title>
-   <link href="http://localhost:4000/2017/07/03/retheming-shut-the-box/"/>
+   <link href="http://richgames.xyz/2017/07/03/retheming-shut-the-box/"/>
    <updated>2017-07-03T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2017/07/03/retheming-shut-the-box</id>
+   <id>http://richgames.xyz/2017/07/03/retheming-shut-the-box</id>
    <content type="html">&lt;p&gt;Retheming is a fun way to breathe new life into old abstract games.  I recently experimented with making wooden Roman numeral dice and that is where the idea began.  Shut the Box is an old English pub game that is still fairly popular today.  There are many variations and sets available online.&lt;br /&gt;
 I was thinking about how to make a set without having to construct the actual box.  It’s a super simple game that could be potentially played using just a deck of card and set of dice.  With this in mind, I made 9 cat tokens, each with a Roman numeral across the top.  My 11 year old nephew and his friend assisted me with the cat drawings.
  &lt;strong&gt;Roman Cats&lt;/strong&gt;, a kitty themed version of Shut the Box was born!&lt;/p&gt;
@@ -1513,9 +1576,9 @@ sum of the rolled dice.&lt;/p&gt;
  
  <entry>
    <title>Games - Discover and Play 5 Famous Ancient Games</title>
-   <link href="http://localhost:4000/2017/06/03/discover-and-play-review/"/>
+   <link href="http://richgames.xyz/2017/06/03/discover-and-play-review/"/>
    <updated>2017-06-03T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2017/06/03/discover-and-play-review</id>
+   <id>http://richgames.xyz/2017/06/03/discover-and-play-review</id>
    <content type="html">&lt;p&gt;For the individual discovering the beauty of ancient games, &lt;strong&gt;Games - Discover and Play 5 Famous Ancient Games&lt;/strong&gt; by Irving Finkel 
 is a great gentle introduction into that world.  It is originally a children’s activity book published by the British Museum.
 It takes a child (and the child at heart) through 5 different ancient race games: Duodecim Scripta, Royal Game of Ur, Ancient Egyptian Senet, Pachisi,
@@ -1542,9 +1605,9 @@ try out each game before investing in nicer sets.  The boards and the rules are 
  
  <entry>
    <title>How to Play Fox and Geese</title>
-   <link href="http://localhost:4000/2017/05/17/how-to-play-fox-and-geese/"/>
+   <link href="http://richgames.xyz/2017/05/17/how-to-play-fox-and-geese/"/>
    <updated>2017-05-17T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2017/05/17/how-to-play-fox-and-geese</id>
+   <id>http://richgames.xyz/2017/05/17/how-to-play-fox-and-geese</id>
    <content type="html">&lt;p&gt;Fox and Geese is a northern European hunt game played with 13 geese and 1 fox.  Its asymmetrical nature is similar to that of hnefatafl.  Some theorize there is a relationship between two.  Queen Victoria is said to also be a fan on this medieval game.&lt;/p&gt;
 
 &lt;h2 id=&quot;step-1-setup-the-board&quot;&gt;Step 1: Setup the Board&lt;/h2&gt;
@@ -1574,9 +1637,9 @@ try out each game before investing in nicer sets.  The boards and the rules are 
  
  <entry>
    <title>How to Play Nine Men's Morris</title>
-   <link href="http://localhost:4000/2017/05/07/how-to-to-play-nine-mens-morris/"/>
+   <link href="http://richgames.xyz/2017/05/07/how-to-to-play-nine-mens-morris/"/>
    <updated>2017-05-07T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2017/05/07/how-to-to-play-nine-mens-morris</id>
+   <id>http://richgames.xyz/2017/05/07/how-to-to-play-nine-mens-morris</id>
    <content type="html">&lt;p&gt;Nine Men’s Morris is an ancient game with an unknown origin.  Historic boards
 have been found in Troy, Ireland, and Egypt.  The Romans took it across its empire and it has even found it’s way on the back of Viking Hnefatafl boards.&lt;/p&gt;
 
@@ -1611,9 +1674,9 @@ first will balance out the game.&lt;/p&gt;
  
  <entry>
    <title>How to Play Seega</title>
-   <link href="http://localhost:4000/2017/05/03/how-to-play-seega/"/>
+   <link href="http://richgames.xyz/2017/05/03/how-to-play-seega/"/>
    <updated>2017-05-03T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2017/05/03/how-to-play-seega</id>
+   <id>http://richgames.xyz/2017/05/03/how-to-play-seega</id>
    <content type="html">&lt;p&gt;Seega is a small abstract game from 19th century Egypt.  It has some similarities with the tafl family of games with its sandwiching capture method.  It is
 played on a 5x5 grid with 24 pieces (12 per player).&lt;/p&gt;
 
@@ -1642,9 +1705,9 @@ played on a 5x5 grid with 24 pieces (12 per player).&lt;/p&gt;
  
  <entry>
    <title>How to Play the Royal Game of Ur</title>
-   <link href="http://localhost:4000/2017/04/25/how-to-play-the-royal-game-of-ur/"/>
+   <link href="http://richgames.xyz/2017/04/25/how-to-play-the-royal-game-of-ur/"/>
    <updated>2017-04-25T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2017/04/25/how-to-play-the-royal-game-of-ur</id>
+   <id>http://richgames.xyz/2017/04/25/how-to-play-the-royal-game-of-ur</id>
    <content type="html">&lt;p&gt;The Royal Game of Ur dates back to 2600 B.C.  It is the most complete ancient board game known to date. In 1926, Sir Leonard Woolley discovered the board and pieces while excavating the royal tombs in Ur (modern day Iraq).  British Museum’s curator Irving Finkel &lt;a href=&quot;https://www.youtube.com/watch?v=wHjznvH54Cw&quot;&gt;discovered the rules&lt;/a&gt; on a cuneiform tablet where both the &lt;a href=&quot;http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=8817&amp;amp;partId=1&quot;&gt;board and tablet are on display&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;step-1-start-with-a-blank-board&quot;&gt;Step 1: Start with a Blank Board&lt;/h2&gt;
@@ -1687,9 +1750,9 @@ played on a 5x5 grid with 24 pieces (12 per player).&lt;/p&gt;
  
  <entry>
    <title>How to Play French Military Game</title>
-   <link href="http://localhost:4000/2017/02/20/how-to-play-french-military-game/"/>
+   <link href="http://richgames.xyz/2017/02/20/how-to-play-french-military-game/"/>
    <updated>2017-02-20T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2017/02/20/how-to-play-french-military-game</id>
+   <id>http://richgames.xyz/2017/02/20/how-to-play-french-military-game</id>
    <content type="html">&lt;p&gt;The French Military Game is a 19th century game played with just 4 pieces: 3 hunters and 1 prey.
 It was popular among French officers during the Franco-Prussian War of 1870-71.
 Also known as Hare &amp;amp; Hounds, it is one of the smallest hunt games.  Mathematician Martin
@@ -1723,9 +1786,9 @@ the game “combines extreme simplicity with extraordinary strategic subtley.”
  
  <entry>
    <title>How to Play Fanorona</title>
-   <link href="http://localhost:4000/2016/12/31/how-to-play-fanorona/"/>
+   <link href="http://richgames.xyz/2016/12/31/how-to-play-fanorona/"/>
    <updated>2016-12-31T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2016/12/31/how-to-play-fanorona</id>
+   <id>http://richgames.xyz/2016/12/31/how-to-play-fanorona</id>
    <content type="html">&lt;p&gt;Fanorona is a game from Madagascar that dates back to 1680.  It is a beautiful game
 played with 44 pieces (22 per player) and has a unique method of capturing.
 The game has experienced a bit of a revival in modern times due to its &lt;a href=&quot;https://www.youtube.com/watch?v=Vn5WIwlYY6Y&quot;&gt;inclusion
@@ -1763,9 +1826,9 @@ game alquerque, the unique capturing methods makes it stand solidly on its own.&
  
  <entry>
    <title>How to Play Sea Battle Tafl</title>
-   <link href="http://localhost:4000/2016/11/06/how-to-play-sea-battle-tafl/"/>
+   <link href="http://richgames.xyz/2016/11/06/how-to-play-sea-battle-tafl/"/>
    <updated>2016-11-06T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2016/11/06/how-to-play-sea-battle-tafl</id>
+   <id>http://richgames.xyz/2016/11/06/how-to-play-sea-battle-tafl</id>
    <content type="html">&lt;p&gt;Sea Battle Tafl is a modern variation of hnefatafl.  It is played on a 9x9 board with a total 25 of pieces much like &lt;a href=&quot;http://richgames.xyz/2016/09/25/how-to-play-tablut/&quot;&gt;Tablut&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;step-1-arrange-the-pieces&quot;&gt;Step 1: Arrange the Pieces&lt;/h2&gt;
@@ -1804,9 +1867,9 @@ The attacker/pirate ship pieces surround the defenders making a cross symbol.&lt
  
  <entry>
    <title>Do-It-Yourself: Casting a Resin King</title>
-   <link href="http://localhost:4000/2016/10/27/diy-resin-king/"/>
+   <link href="http://richgames.xyz/2016/10/27/diy-resin-king/"/>
    <updated>2016-10-27T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2016/10/27/diy-resin-king</id>
+   <id>http://richgames.xyz/2016/10/27/diy-resin-king</id>
    <content type="html">&lt;p&gt;One of the many enduring qualities of tafl games is the simplicity of the pieces.   No matter what size board or what rule variation (with perhaps the exception of &lt;a href=&quot;http://aagenielsen.dk/berserk_rules.php&quot;&gt;Berserk Hnefatafl&lt;/a&gt;), a set only need pieces of 3 distinctions: attackers, defenders and a king.  This makes it easier to create your own set.  It is common to see decorative glass gems as hnefatafl pieces.  In the &lt;a href=&quot;http://www.richgames.xyz/2016/10/24/diy-brandub/&quot;&gt;last post&lt;/a&gt;, we started to make a &lt;a href=&quot;http://www.richgames.xyz/2016/09/18/basic-brandub/&quot;&gt;Basic Brandub&lt;/a&gt; game with these.  Let’s upgrade the set a bit with a hand-casted resin king piece.&lt;/p&gt;
 
 &lt;p&gt;Tucked away in a drawer, I had an old chess pawn given to me by my best friend in grade school.  I’ve had this pawn since I was 7 or 8 years old.  It reminds me of my first friendship and being that tafl games are great to play with friends, it was a fitting piece to cast.  Obviously, pick an item that works for you and give your set a personal touch.&lt;/p&gt;
@@ -1828,9 +1891,9 @@ The attacker/pirate ship pieces surround the defenders making a cross symbol.&lt
  
  <entry>
    <title>Do-It-Yourself: Make a Brandub Set</title>
-   <link href="http://localhost:4000/2016/10/24/diy-brandub/"/>
+   <link href="http://richgames.xyz/2016/10/24/diy-brandub/"/>
    <updated>2016-10-24T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2016/10/24/diy-brandub</id>
+   <id>http://richgames.xyz/2016/10/24/diy-brandub</id>
    <content type="html">&lt;p&gt;Making board games can be a fun, creative and sometimes frustrating adventure. There is something wonderful about playing a game with family and friends on something created by your own hands.  This is the first in a series of Do-It-Yourself blog articles on how to do just that and some of the lessons learned in the process. In this first article, we will describe the beginnings steps in making a &lt;a href=&quot;/2016/09/18/basic-brandub/&quot;&gt;Basic Brandub&lt;/a&gt; set.&lt;/p&gt;
 
 &lt;h2 id=&quot;the-board&quot;&gt;The Board&lt;/h2&gt;
@@ -1857,9 +1920,9 @@ found in hobby stores for decorative purposes.  &lt;a href=&quot;http://www.hobb
  
  <entry>
    <title>How to Play Fetlar Hnefatafl</title>
-   <link href="http://localhost:4000/2016/10/12/how-to-play-fetlar-hnefatafl/"/>
+   <link href="http://richgames.xyz/2016/10/12/how-to-play-fetlar-hnefatafl/"/>
    <updated>2016-10-12T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2016/10/12/how-to-play-fetlar-hnefatafl</id>
+   <id>http://richgames.xyz/2016/10/12/how-to-play-fetlar-hnefatafl</id>
    <content type="html">&lt;p&gt;The Fetlar rule variant is a common and popular way to play hnefatafl on a 11x11 board. There are 37 total pieces,
 24 attackers, 12 defenders and 1 king.&lt;/p&gt;
 
@@ -1900,9 +1963,9 @@ The attacker pieces surround the defenders along the perimeter of the board.&lt;
  
  <entry>
    <title>A Review of The Lewis Chessmen Unmasked</title>
-   <link href="http://localhost:4000/2016/10/07/lewis-chessmen-unmasked-review/"/>
+   <link href="http://richgames.xyz/2016/10/07/lewis-chessmen-unmasked-review/"/>
    <updated>2016-10-07T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2016/10/07/lewis-chessmen-unmasked-review</id>
+   <id>http://richgames.xyz/2016/10/07/lewis-chessmen-unmasked-review</id>
    <content type="html">&lt;p&gt;Any fascination with the ancient game of hnefatafl will eventually lead to the Lewis Chessmen.  The most commercially available set, &lt;a href=&quot;https://amzn.to/2X1KfPw&quot;&gt;The Viking Game&lt;/a&gt; uses pieces inspired by them. The more motivated enthusiast have used them in DIY sets and their Norse origin is undeniable.  There are a ton of books out there about the Lewis Chessmen. The British Museum and the National Museum of Scotland put on a joint exhibition (not all the pieces belong to one museum) in 2010. &lt;a href=&quot;https://amzn.to/2YhtUmw&quot;&gt;&lt;em&gt;The Lewis Chessmen: Unmasked&lt;/em&gt; by David Caldwell&lt;/a&gt; is the companion book to that exhibition.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.britishmuseum.org/about_us/news_and_press/statements/the_lewis_chessmen.aspx&quot;&gt;The Lewis Chessmen&lt;/a&gt; is a collection of chess pieces dating back to the 12th century.  They were found accidentally in the
@@ -1917,9 +1980,9 @@ Though it is a pale substitute for viewing the chessmen in real life, it does a 
  
  <entry>
    <title>How to Play Tablut</title>
-   <link href="http://localhost:4000/2016/09/25/how-to-play-tablut/"/>
+   <link href="http://richgames.xyz/2016/09/25/how-to-play-tablut/"/>
    <updated>2016-09-25T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2016/09/25/how-to-play-tablut</id>
+   <id>http://richgames.xyz/2016/09/25/how-to-play-tablut</id>
    <content type="html">&lt;p&gt;Tablut is played on a 9x9 board with a total 25 of pieces.  This includes 16 attackers, 8 defenders and 1 king.
 It was played in Lapland as late as the 18th century and is the most documented hnefatafl game thanks to Swedish botanist Carl Linneaus.  In 1732, while touring the area he came across the game played by the locals and &lt;a href=&quot;https://archive.org/stream/ungdomsskrifter02linne#page/n155/mode/2up&quot;&gt;described it in his diary&lt;/a&gt;.&lt;/p&gt;
 
@@ -1962,9 +2025,9 @@ The attacker pieces surround the defenders making a cross symbol.&lt;/p&gt;
  
  <entry>
    <title>How to Play Brandub</title>
-   <link href="http://localhost:4000/2016/09/20/how-to-play-brandub/"/>
+   <link href="http://richgames.xyz/2016/09/20/how-to-play-brandub/"/>
    <updated>2016-09-20T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2016/09/20/how-to-play-brandub</id>
+   <id>http://richgames.xyz/2016/09/20/how-to-play-brandub</id>
    <content type="html">&lt;p&gt;Brandub is an Irish variant of hnefatafl.  It is played on a 7x7 board with 13 pieces.
 Although it is the tiny sibling of all the hnefatafl games, it is just as fun and strategic.&lt;/p&gt;
 
@@ -2011,9 +2074,9 @@ The attacker pieces surround the defenders making a cross symbol.&lt;/p&gt;
  
  <entry>
    <title>What is Hnefatafl?</title>
-   <link href="http://localhost:4000/2016/09/19/what-is-hnefatafl/"/>
+   <link href="http://richgames.xyz/2016/09/19/what-is-hnefatafl/"/>
    <updated>2016-09-19T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2016/09/19/what-is-hnefatafl</id>
+   <id>http://richgames.xyz/2016/09/19/what-is-hnefatafl</id>
    <content type="html">&lt;p&gt;Besides it’s somewhat unfortunate name, hnefatafl (pronounced “neffa-taffle”) is a wonderful ancient game the Vikings played.  Commonly thought
 to be a predecessor of chess, it is much simpler but just as addicting.  Originally from
 Scandanavia, as the Vikings migrated (a.k.a. raided other regions) they brought hnefatafl with
@@ -2045,9 +2108,9 @@ Hnefatafl is not a game most people know about.  But it’s certainly a game tha
  
  <entry>
    <title>Basic Brandub</title>
-   <link href="http://localhost:4000/2016/09/18/basic-brandub/"/>
+   <link href="http://richgames.xyz/2016/09/18/basic-brandub/"/>
    <updated>2016-09-18T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2016/09/18/basic-brandub</id>
+   <id>http://richgames.xyz/2016/09/18/basic-brandub</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/brandub-product.jpg&quot; alt=&quot;Brandub&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Brandub is the Irish variant of the ancient Viking game of hnefatafl.&lt;/p&gt;
@@ -2069,9 +2132,9 @@ each set a unique rustic character.&lt;/p&gt;
  
  <entry>
    <title>A Review of The Leprechaun Companion</title>
-   <link href="http://localhost:4000/2016/09/06/leprechaun-companion/"/>
+   <link href="http://richgames.xyz/2016/09/06/leprechaun-companion/"/>
    <updated>2016-09-06T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2016/09/06/leprechaun-companion</id>
+   <id>http://richgames.xyz/2016/09/06/leprechaun-companion</id>
    <content type="html">&lt;p&gt;The Leprechaun Companion is a wonderfully illustrated and imaginative book. It was written by Nigel Suckling, though you would be hard-pressed to actually find a copy with that name on it. He wrote this particular book under the pen name, Niall Macnamara, the name given to him by the leprechauns.&lt;/p&gt;
 
 &lt;p&gt;I originally purchased this book in order to read a bit more about &lt;a href=&quot;http://www.unicorngarden.com/magpie.htm&quot;&gt;Magpie&lt;/a&gt;, a modern variation of brandub. Brandub is an Irish variant of hneftafl played on a 7x7 board. The author takes brandub and reimagines it with a leprechaun theme. The king is replaced with a leprechaun who is only allowed to move one space at a time due to the weight of his pot of gold. The defenders are the leprechaun’s friends assisting him to escape to a corner and the attackers are thieves trying to steal the gold. Gameplay is essentially the same as brandub with this exception (one space moves for the king piece) and the leprechaun needs to be surrounded on 4 sides in order to be captured (or 3 sides if standing next to the central square, corner squares or edge).&lt;/p&gt;
@@ -2087,9 +2150,9 @@ each set a unique rustic character.&lt;/p&gt;
  
  <entry>
    <title>A Review On The Hnefatafl Books by Damian Walker</title>
-   <link href="http://localhost:4000/2016/07/27/hnefatafl-book-reviews/"/>
+   <link href="http://richgames.xyz/2016/07/27/hnefatafl-book-reviews/"/>
    <updated>2016-07-27T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2016/07/27/hnefatafl-book-reviews</id>
+   <id>http://richgames.xyz/2016/07/27/hnefatafl-book-reviews</id>
    <content type="html">&lt;p&gt;I grew up playing board games.  My uncle taught me at a very early age how to play classic
 Western games such as chess and checkers.  He also taught me how to play games relating to our Chinese
 culture and heritage such as &lt;a href=&quot;https://en.wikipedia.org/wiki/Jungle_(board_game)&quot;&gt;dou shou qui&lt;/a&gt;

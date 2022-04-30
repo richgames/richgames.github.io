@@ -4,13 +4,32 @@
  <title>Rich Games</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-03-05T14:43:14-08:00</updated>
+ <updated>2022-04-30T14:02:28-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Liz Lam</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Some Quick Thoughts on Simple Chess Variants by G.P. Jellis</title>
+   <link href="http://localhost:4000/2022/04/30/simple-chess-variants/"/>
+   <updated>2022-04-30T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2022/04/30/simple-chess-variants</id>
+   <content type="html">&lt;p&gt;Simple Chess Variants by G.P. Jellis is a densely packed booklet that describes many 
+chess variants in just 14 short pages.  It is &lt;a href=&quot;https://www.mayhematics.com/v/simplevariants.pdf&quot;&gt;available to read&lt;/a&gt; on his website in PDF format.  The booklet feels almost like an academic paper where Jellis covers many topics of “simple” variants.  He is quite restrictive on what is considered a “chess variant”, so you won’t find varieties that fall too far away from the chess game we all know and love.  This sentiment is best described by a quote from the booklet.&lt;/p&gt;
+
+&lt;p&gt;“In most of the variants selected here the aim is checkmate of a royal piece. In my view it is questionable whether games with other objectives are chess at all! Games for more than two players, or on special boards, or requiring other equipment are mostly excluded, as are variants that appear to me to be entirely arbitrary.”&lt;/p&gt;
+
+&lt;p&gt;In some ways, I appreciate this boundary since I’ve see many games as “chess like” or a “chess variant” that doesn’t feel like chess to me at all.&lt;/p&gt;
+
+&lt;p&gt;I also found the content interesting for a different reason.  I’ve been experimenting with designing abstract games.  This is a little treasure trove of different types of moves and rules (albeit in a chess context) that 
+is great for considering game design in general.&lt;/p&gt;
+
+&lt;p&gt;For a quick introduction to different types of “simple” chess variants, give the booklet a read.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Many Chess Tutorials with Triple S Games</title>

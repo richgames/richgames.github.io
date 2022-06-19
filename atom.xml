@@ -4,13 +4,58 @@
  <title>Rich Games</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-04-30T20:31:51-07:00</updated>
+ <updated>2022-06-18T19:15:10-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Liz Lam</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Recreating Straits</title>
+   <link href="http://localhost:4000/2022/06/18/recreating-straits/"/>
+   <updated>2022-06-18T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2022/06/18/recreating-straits</id>
+   <content type="html">&lt;p&gt;Straits is a chess-like game created by Anne Marriott Watson and patented in 1893 (now in the public domain).
+Not much is known about Anne Marriott Watson other than what is in the first paragraph of the &lt;a href=&quot;https://patents.google.com/patent/US498702&quot;&gt;patent&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;“Be it known that I, Anne Marriott Watson, a gentlewoman, a subject of the Queen of Great Britain, residing at Parkins’ Land, Eastleigh, Southampton, in the county of Hants, England, have invented a new or Improved Game, or which the following is a specification.”&lt;/p&gt;
+
+&lt;p&gt;I discovered Straits perusing boardgamegeek.com and was immediately fascinated by the hourglass shaped board and pieces.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/straits-diagram-patent.png&quot; alt=&quot;Diagram from patent&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The rules are fairly simple and there are only 4 types of pieces.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1 Flag ship - moves like queen in chess (figure 2).&lt;/li&gt;
+  &lt;li&gt;7 Turret ships - moves like a rook in chess (figure 3).&lt;/li&gt;
+  &lt;li&gt;8 Torpedo boats - moves like a bishop in chess (figure 5).&lt;/li&gt;
+  &lt;li&gt;3 Gun boats - (a pawn-like piece) moves 1 square any direction but can only capture diagonally (figure 4).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The winning condition is to either move your Flag ship into the center square or checkmate the other player’s Flag ship.&lt;/p&gt;
+
+&lt;p&gt;With a desire to recreate this game, I started modeling the pieces in &lt;a href=&quot;https://www.tinkercad.com/&quot;&gt;Tinkercad&lt;/a&gt; so that I could 3D print them.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/straits-models.png&quot; alt=&quot;Tinkercad preview&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It was this process where I started noticing some interesting similarities with the piece’s chess counterparts.
+For example, the Gun boat with its sphere top resembles a pawn.  The Flag ship is a tallest piece which makes it easy to remember as the most important. The Turret ship with it’s cylindrical flat top looks almost like a rook piece.  And finally the Torpedo comes to a point at the top much like a bishop.  It’s impossible to say if these designs were done this way intentionally.  But I can imagine a game designer thinking of a way to provide visual clues to remember how each piece moves.  In fact, this is how I remember when playing the game.&lt;/p&gt;
+
+&lt;p&gt;Next, I needed the board.  I did a quick sketch using Excalidraw.  It does the job, but at some point I would love to have a nicer looking board.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/straits-board.png&quot; alt=&quot;Board&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;With the pieces and board printed, I was able to play a few rounds and really enjoyed it!  Before discovering Straits, I had no idea who Anne Marriott Watson.  Recreating her game almost felt like a journey of getting to know her.  It’s amazing to think that this game may not of been played in over 100 years, but with a little curiosity and modern day technology, I was able to bring it back from the forgotten depths of expired patents.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/straits-pieces.jpg&quot; alt=&quot;Straits&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Feel free to grab all the files from the &lt;a href=&quot;https://boardgamegeek.com/boardgame/35601/straits&quot;&gt;Straits BoardGameGeek page&lt;/a&gt;.  I hope you enjoy it as much as I did.&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Some Quick Thoughts on Simple Chess Variants by G.P. Jelliss</title>

@@ -4,7 +4,7 @@
  <title>Rich Games</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-07-31T17:18:52-07:00</updated>
+ <updated>2022-08-02T19:57:03-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Liz Lam</name>
@@ -19,10 +19,10 @@
    <id>http://localhost:4000/2022/07/31/recreating-chessers</id>
    <content type="html">&lt;p&gt;There many out of print abstract games out there and some are easier to recreate than others.  Among those in the “easier” category is a game designed by John G. Hunter in 1960 called Chessers.  A cross between checkers and chess, hence the combination of the name, it requires just a few simple pieces and an 8x8 chess board.&lt;/p&gt;
 
-&lt;p&gt;The Pieces
-1 King - shaped like an “x” and moves like a king in chess (1 space any direction).
-2 Circle pieces - moves up to 2 spaces in any direction.
-3 Triangle pieces -  moves up to 3 spaces diagonally (like a limited bishop).
+&lt;p&gt;&lt;strong&gt;The Pieces&lt;/strong&gt;  &lt;br /&gt;
+1 King - shaped like an “x” and moves like a king in chess (1 space any direction).  &lt;br /&gt;
+2 Circle pieces - moves up to 2 spaces in any direction.  &lt;br /&gt;
+3 Triangle pieces -  moves up to 3 spaces diagonally (like a limited bishop).  &lt;br /&gt;
 4 Square pieces - moves up to 4 spaces orthogonally.&lt;/p&gt;
 
 &lt;p&gt;The pieces are set up with the Kings in the opposite corners, followed by the 2 Circles, 3 Triangles and 4 Squares. There is no jumping and a player must move a piece’s maximum range to capture.

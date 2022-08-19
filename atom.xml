@@ -4,13 +4,27 @@
  <title>Rich Games</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-08-02T19:57:03-07:00</updated>
+ <updated>2022-08-18T21:44:27-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Liz Lam</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Rich Games on Thingiverse</title>
+   <link href="http://localhost:4000/2022/08/18/rich-games-on-thingiverse/"/>
+   <updated>2022-08-18T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2022/08/18/rich-games-on-thingiverse</id>
+   <content type="html">&lt;p&gt;Just a quick note to say that Rich Games is on &lt;a href=&quot;https://www.thingiverse.com/richgames/designs&quot;&gt;Thingiverse&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/richgames-thingiverse.png&quot; alt=&quot;Thingiverse site&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Actually, I’ve had an account on there for some time now but haven’t really gotten into creating models until more recently.  I am planning for this to be a hub of models for more of my experiments with out of print abstract strategy games as well as some original ones I have in mind.  Feel free to check it out from time to time and enjoy!&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Recreating Chessers</title>

@@ -4,13 +4,95 @@
  <title>Rich Games</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-11-15T09:45:56-08:00</updated>
+ <updated>2023-03-11T21:23:48-08:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Liz Lam</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>3D Printed Jetan Pieces</title>
+   <link href="http://localhost:4000/2023/03/11/3d-printed-jetan/"/>
+   <updated>2023-03-11T00:00:00-08:00</updated>
+   <id>http://localhost:4000/2023/03/11/3d-printed-jetan</id>
+   <content type="html">&lt;p&gt;Jetan is a chess-like game brought to life on the pages of the Barsoom book series by Edgar Rice Burroughs.  The series starts off centering around John Carter and his adventures on the Martian landscape.  In book 5, &lt;strong&gt;&lt;em&gt;The Chessmen of Mars&lt;/em&gt;&lt;/strong&gt;, the game is introduced with its origins and rules of play.&lt;/p&gt;
+
+&lt;p&gt;The rules of play as written by Burroughs is ambiguous at times causing some
+dispute.  In trying to create 3d models, I adapted the rules that were written by Fredrik Ekman in [his book], (https://mcfarlandbooks.com/product/jetan/) &lt;strong&gt;&lt;em&gt;Jetan: The Martian Chess of Edgar Rice Burroughs&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;These pieces were designed with the idea that John Carter may have found some ancient pieces that were more rudimentary and abstract like our own ancient chess pieces (see Nishapur chess pieces). I also like the idea of the shapes informing how the pieces move so I drew some inspiration from the Bauhaus chess pieces.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;SIDE NOTE:  Jetan is played on a 10x10 board with orange and black squares.  This is not exactly a standard size chess grid or colors, but I was able to pick up a black and white one by the folks who sell &lt;a href=&quot;https://www.ebay.com/itm/284430073573&quot;&gt;Musketeer Chess on eBay&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;setup&quot;&gt;Setup&lt;/h2&gt;
+&lt;p&gt;Each player has 1 chief, 1 princess, 2 fliers, 2 dwars, 2 padwars, 2 warriors, 2 thoats and 8 panthans.&lt;/p&gt;
+
+&lt;p&gt;The pieces are setup on a 10x10 grid much like chess in this order:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[thoat, 8 panthans, thoat]&lt;/strong&gt;  &lt;br /&gt;
+&lt;strong&gt;[warrior, padwar, dwar, flier, chief, princess, flier, dwar, padwar, warrior]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/jetan/ancient-jetan.jpg&quot; alt=&quot;Board setup&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;movement&quot;&gt;Movement&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Panthan&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The panthan moves 1 step forward, diagonal or to the side and never backwards.
+The panthan pieces were designed with semi-circle in front as a visual clue to its movement.  It can move to any adjacent square with a line of sight to the semi-circle.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/jetan/aj-panthan.jpg&quot; alt=&quot;Panthan&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Thoat&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The thoat moves 1 step orthogonally and then 1 step diagonally.  Since the thoat has a 2 step move, I created this piece with 2 “steps”.  The bottom being a cube to represent the orthogonal move and the top being a diamond (or rotated cube) to represent a diagonal move.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/jetan/aj-thoat.jpg&quot; alt=&quot;Thoat&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Warrior&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The warrior moves 2 steps orthogonally.  Another 2 step piece constructed with 2 cubes to show the piece’s movement.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/jetan/aj-warrior.jpg&quot; alt=&quot;Warrior&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Padwar&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The padwar moves 2 steps diagonally.  This is where I depart from the “step” design and combined 2 diamond shapes (rotated cubes) to create 2 corners in the front and back of the piece to represent its movement.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/jetan/aj-padwar.jpg&quot; alt=&quot;Padwar&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dwar&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The dwar moves 3 steps orthogonally.  A 3 step piece constructed with 3 cubes to represent those 3 orthogonal movements.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/jetan/aj-dwar.jpg&quot; alt=&quot;Dwar&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Flier&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The flier moves 3 steps orthogonally.  Again, departing from the “step” design, combining 3 diamond shapes to create 3 corners in front and back to visually hint at this movement.   The flier is also able to jump over pieces (i.e. the path to its target square does not need to be clear).  I would like to add some visual indicator for this but did not in this iteration.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/jetan/aj-flier.jpg&quot; alt=&quot;Flier&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Princess&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The princess moves 3 steps using any combination of orthogonal and/or diagonal steps and can also jump.  This piece can NOT capture other pieces and one time during the game may move 10 steps (any combination) to escape from danger.  I can’t say too many design decisions were made to help show these moves.  I just created this piece to be unique and different from the others.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/jetan/aj-princess.jpg&quot; alt=&quot;Princess&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chief&lt;/strong&gt;  &lt;br /&gt;
+The chief moves like the princess but is able to capture and can not jump.  Like the princess, this piece was created just to be unique from the others.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/jetan/aj-chief.jpg&quot; alt=&quot;Chief&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A player wins when their chief captures the opponent’s chief or when any piece captures the princess.  If a non-chief piece captures the chief it considered a draw.&lt;/p&gt;
+
+&lt;p&gt;As a fan of the book series and abstract strategy games, this was a fun project to work on.  I found that although my daughters (6 and 8) were unable to remember all the names of the pieces, they were pretty much able to play the game with me after 1 explanation of the pieces.   I will consider that a win.  :)&lt;/p&gt;
+
+&lt;p&gt;All the &lt;a href=&quot;https://www.thingiverse.com/thing:5871629&quot;&gt;models up on Thingiverse&lt;/a&gt;.  Feel free to give it a try and let me know what you think at &lt;a href=&quot;https://twitter.com/richfamilygames&quot;&gt;@richfamilygames&lt;/a&gt;!&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Some Quick Thoughts on Hnefatafl by Jonathon George</title>

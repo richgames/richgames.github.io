@@ -4,13 +4,34 @@
  <title>Rich Games</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-05-09T21:51:02-07:00</updated>
+ <updated>2023-09-19T23:16:49-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Liz Lam</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Quick Thoughts on The Way of Tori Shogi</title>
+   <link href="http://localhost:4000/2023/09/19/way-tori-shogi/"/>
+   <updated>2023-09-19T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2023/09/19/way-tori-shogi</id>
+   <content type="html">&lt;p&gt;I just finished &lt;em&gt;The Way of Tori Shogi&lt;/em&gt; by Dave Brandl and Bill Croke and wanted
+to jot down a few quick thoughts about it.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;This is a good introduction to Tori Shogi.&lt;/li&gt;
+  &lt;li&gt;It’s short and casual but also has a lot of depth for serious players.&lt;/li&gt;
+  &lt;li&gt;It’s really nice to see books dedicated to Shogi variants.&lt;/li&gt;
+  &lt;li&gt;The book is written through the lens of Miyamoto Musashi (a 17th century philosopher and swordsman) writings.&lt;/li&gt;
+  &lt;li&gt;I generally liked the format but it felt too philosophical or poetic at times.&lt;/li&gt;
+  &lt;li&gt;The $20 price tag was a bit high for such a thin hardback book.  I would have preferred a $10 paperback.&lt;/li&gt;
+  &lt;li&gt;Overall, it was a nice book to add to my library.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>ChatGPT Writes Me a Hnefatafl Blog</title>
